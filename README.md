@@ -1,10 +1,10 @@
 ## 3rd Party Apps & Tools
 
-There are those who play Eve Online using the game's given UI and there are those who manipulate the data and create tools to work within the Eve Online Univerise. This is an attempt to keep an updated and maintained list some of the many great tools and applications.
+There are those who play Eve Online using the game's given UI and there are those who manipulate the data and create tools to work within the Eve Online Universe. This is an attempt to keep an updated and maintained list some of the many great tools and applications.
 
 Process to be listed:
 
-* Create an Issue, or even better yet a Pull Request with the name of your tool, the URL (or app name) of your tool, a category it should go into, and a very brief description of what it does.
+* Create an issue, or even better yet a pull request with the name of your tool, the URL (or app name) of your tool, a category it should go into, and a very brief description of what it does.
 * Your product should be user friendly and beyond "beta" stages.
 * If approved, it will be added! Yay!
 
@@ -44,7 +44,7 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 **Misc**
 
 * [Eve-Files](http://www.eve-files.com/) - Upload Eve related files for sharing.
-* * [Fuzzworks](http://www.fuzzwork.co.uk) - Fuzzworks - many very, very useful tools including but not limited to Industry, stats, calculators, and route planners.
+* [Fuzzworks](http://www.fuzzwork.co.uk) - Fuzzworks - many very, very useful tools including but not limited to Industry, stats, calculators, and route planners.
 
 **Skills**
 
