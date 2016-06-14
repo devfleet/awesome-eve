@@ -20,6 +20,7 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 
 * [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documetation for official Eve Online endpoints.
 * [EveWho's API](http://evewho.com/faq/) - EveWho's API
+* [Google CREST Script](https://github.com/nuadi/googlecrestscript) - Designed for use in Google Sheets
 * [Other Documentation](https://www.reddit.com/r/evetech/comments/4mwgb7/documentation/) - More Documentation for other tools and endpoints can be found in this Reddit post.
 * [PL APIs](https://tools.pandemic-legion.pl/api/) - PL provided list of apis
 
