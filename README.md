@@ -19,6 +19,8 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [Google CREST Script](https://github.com/nuadi/googlecrestscript) - Designed for use in Google Sheets
 * [Other Documentation](https://www.reddit.com/r/evetech/comments/4mwgb7/documentation/) - More Documentation for other tools and endpoints can be found in this Reddit post.
 * [PL APIs](https://tools.pandemic-legion.pl/api/) - PL provided list of apis
+* [Fuzzwork Map API](https://www.fuzzwork.co.uk/tools/api-map-data/) - A number of map based APIs
+* [Fuzzwork typename API](https://www.fuzzwork.co.uk/tools/api-typename-to-typeid/) - Typename to typeid API
 
 
 **Fitting**
@@ -52,3 +54,9 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [EveMon](https://evemondevteam.github.io/evemon/) - a lightweight, easy-to-use standalone Windows application designed to assist you in keeping track of your EVE Online character progression
 * [EveSP](https://evesp.com/) - Web 'app' to quickly view the skills of a character along with the ships that they can currently fly. 
 * [Vitality](https://github.com/sixones/vitality/releases) - Mac skill planner. Requires circumventing of "can’t be opened because it is from an unidentified developer."
+
+**Resources**
+
+* [Official Resources](https://developers.eveonline.com/resource/resources) - CCP's developer site, including the SDE and image collection
+* [Fuzzwork SDE Conversions](https://www.fuzzwork.co.uk/dump/) - SDE conversions, to Mysql, sqlite, postgres and CSV.
+* [Fuzzwork SDE Converter](https://github.com/fuzzysteve/yamlloader) - The conversion tool for going from the official yaml SDE to one in a DB.
