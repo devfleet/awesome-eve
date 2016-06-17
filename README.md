@@ -42,6 +42,8 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 
 * [Eve Traders Handbook](http://matthewpennell.github.io/eve-traders-handbook/) - a multi-purpose web application for traders, importers, and manufacturers 
 * [Eve Trade Master](http://evetrademaster.com) - web based profit tracking, sales reporting, trade simulator and inventory management tool.
+* [Evernus](http://evernus.com/) - Inventory and market data (Windows/MacOSX application)
+* [ISK Per Hour](https://eveiph.github.io/) EVE - Isk per Hour is a Windows program that allows players of EVE Online to determine ways to maximize their Isk per Hour through manufacturing, mining, invention, and reverse engineering.
 
 **Misc**
 
