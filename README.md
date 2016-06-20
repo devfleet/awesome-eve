@@ -31,7 +31,7 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
 
 **Intel**
-
+* [Eve Gate Camp Check](EVE Gatecamp Check) - Navigation specifically tuned towards kills happening at gates.
 * [EveWho](http://evewho.com) - List members of a corp or alliance from out of game.
 
 **Killboards**
