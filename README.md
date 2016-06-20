@@ -21,6 +21,7 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [PL APIs](https://tools.pandemic-legion.pl/api/) - PL provided list of apis.
 * [Fuzzwork Map API](https://www.fuzzwork.co.uk/tools/api-map-data/) - A number of map based APIs.
 * [Fuzzwork typename API](https://www.fuzzwork.co.uk/tools/api-typename-to-typeid/) - Typename to typeid API.
+* [SDE RESTful API](http://jetbalsa.com/doku.php?id=sdeapi): Access to the full SDE over a JSON/REST API.
 
 
 **Fitting**
