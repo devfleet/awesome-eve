@@ -21,11 +21,12 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [PL APIs](https://tools.pandemic-legion.pl/api/) - PL provided list of apis.
 * [Fuzzwork Map API](https://www.fuzzwork.co.uk/tools/api-map-data/) - A number of map based APIs.
 * [Fuzzwork typename API](https://www.fuzzwork.co.uk/tools/api-typename-to-typeid/) - Typename to typeid API.
-* [SDE RESTful API](http://jetbalsa.com/doku.php?id=sdeapi): Access to the full SDE over a JSON/REST API.
+* [SDE RESTful API](http://jetbalsa.com/doku.php?id=sdeapi) - Access to the full SDE over a JSON/REST API.
 
 
 **Fitting**
 
+* [EFT](https://forums.eveonline.com/default.aspx?g=posts&t=24359) - Eve Fitting Tool (Windows).
 * [Osmium](https://o.smium.org/) - Browser based fitting tool and loadout sharing platform.
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
 
