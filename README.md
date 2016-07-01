@@ -30,6 +30,9 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [Osmium](https://o.smium.org/) - Browser based fitting tool and loadout sharing platform.
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
 
+**Fleet Tools**
+* [Fleet-up](http://fleet-up.com/) - Designed to help corporations & alliances manage their fittings, doctrines, operations and fleets.
+
 **Intel**
 * [Eve Gate Camp Check](http://eve-gatecheck.space/eve/) - Navigation specifically tuned towards kills happening at gates.
 * [EveWho](http://evewho.com) - List members of a corp or alliance from out of game.
