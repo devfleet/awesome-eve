@@ -43,6 +43,10 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [Eve-Kill](https://eve-kill.net/) - "All your kills are belong to us".
 * [zKillboard](https://zkillboard.com) - A website for killmail presentation and statistical aggregation.
 
+***Killboard Utilities***
+* [RedisQ](https://github.com/zKillboard/RedisQ) - A simple queue service for "pushing" killmails from zKillboard.
+* [evf-eve](http://evf-eve.com/services/brcat/) - Tool for generating battle reports from killmails held on zKillboard.com
+
 **Market**
 
 * [Eve Traders Handbook](http://matthewpennell.github.io/eve-traders-handbook/) - a multi-purpose web application for traders, importers, and manufacturers.
