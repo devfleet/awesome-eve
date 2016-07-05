@@ -36,6 +36,9 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 **Intel**
 * [Eve Gate Camp Check](http://eve-gatecheck.space/eve/) - Navigation specifically tuned towards kills happening at gates.
 * [EveWho](http://evewho.com) - List members of a corp or alliance from out of game.
+* [SeAT](https://github.com/eveseat/seat) - SeAT is a EVE Online Corporation Management Tool written in PHP.
+* [Eve Incursions](http://incursions.shadowlauch.de/) -  provides an overview of the current incursions, active communities and incursion rat information.
+* [Eve Overmind](https://www.eveovermind.com)
 
 **Killboards**
 
