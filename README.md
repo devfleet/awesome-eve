@@ -40,6 +40,11 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [Eve Incursions](http://incursions.shadowlauch.de/) -  provides an overview of the current incursions, active communities and incursion rat information.
 * [Eve Overmind](https://www.eveovermind.com)
 
+**Intel (Wormholes)**
+* [Tripwire](https://tripwire.eve-apps.com/) - wormhole mapping tool
+* [Siggy](https://siggy.borkedlabs.com/pages/welcome) - wormhole mapping tool
+* [Pathfinder](https://www.pathfinder-w.space/) - wormhole mapping tool
+
 **Killboards**
 
 * [Battleclinic](http://www.battleclinic.com/) - Now defunct, kept here for nostalgia's sake.
