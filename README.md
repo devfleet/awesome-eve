@@ -1,6 +1,6 @@
 ## 3rd Party Apps & Tools
 
-There are those who play Eve Online using the game's given UI and there are those who manipulate the data and create tools to work within the Eve Online Universe. This is an attempt to keep an updated and maintained list some of the many great tools and applications.
+There are those who play Eve Online using the game's given UI and there are those who manipulate the data and create tools to work within the Eve Online Universe. This is an attempt to keep an updated and maintained list of some of the many great tools and applications.
 
 Process to be listed:
 
@@ -14,7 +14,7 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 
 **API**
 
-* [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documetation for official Eve Online endpoints.
+* [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documentation for official Eve Online endpoints.
 * [EveWho's API](http://evewho.com/faq/) - EveWho's API.
 * [Google CREST Script](https://github.com/nuadi/googlecrestscript) - Designed for use in Google Sheets.
 * [Other Documentation](https://www.reddit.com/r/evetech/comments/4mwgb7/documentation/) - More Documentation for other tools and endpoints can be found in this Reddit post.
@@ -22,7 +22,9 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [Fuzzwork Map API](https://www.fuzzwork.co.uk/tools/api-map-data/) - A number of map based APIs.
 * [Fuzzwork typename API](https://www.fuzzwork.co.uk/tools/api-typename-to-typeid/) - Typename to typeid API.
 * [SDE RESTful API](http://jetbalsa.com/doku.php?id=sdeapi) - Access to the full SDE over a JSON/REST API.
-
+* [EveKit - Account](https://evekit.orbital.enterprises/#/main/news) - Capture EVE character and corporation data in the cloud (including complete history).  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
+* [EveKit - SDE](https://evekit.orbital.enterprises/#/sde/main) - Last two releases of the full SDE online.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
+* [EveKit - Proxy](https://evekit.orbital.enterprises/#/xmlapi/main) - A simple proxy which server the EVE Online XML API in JSON.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 
 **Fitting**
 
@@ -61,6 +63,7 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [Eve Trade Master](http://evetrademaster.com) - web based profit tracking, sales reporting, trade simulator and inventory management tool.
 * [Evernus](http://evernus.com/) - Inventory and market data (Windows/MacOSX application).
 * [ISK Per Hour](https://eveiph.github.io/) EVE - Isk per Hour is a Windows program that allows players of EVE Online to determine ways to maximize their Isk per Hour through manufacturing, mining, invention, and reverse engineering.
+* [EveKit - Market](https://evekit.orbital.enterprises/#/md/main) - Market price history and book data (including complete history).  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 
 **Misc**
 
