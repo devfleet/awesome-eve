@@ -64,6 +64,7 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [Evernus](http://evernus.com/) - Inventory and market data (Windows/MacOSX application).
 * [ISK Per Hour](https://eveiph.github.io/) EVE - Isk per Hour is a Windows program that allows players of EVE Online to determine ways to maximize their Isk per Hour through manufacturing, mining, invention, and reverse engineering.
 * [EveKit - Market](https://evekit.orbital.enterprises/#/md/main) - Market price history and book data (including complete history).  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
+* [EVEWalletAware](http://eve.basicaware.de/evewalletaware/index.html) - EVEWalletAware (EWA) is as an offline wallet viewer and trading/accounting helper. (Windows) 
 
 **Misc**
 
