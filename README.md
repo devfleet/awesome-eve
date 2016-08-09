@@ -71,6 +71,7 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [jeveassets](http://eve.nikr.net/jeveasset) - Asset viewer, with market values.
 * [Eve-Files](http://www.eve-files.com/) - Upload Eve related files for sharing.
 * [Fuzzworks](http://www.fuzzwork.co.uk) - Fuzzworks - many very, very useful tools including but not limited to Industry, stats, calculators, and route planners. [Fuzzwork github](https://github.com/fuzzysteve/)
+* [Destruct-Ore](http://www.eve-tools.net) - A Corporation Mining Op Scheduler/Manager with payment manager.
 
 **Skills**
 
