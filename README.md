@@ -85,3 +85,8 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [Official Resources](https://developers.eveonline.com/resource/resources) - CCP's developer site, including the SDE and image collection.
 * [Fuzzwork SDE Conversions](https://www.fuzzwork.co.uk/dump/) - SDE conversions, to Mysql, sqlite, postgres and CSV.
 * [Fuzzwork SDE Converter](https://github.com/fuzzysteve/yamlloader) - The conversion tool for going from the official yaml SDE to one in a DB.
+
+**SSO**
+
+* [CrestSSO](https://github.com/zKillboard/crestsso) - Simple CREST SSO library for PHP
+* [OAUTH2](https://github.com/killmails/oauth2-eve) - OAUTH2 library for working with Eve Online's SSO
