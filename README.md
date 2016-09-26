@@ -25,6 +25,8 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [EveKit - Account](https://evekit.orbital.enterprises/#/main/news) - Capture EVE character and corporation data in the cloud (including complete history).  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 * [EveKit - SDE](https://evekit.orbital.enterprises/#/sde/main) - Last two releases of the full SDE online.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 * [EveKit - Proxy](https://evekit.orbital.enterprises/#/xmlapi/main) - A simple proxy which server the EVE Online XML API in JSON.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
+* [Eve Central](https://eve-central.com/home/develop.html) - Price data API
+* [Eve MarketData](http://eve-marketdata.com/developers/index.php) - Price data API
 
 **Fitting**
 
