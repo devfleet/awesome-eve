@@ -27,6 +27,9 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [EveKit - Proxy](https://evekit.orbital.enterprises/#/xmlapi/main) - A simple proxy which server the EVE Online XML API in JSON.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 * [Eve Central](https://eve-central.com/home/develop.html) - Price data API
 * [Eve MarketData](http://eve-marketdata.com/developers/index.php) - Price data API
+* [Citadel API](https://stop.hammerti.me.uk/api) - JSON API linking citadel IDs/names/solar systems. Has [swagger definition](https://raw.githubusercontent.com/OrbitalEnterprises/swagger-specs/master/citadel-api.yaml).
+
+**Library**
 * [EveApi](https://github.com/ZyorTaelon/eveapi) - Java library to access the XML API
 * [Eve-CREST](https://github.com/burberius/eve-crest) - Java library to access the CREST API
 
