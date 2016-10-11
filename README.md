@@ -29,6 +29,10 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 * [Eve MarketData](http://eve-marketdata.com/developers/index.php) - Price data API
 * [Citadel API](https://stop.hammerti.me.uk/api) - JSON API linking citadel IDs/names/solar systems. Has [swagger definition](https://raw.githubusercontent.com/OrbitalEnterprises/swagger-specs/master/citadel-api.yaml).
 
+**Library**
+* [EveApi](https://github.com/ZyorTaelon/eveapi) - Java library to access the XML API
+* [Eve-CREST](https://github.com/burberius/eve-crest) - Java library to access the CREST API
+
 **Fitting**
 
 * [EFT](https://forums.eveonline.com/default.aspx?g=posts&t=24359) - Eve Fitting Tool (Windows).
