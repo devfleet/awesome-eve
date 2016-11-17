@@ -83,6 +83,7 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 
 **Skills**
 
+* [EVE-Skillplan.net](https://www.eve-skillplan.net) - Web based and responsive skill planner to plan and share your training using your favourite devices - PC/Mac, tablet or smartphone.
 * [EveBoard](http://eveboard.com/) - Character tracking. (needs better description).
 * [EveMon](https://evemondevteam.github.io/evemon/) - a lightweight, easy-to-use standalone Windows application designed to assist you in keeping track of your EVE Online character progression.
 * [EveSP](https://evesp.com/) - Web 'app' to quickly view the skills of a character along with the ships that they can currently fly. 
