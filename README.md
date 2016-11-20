@@ -11,9 +11,17 @@ Process to be listed:
 Since Eve apps and websites come and go we will try to check each of the them periodically and keep the list up to date.
 
 ***
+## Introducing ESI
+
+If you've been under a rock you may not have noticed that CCP is launching a new API with the intentions of replacing the current XML and CREST APIs. Please read the devblog here: https://community.eveonline.com/news/dev-blogs/introducing-esi/
+
+You can participate in CCP dev and third party dev discussion by joining Tweetfleet on Slack and hopping into #esi
+
+***
 
 **API**
 
+* [ESI - Swagger API documentation](https://esi.tech.ccp.is/latest/)
 * [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documentation for official Eve Online endpoints.
 * [EveWho's API](http://evewho.com/faq/) - EveWho's API.
 * [Google CREST Script](https://github.com/nuadi/googlecrestscript) - Designed for use in Google Sheets.
