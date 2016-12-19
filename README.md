@@ -40,6 +40,7 @@ You can participate in CCP dev and third party dev discussion by joining Tweetfl
 **Library**
 * [EveApi](https://github.com/ZyorTaelon/eveapi) - Java library to access the XML API
 * [Eve-CREST](https://github.com/burberius/eve-crest) - Java library to access the CREST API
+* [go-eve](https://github.com/killmails/go-eve) - Go library to access the XML API
 
 **Fitting**
 
