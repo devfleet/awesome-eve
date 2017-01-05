@@ -15,7 +15,7 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 
 If you've been under a rock you may not have noticed that CCP is launching a new API with the intentions of replacing the current XML and CREST APIs. Please read the devblog here: https://community.eveonline.com/news/dev-blogs/introducing-esi/
 
-You can participate in CCP dev and third party dev discussion by joining Tweetfleet on Slack and hopping into #esi
+You can participate in CCP dev and third party dev discussion by [joining Tweetfleet on Slack](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/) and hopping into #esi
 
 ***
 
