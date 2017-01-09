@@ -42,6 +42,7 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [Eve-CREST](https://github.com/burberius/eve-crest) - Java library to access the CREST API
 * [go-eve](https://github.com/killmails/go-eve) - Go library to access the XML API
 * [EVELink](https://github.com/eve-val/evelink) - Python library to access the XML API
+* [eve_online](https://github.com/biow0lf/eve_online) - Ruby library to access the XML API ([rubygems link](https://rubygems.org/gems/eve_online)).
 
 **Fitting**
 
