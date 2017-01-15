@@ -43,6 +43,9 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [go-eve](https://github.com/killmails/go-eve) - Go library to access the XML API
 * [EVELink](https://github.com/eve-val/evelink) - Python library to access the XML API
 * [eve_online](https://github.com/biow0lf/eve_online) - Ruby library to access the XML API ([rubygems link](https://rubygems.org/gems/eve_online)).
+* [iveeCore](https://github.com/aineko-m/iveeCore) - PHP Library for calculations of industrial activities
+* [yapeal](https://github.com/Yapeal/yapeal) - PHP Library for interacting with and storing XML and CREST API results
+* [EVE Online Library.NET](https://github.com/ezet/evelib) - C#.NET library for interacting with a vareity of official and unoffical APIs including ZKillboard, CREST, Element43, and others.
 
 **Fitting**
 
