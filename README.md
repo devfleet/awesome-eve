@@ -19,34 +19,7 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 
 ***
 
-**API**
-
-* [ESI - Swagger API documentation](https://esi.tech.ccp.is/latest/)
-* [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documentation for official Eve Online endpoints.
-* [EveWho's API](http://evewho.com/faq/) - EveWho's API.
-* [Google CREST Script](https://github.com/nuadi/googlecrestscript) - Designed for use in Google Sheets.
-* [Other Documentation](https://www.reddit.com/r/evetech/comments/4mwgb7/documentation/) - More Documentation for other tools and endpoints can be found in this Reddit post.
-* [PL APIs](https://tools.pandemic-legion.pl/api/) - PL provided list of apis.
-* [Fuzzwork Map API](https://www.fuzzwork.co.uk/tools/api-map-data/) - A number of map based APIs.
-* [Fuzzwork typename API](https://www.fuzzwork.co.uk/tools/api-typename-to-typeid/) - Typename to typeid API.
-* [SDE RESTful API](http://jetbalsa.com/doku.php?id=sdeapi) - Access to the full SDE over a JSON/REST API.
-* [EveKit - Account](https://evekit.orbital.enterprises/#/main/news) - Capture EVE character and corporation data in the cloud (including complete history).  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
-* [EveKit - SDE](https://evekit.orbital.enterprises/#/sde/main) - Last two releases of the full SDE online.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
-* [EveKit - Proxy](https://evekit.orbital.enterprises/#/xmlapi/main) - A simple proxy which server the EVE Online XML API in JSON.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
-* [Eve Central](https://eve-central.com/home/develop.html) - Price data API
-* [Eve MarketData](http://eve-marketdata.com/developers/index.php) - Price data API
-* [Citadel API](https://stop.hammerti.me.uk/api) - JSON API linking citadel IDs/names/solar systems. Has [swagger definition](https://raw.githubusercontent.com/OrbitalEnterprises/swagger-specs/master/citadel-api.yaml).
-
-**Library**
-* [EveApi](https://github.com/ZyorTaelon/eveapi) - Java library to access the XML API
-* [Eve-CREST](https://github.com/burberius/eve-crest) - Java library to access the CREST API
-* [go-eve](https://github.com/killmails/go-eve) - Go library to access the XML API
-* [EVELink](https://github.com/eve-val/evelink) - Python library to access the XML API
-* [eve_online](https://github.com/biow0lf/eve_online) - Ruby library to access the XML API ([rubygems link](https://rubygems.org/gems/eve_online)).
-* [iveeCore](https://github.com/aineko-m/iveeCore) - PHP Library for calculations of industrial activities
-* [yapeal](https://github.com/Yapeal/yapeal) - PHP Library for interacting with and storing XML and CREST API results
-* [EVE Online Library.NET](https://github.com/ezet/evelib) - C#.NET library for interacting with a vareity of official and unoffical APIs including ZKillboard, CREST, Element43, and others.
-* [Eseye](https://github.com/eveseat/eseye) - Standalone, Dynamic PHP Client Library for the ESI API
+### Capsuleer tools
 
 **Fitting**
 
@@ -76,7 +49,7 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [Eve-Kill](https://eve-kill.net/) - "All your kills are belong to us".
 * [zKillboard](https://zkillboard.com) - A website for killmail presentation and statistical aggregation.
 
-***Killboard Utilities***
+**Killboard Utilities**
 * [RedisQ](https://github.com/zKillboard/RedisQ) - A simple queue service for "pushing" killmails from zKillboard.
 * [evf-eve](http://evf-eve.com/services/brcat/) - Tool for generating battle reports from killmails held on zKillboard.com
 
@@ -108,6 +81,38 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [EveMon](https://evemondevteam.github.io/evemon/) - a lightweight, easy-to-use standalone Windows application designed to assist you in keeping track of your EVE Online character progression.
 * [EveSP](https://evesp.com/) - Web 'app' to quickly view the skills of a character along with the ships that they can currently fly. 
 * [Vitality](https://github.com/sixones/vitality/releases) - Mac skill planner. Requires circumventing of "can’t be opened because it is from an unidentified developer.".
+
+
+### Developer tools, resources and APIs
+
+**API**
+
+* [ESI - Swagger API documentation](https://esi.tech.ccp.is/latest/)
+* [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documentation for official Eve Online endpoints.
+* [EveWho's API](http://evewho.com/faq/) - EveWho's API.
+* [Google CREST Script](https://github.com/nuadi/googlecrestscript) - Designed for use in Google Sheets.
+* [Other Documentation](https://www.reddit.com/r/evetech/comments/4mwgb7/documentation/) - More Documentation for other tools and endpoints can be found in this Reddit post.
+* [PL APIs](https://tools.pandemic-legion.pl/api/) - PL provided list of apis.
+* [Fuzzwork Map API](https://www.fuzzwork.co.uk/tools/api-map-data/) - A number of map based APIs.
+* [Fuzzwork typename API](https://www.fuzzwork.co.uk/tools/api-typename-to-typeid/) - Typename to typeid API.
+* [SDE RESTful API](http://jetbalsa.com/doku.php?id=sdeapi) - Access to the full SDE over a JSON/REST API.
+* [EveKit - Account](https://evekit.orbital.enterprises/#/main/news) - Capture EVE character and corporation data in the cloud (including complete history).  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
+* [EveKit - SDE](https://evekit.orbital.enterprises/#/sde/main) - Last two releases of the full SDE online.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
+* [EveKit - Proxy](https://evekit.orbital.enterprises/#/xmlapi/main) - A simple proxy which server the EVE Online XML API in JSON.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
+* [Eve Central](https://eve-central.com/home/develop.html) - Price data API
+* [Eve MarketData](http://eve-marketdata.com/developers/index.php) - Price data API
+* [Citadel API](https://stop.hammerti.me.uk/api) - JSON API linking citadel IDs/names/solar systems. Has [swagger definition](https://raw.githubusercontent.com/OrbitalEnterprises/swagger-specs/master/citadel-api.yaml).
+
+**Library**
+* [EveApi](https://github.com/ZyorTaelon/eveapi) - Java library to access the XML API
+* [Eve-CREST](https://github.com/burberius/eve-crest) - Java library to access the CREST API
+* [go-eve](https://github.com/killmails/go-eve) - Go library to access the XML API
+* [EVELink](https://github.com/eve-val/evelink) - Python library to access the XML API
+* [eve_online](https://github.com/biow0lf/eve_online) - Ruby library to access the XML API ([rubygems link](https://rubygems.org/gems/eve_online)).
+* [iveeCore](https://github.com/aineko-m/iveeCore) - PHP Library for calculations of industrial activities
+* [yapeal](https://github.com/Yapeal/yapeal) - PHP Library for interacting with and storing XML and CREST API results
+* [EVE Online Library.NET](https://github.com/ezet/evelib) - C#.NET library for interacting with a vareity of official and unoffical APIs including ZKillboard, CREST, Element43, and others.
+* [Eseye](https://github.com/eveseat/eseye) - Standalone, Dynamic PHP Client Library for the ESI API
 
 **Resources**
 
