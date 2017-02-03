@@ -113,6 +113,8 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [yapeal](https://github.com/Yapeal/yapeal) - PHP Library for interacting with and storing XML and CREST API results
 * [EVE Online Library.NET](https://github.com/ezet/evelib) - C#.NET library for interacting with a vareity of official and unoffical APIs including ZKillboard, CREST, Element43, and others.
 * [Eseye](https://github.com/eveseat/eseye) - Standalone, Dynamic PHP Client Library for the ESI API
+* [PyCrest](https://github.com/pycrest/PyCrest) - Pythoon library to interact with CREST API
+* [EsiPy](https://github.com/Kyria/EsiPy) - Python library (on top of pyswagger) to interact with the ESI API
 
 **Resources**
 
