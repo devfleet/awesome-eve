@@ -115,6 +115,8 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [Eseye](https://github.com/eveseat/eseye) - Standalone, Dynamic PHP Client Library for the ESI API
 * [PyCrest](https://github.com/pycrest/PyCrest) - Pythoon library to interact with CREST API
 * [EsiPy](https://github.com/Kyria/EsiPy) - Python library (on top of pyswagger) to interact with the ESI API
+* [goesi](https://github.com/antihax/goesi) - A complete ESI API client for Go using versioned endpoints.
+
 
 **Resources**
 
@@ -122,6 +124,8 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [EVE SDE Database Builder] (https://forums.eveonline.com/default.aspx?g=posts&t=500859) - Customizable Window's application to import CCP's SDE into various Database formats and languages.
 * [Fuzzwork SDE Conversions](https://www.fuzzwork.co.uk/dump/) - SDE conversions, to Mysql, sqlite, postgres and CSV.
 * [Fuzzwork SDE Converter](https://github.com/fuzzysteve/yamlloader) - The conversion tool for going from the official yaml SDE to one in a DB.
+* [Mock ESI](https://github.com/antihax/mock-esi) - A mock ESI server for consistently testing ESI Consumers, wrapped in a Docker image.
+
 
 **SSO**
 
