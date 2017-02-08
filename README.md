@@ -23,7 +23,7 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 
 **Fitting**
 
-* [EFT](https://forums.eveonline.com/default.aspx?g=posts&t=24359) - Eve Fitting Tool (Windows).
+* [EFT](https://forums.eveonline.com/default.aspx?g=posts&t=24359) - Eve Fitting Tool (Windows). (no update since May 2016, pending removal)
 * [Osmium](https://o.smium.org/) - Browser based fitting tool and loadout sharing platform.
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
 
