@@ -102,6 +102,7 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [Eve Central](https://eve-central.com/home/develop.html) - Price data API
 * [Eve MarketData](http://eve-marketdata.com/developers/index.php) - Price data API
 * [Citadel API](https://stop.hammerti.me.uk/api) - JSON API linking citadel IDs/names/solar systems. Has [swagger definition](https://raw.githubusercontent.com/OrbitalEnterprises/swagger-specs/master/citadel-api.yaml).
+* [ESI Proxy](https://esi-proxy.orbital.enterprises) - A proxy for the EVE Swagger Interfce (ESI) which supports a key/hash access scheme (as in the now deprecated XML API) in place of OAuth authorization.
 
 **Library**
 * [EveApi](https://github.com/ZyorTaelon/eveapi) - Java library to access the XML API
