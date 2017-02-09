@@ -116,7 +116,7 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [PyCrest](https://github.com/pycrest/PyCrest) - Pythoon library to interact with CREST API
 * [EsiPy](https://github.com/Kyria/EsiPy) - Python library (on top of pyswagger) to interact with the ESI API
 * [goesi](https://github.com/antihax/goesi) - A complete ESI API client for Go using versioned endpoints.
-* [ESI Proxy](https://github.com/OrbitalEnterprises/orbital-esi-proxy) - A proxy for the ESI which will translate key/hash pairs (created by the proxy) into auto-refreshed OAuth authorization tokens.
+* [ESI Proxy](https://github.com/OrbitalEnterprises/orbital-esi-proxy) - A Java serlvet which acts as a proxy for the ESI translating key/hash pairs (created by the proxy) into auto-refreshed OAuth authorization tokens.
 
 
 **Resources**
