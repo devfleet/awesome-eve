@@ -21,54 +21,68 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 
 ### Capsuleer tools
 
+**Killboards**
+
+* [zKillboard](https://zkillboard.com) - A website for killmail presentation and statistical aggregation.
+* [evf-eve](http://evf-eve.com/services/brcat/) - Tool for generating battle reports from killmails held on zKillboard.com
+
 **Fitting**
 
-* [EFT](https://forums.eveonline.com/default.aspx?g=posts&t=24359) - Eve Fitting Tool (Windows). (no update since May 2016, pending removal)
-* [Osmium](https://o.smium.org/) - Browser based fitting tool and loadout sharing platform.
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
 
+**Navigation**
+
+* [Dotlan](http://evemaps.dotlan.net/) - Region maps, navigation, and alliances intel.
+
 **Fleet Tools**
+
+* [Eve Fleet Manager](http://fleetcom.space/)
 * [Fleet-up](http://fleet-up.com/) - Designed to help corporations & alliances manage their fittings, doctrines, operations and fleets.
 
 **Intel**
+
+* [Capri's Tools](https://skyride.org/) - Dscan, Local scan, pastebin, shopping list, itemDB
+* [EVE-Hunt](http://eve-hunt.net/) - Pilot and corp PVP intel.
 * [Eve Gate Camp Check](http://eve-gatecheck.space/eve/) - Navigation specifically tuned towards kills happening at gates.
 * [EveWho](http://evewho.com) - List members of a corp or alliance from out of game.
 * [SeAT](https://github.com/eveseat/seat) - SeAT is a EVE Online Corporation Management Tool written in PHP.
-* [Eve Incursions](http://incursions.shadowlauch.de/) -  provides an overview of the current incursions, active communities and incursion rat information.
+* [Eve Incursions](https://eve-incursions.de/) -  provides an overview of the current incursions, active communities and incursion rat information.
 * [Eve Overmind](https://www.eveovermind.com)
 * [Timer Calculator](http://timers-in.space/) - calculates structure timers (such as citadel vulnerability windows or POCO/POS reinforcement) from screenshots
+* [Timer Board](https://timerboard.net/)
 
-**Intel (Wormholes)**
+**Wormholes**
+
+* [wh.pasta.gg](http://wh.pasta.gg/) - General WH intel
+* [EveJima](http://evejima.w-space.org/) - Overlay tool - provides system, pilot, signature scan info quickly to use in one place.
 * [Tripwire](https://tripwire.eve-apps.com/) - wormhole mapping tool
 * [Siggy](https://siggy.borkedlabs.com/pages/welcome) - wormhole mapping tool
 * [Pathfinder](https://www.pathfinder-w.space/) - wormhole mapping tool
-
-**Killboards**
-
-* [Battleclinic](http://www.battleclinic.com/) - Now defunct, kept here for nostalgia's sake.
-* [Eve-Kill](https://eve-kill.net/) - "All your kills are belong to us".
-* [zKillboard](https://zkillboard.com) - A website for killmail presentation and statistical aggregation.
-
-**Killboard Utilities**
-* [RedisQ](https://github.com/zKillboard/RedisQ) - A simple queue service for "pushing" killmails from zKillboard.
-* [evf-eve](http://evf-eve.com/services/brcat/) - Tool for generating battle reports from killmails held on zKillboard.com
+* [Ellatha](http://www.ellatha.com/eve/wormholelist.asp) - Wormhole list - displays wormhole name, type, mass, max stable time.
 
 **Market**
 
-* [Eve Traders Handbook](http://matthewpennell.github.io/eve-traders-handbook/) - a multi-purpose web application for traders, importers, and manufacturers.
+* [Market viewer](https://evrial.com/market/) - Client side market viewer, live data from ESI/CREST.
+* [Evepraisal](http://evepraisal.com/) - General price checker.
+* [Fuzzwork Market Data](https://market.fuzzwork.co.uk/) - Best source of market orders data in one place aggregated every 30 min
+* [Adam4EVE](https://www.adam4eve.eu/) - Market trend analytics and citadel statistics.
 * [EVE-Mogul](https://trade.eve-mogul.com) - EVE-Mogul.com - Website for trade & profit tracking, portfolio management, and more
+* [EVEData](https://www.evedata.org/) - Market browser, assets calculator, wars lookup
 * [Eve Trade Master](http://evetrademaster.com) - web based profit tracking, sales reporting, trade simulator and inventory management tool.
 * [Evernus](http://evernus.com/) - Inventory and market data (Windows/MacOSX application).
 * [ISK Per Hour](https://eveiph.github.io/) EVE - Isk per Hour is a Windows program that allows players of EVE Online to determine ways to maximize their Isk per Hour through manufacturing, mining, invention, and reverse engineering.
 * [EveKit - Market](https://evekit.orbital.enterprises/#/md/main) - Market price history and book data (including complete history).  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
-* [EVEWalletAware](http://eve.basicaware.de/evewalletaware/index.html) - EVEWalletAware (EWA) is as an offline wallet viewer and trading/accounting helper. (Windows) 
+* [EVEWalletAware](http://eve.basicaware.de/evewalletaware/index.html) - EVEWalletAware (EWA) is as an offline wallet viewer and trading/accounting helper. (Windows)
+* [Eve Traders Handbook](http://matthewpennell.github.io/eve-traders-handbook/) - a multi-purpose web application for traders, importers, and manufacturers.
 
 **Misc**
 
+* [Fuzzworks](http://www.fuzzwork.co.uk) - Fuzzworks - many very, very useful tools including but not limited to Industry, stats, calculators, and route planners. [Fuzzwork github](https://github.com/fuzzysteve/)
 * [jeveassets](http://eve.nikr.net/jeveasset) - Asset viewer, with market values.
 * [Eve-Files](http://www.eve-files.com/) - Upload Eve related files for sharing.
-* [Fuzzworks](http://www.fuzzwork.co.uk) - Fuzzworks - many very, very useful tools including but not limited to Industry, stats, calculators, and route planners. [Fuzzwork github](https://github.com/fuzzysteve/)
 * [Destruct-Ore](http://www.eve-tools.net) - A Corporation Mining Op Scheduler/Manager with payment manager.
+* [Station locator](http://nearest.ouroborus.org/) - Locate stations belonging to a specified NPC corp and their distance from a specified system.
+* [EVE Mail](http://evemail.space/) - Webmail client.
 
 **Planetary Interaction**
 
@@ -82,6 +96,10 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [EveSP](https://evesp.com/) - Web 'app' to quickly view the skills of a character along with the ships that they can currently fly. 
 * [Vitality](https://github.com/sixones/vitality/releases) - Mac skill planner. Requires circumventing of "can’t be opened because it is from an unidentified developer.".
 
+**Mobile**
+
+* [EVE Portal](https://play.google.com/store/apps/details?id=is.ccp.tech.mobile) - Official EVE Android app
+* [Jumpgate](https://play.google.com/store/apps/details?id=co.aureolin.labs.jumpgateforeve)
 
 ### Developer tools, resources and APIs
 
@@ -104,6 +122,7 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [Citadel API](https://stop.hammerti.me.uk/api) - JSON API linking citadel IDs/names/solar systems. Has [swagger definition](https://raw.githubusercontent.com/OrbitalEnterprises/swagger-specs/master/citadel-api.yaml).
 
 **Library**
+
 * [EveApi](https://github.com/ZyorTaelon/eveapi) - Java library to access the XML API
 * [Eve-CREST](https://github.com/burberius/eve-crest) - Java library to access the CREST API
 * [go-eve](https://github.com/killmails/go-eve) - Go library to access the XML API
@@ -117,7 +136,9 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [EsiPy](https://github.com/Kyria/EsiPy) - Python library (on top of pyswagger) to interact with the ESI API
 * [goesi](https://github.com/antihax/goesi) - Go library using versioned endpoints to access ESI, SSO, CREST, and XMLAPI
 * [ESI Proxy](https://github.com/OrbitalEnterprises/orbital-esi-proxy) - A Java serlvet which acts as a proxy for the ESI translating key/hash pairs (created by the proxy) into auto-refreshed OAuth authorization tokens.
-
+* [RedisQ](https://github.com/zKillboard/RedisQ) - A simple queue service for "pushing" killmails from zKillboard.
+* [CrestSSO](https://github.com/zKillboard/crestsso) - Simple CREST SSO library for PHP
+* [OAUTH2](https://github.com/killmails/oauth2-eve) - OAUTH2 library for working with Eve Online's SSO
 
 **Resources**
 
@@ -126,9 +147,3 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [Fuzzwork SDE Conversions](https://www.fuzzwork.co.uk/dump/) - SDE conversions, to Mysql, sqlite, postgres and CSV.
 * [Fuzzwork SDE Converter](https://github.com/fuzzysteve/yamlloader) - The conversion tool for going from the official yaml SDE to one in a DB.
 * [Mock ESI](https://github.com/antihax/mock-esi) - A mock ESI server for consistently testing ESI Consumers, wrapped in a Docker image.
-
-
-**SSO**
-
-* [CrestSSO](https://github.com/zKillboard/crestsso) - Simple CREST SSO library for PHP
-* [OAUTH2](https://github.com/killmails/oauth2-eve) - OAUTH2 library for working with Eve Online's SSO
