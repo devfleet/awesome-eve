@@ -64,11 +64,19 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [EVEWalletAware](http://eve.basicaware.de/evewalletaware/index.html) - EVEWalletAware (EWA) is as an offline wallet viewer and trading/accounting helper. (Windows)
 * [EVE Station Trading Assistant](https://storage.googleapis.com/eve-station-trading-assistant/index.html) - EVE Station Trading Assistant (ESTA) was made to help you find profitable items for station trading in Trade Hubs.
 
+**Manufacturing**
+
+* [Eve Cost](http://www.eve-cost.eu/calculator) - Calculate what you need to make anything and profit margins.  Also has invention and refining calculators.
+* [Fuzzworks](http://www.fuzzwork.co.uk) - Fuzzworks - many very, very useful tools including but not limited to Industry, stats, calculators, and route planners. [Fuzzwork github](https://github.com/fuzzysteve/)
+
+**Maps**
+
+* [Dotlan](http://evemaps.dotlan.net/) - The ONLY eve map site you will ever need peroid.  Jump planning, and route planning.  A lot of info too much to list.
+
 **Misc**
 
 * [jeveassets](http://eve.nikr.net/jeveasset) - Asset viewer, with market values.
 * [Eve-Files](http://www.eve-files.com/) - Upload Eve related files for sharing.
-* [Fuzzworks](http://www.fuzzwork.co.uk) - Fuzzworks - many very, very useful tools including but not limited to Industry, stats, calculators, and route planners. [Fuzzwork github](https://github.com/fuzzysteve/)
 * [Destruct-Ore](http://www.eve-tools.net) - A Corporation Mining Op Scheduler/Manager with payment manager.
 
 **Planetary Interaction**
