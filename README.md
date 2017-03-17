@@ -42,6 +42,7 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [Tripwire](https://tripwire.eve-apps.com/) - wormhole mapping tool
 * [Siggy](https://siggy.borkedlabs.com/pages/welcome) - wormhole mapping tool
 * [Pathfinder](https://www.pathfinder-w.space/) - wormhole mapping tool
+* [wormhol.es](http://wh.pasta.gg/) - Wormhole info tool.  Tells you about the WH and who is probably in it.  Battles and links to zkillboard for kills.
 
 **Killboards**
 
