@@ -75,6 +75,7 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 
 * [EVE PI](https://play.google.com/store/apps/details?id=dae.evepi) - Android based Planetary Interaction App. Track your extractors. In active development.
 * [Eve Planets](http://eveplanets.com/) - Database of planets in each system and what can be made on each one.
+
 **Skills**
 
 * [EVE-Skillplan.net](https://www.eve-skillplan.net) - Web based and responsive skill planner to plan and share your training using your favourite devices - PC/Mac, tablet or smartphone.
