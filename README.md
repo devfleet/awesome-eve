@@ -80,6 +80,7 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [jeveassets](http://eve.nikr.net/jeveasset) - Asset viewer, with market values.
 * [Eve-Files](http://www.eve-files.com/) - Upload Eve related files for sharing.
 * [Destruct-Ore](http://www.eve-tools.net) - A Corporation Mining Op Scheduler/Manager with payment manager.
+* [EVEpoll](https://evepoll.tk) - Create polls for corporations, alliances or New Eden using SSO.
 
 **Planetary Interaction**
 
