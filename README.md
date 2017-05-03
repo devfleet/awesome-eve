@@ -21,11 +21,16 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 
 ### Capsuleer tools
 
-**Fitting**
+**Fitting Tools**
 
-* [EFT](https://forums.eveonline.com/default.aspx?g=posts&t=24359) - Eve Fitting Tool (Windows). (no update since May 2016, pending removal)
-* [Osmium](https://o.smium.org/) - Browser based fitting tool and loadout sharing platform.
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
+
+****Fitting Tools - Outdated****
+
+While these fitting tools haven't been updated in some time they can still be useful, but use at your own risk.
+
+* [EFT](https://forums.eveonline.com/default.aspx?g=posts&t=24359) - Eve Fitting Tool (Windows). (no update since May 2016)
+* [Osmium](https://o.smium.org/) - Browser based fitting tool and loadout sharing platform. (no update since August 2015)
 * [IGB POS](http://eve.1019.net/pos/index.php) - Old In Game Browers POS builder.  Allows you to set up a POS with fittings to see what you can online all at once.  Has prices and creates a shopping list.
 
 **Fleet Tools**
