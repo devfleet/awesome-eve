@@ -52,9 +52,8 @@ While these fitting tools haven't been updated in some time they can still be us
 
 **Killboards**
 
-* [Battleclinic](http://www.battleclinic.com/) - Now defunct, kept here for nostalgia's sake.
-* [Eve-Kill](https://eve-kill.net/) - "All your kills are belong to us".
 * [zKillboard](https://zkillboard.com) - A website for killmail presentation and statistical aggregation.
+* [Utils Space](https://utils.space/killmails/) - A young but aspiring killboard.
 
 **Killboard Utilities**
 * [RedisQ](https://github.com/zKillboard/RedisQ) - A simple queue service for "pushing" killmails from zKillboard.
