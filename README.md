@@ -43,6 +43,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Eve Incursions](http://incursions.shadowlauch.de/) -  provides an overview of the current incursions, active communities and incursion rat information.
 * [Eve Overmind](https://www.eveovermind.com)
 * [Timer Calculator](http://timers-in.space/) - calculates structure timers (such as citadel vulnerability windows or POCO/POS reinforcement) from screenshots
+* [EVE PRISM](http://eve-prism.com/)
 
 **Intel (Wormholes)**
 * [Tripwire](https://tripwire.eve-apps.com/) - wormhole mapping tool
