@@ -81,6 +81,7 @@ While these fitting tools haven't been updated in some time they can still be us
 **Maps**
 
 * [Dotlan](http://evemaps.dotlan.net/) - The ONLY eve map site you will ever need peroid.  Jump planning, and route planning.  A lot of info too much to list.
+* [Eveeye Explorer](https://eveeye.com/) - Ingame interactive k-space maps + chain mapping.
 
 **Misc**
 
