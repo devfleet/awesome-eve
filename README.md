@@ -89,6 +89,8 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Eve-Files](http://www.eve-files.com/) - Upload Eve related files for sharing.
 * [Destruct-Ore](http://www.eve-tools.net) - A Corporation Mining Op Scheduler/Manager with payment manager.
 * [EVEpoll](https://evepoll.tk) - Create polls for corporations, alliances or New Eden using SSO.
+* [EVEOTS V2](https://github.com/drkthunder02/eveotsv2/) - EVE Online Teamspeak Authenticator V2 using ESI API
+* [PHP Timerboard](https://github.com/drkthunder02/phptimerboard/) - Stand-alone PHP Timerboard
 
 **Planetary Interaction**
 
