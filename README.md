@@ -21,6 +21,9 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 
 ### Capsuleer tools
 
+**Various Tools**
+* [EveHQ](https://evehq.co) - Toolbox for capsuleer including fitting, character and skill planning, industry, assets management and more.
+
 **Fitting Tools**
 
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
