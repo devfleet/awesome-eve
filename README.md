@@ -85,6 +85,7 @@ While these fitting tools haven't been updated in some time they can still be us
 
 * [Dotlan](http://evemaps.dotlan.net/) - The ONLY eve map site you will ever need peroid.  Jump planning, and route planning.  A lot of info too much to list.
 * [Eveeye Explorer](https://eveeye.com/) - Ingame interactive k-space maps + chain mapping.
+* [Slazangers Map Tool (SMT)](https://github.com/Slazanger/SMT) - Character/intel tracking, waypoint manipulation, live data for all your hunting/travelling needs(ratting, deaths, jumps etc) and some helpers for relic/data exploration
 
 **Misc**
 
