@@ -161,3 +161,4 @@ While these fitting tools haven't been updated in some time they can still be us
 
 * [CrestSSO](https://github.com/zKillboard/crestsso) - Simple CREST SSO library for PHP
 * [OAUTH2](https://github.com/killmails/oauth2-eve) - OAUTH2 library for working with Eve Online's SSO
+* [omniauth-eve_online-sso](https://github.com/biow0lf/omniauth-eve_online-sso) - EveOnline SSO OAuth2 Strategy for OmniAuth
