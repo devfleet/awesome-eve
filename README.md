@@ -136,7 +136,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Eve-CREST](https://github.com/burberius/eve-crest) - Java library to access the CREST API
 * [go-eve](https://github.com/killmails/go-eve) - Go library to access the XML API
 * [EVELink](https://github.com/eve-val/evelink) - Python library to access the XML API
-* [eve_online](https://github.com/biow0lf/eve_online) - Ruby library to access the XML API ([rubygems link](https://rubygems.org/gems/eve_online)).
+* [eve_online](https://github.com/biow0lf/eve_online) - Ruby library to access the XML/ESI API ([rubygems link](https://rubygems.org/gems/eve_online)).
 * [iveeCore](https://github.com/aineko-m/iveeCore) - PHP Library for calculations of industrial activities
 * [yapeal](https://github.com/Yapeal/yapeal) - PHP Library for interacting with and storing XML and CREST API results
 * [EVE Online Library.NET](https://github.com/ezet/evelib) - C#.NET library for interacting with a vareity of official and unoffical APIs including ZKillboard, CREST, Element43, and others.
@@ -161,3 +161,4 @@ While these fitting tools haven't been updated in some time they can still be us
 
 * [CrestSSO](https://github.com/zKillboard/crestsso) - Simple CREST SSO library for PHP
 * [OAUTH2](https://github.com/killmails/oauth2-eve) - OAUTH2 library for working with Eve Online's SSO
+* [omniauth-eve_online-sso](https://github.com/biow0lf/omniauth-eve_online-sso) - EveOnline SSO OAuth2 Strategy for OmniAuth ([rubygems link](https://rubygems.org/gems/omniauth-eve_online-sso)).
