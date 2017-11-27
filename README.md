@@ -119,6 +119,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [ESI - Swagger API documentation](https://esi.tech.ccp.is/latest/)
 * [ESI - Swagger API documentation (v3)](https://esi.tech.ccp.is/ui/) - [github repository](https://github.com/ccpgames/esi-swagger-ui)
 * [ESI-routes](https://github.com/ccpgames/esi-routes) - first open source ESI endpoint
+* [EVE-glue](https://github.com/ccpgames/eve-glue) - enums for transitioning from XML or CREST to ESI
 
 **API**
 * [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documentation for official Eve Online endpoints (deprecation date May 8, 2017).
