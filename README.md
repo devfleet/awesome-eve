@@ -123,7 +123,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [EVE-glue](https://github.com/ccpgames/eve-glue) - enums for transitioning from XML or CREST to ESI
 
 **API**
-* [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documentation for official Eve Online endpoints (deprecation date May 8, 2017).
+* [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documentation for official Eve Online endpoints (deprecation date May 8, 2018).
 * [EveWho's API](http://evewho.com/faq/) - EveWho's API.
 * [Google CREST Script](https://github.com/nuadi/googlecrestscript) - Designed for use in Google Sheets.
 * [Other Documentation](https://www.reddit.com/r/evetech/comments/4mwgb7/documentation/) - More Documentation for other tools and endpoints can be found in this Reddit post.
