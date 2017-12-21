@@ -141,6 +141,7 @@ While these fitting tools haven't been updated in some time they can still be us
 **Library**
 * [EveApi](https://github.com/ZyorTaelon/eveapi) - Java library to access the XML API
 * [Eve-CREST](https://github.com/burberius/eve-crest) - Java library to access the CREST API
+* [eve-esi](https://github.com/burberius/eve-esi) - Java library to access the ESI API
 * [go-eve](https://github.com/killmails/go-eve) - Go library to access the XML API
 * [EVELink](https://github.com/eve-val/evelink) - Python library to access the XML API
 * [eve_online](https://github.com/biow0lf/eve_online) - Ruby library to access the XML/ESI API ([rubygems link](https://rubygems.org/gems/eve_online)).
