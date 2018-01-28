@@ -19,6 +19,14 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 
 ***
 
+
+### Corporation/Alliance/Group tools
+
+**Discord Tools**
+* [Firetail](https://github.com/shibdib/firetail) - A discord bot that can provide killmails, price checks, group and character lookups and more..
+* [Keepstar](https://github.com/shibdib/keepstar) - An easy way to authenticate discord users against their ingame persona. Restrict roles based off of corps and alliances.
+
+
 ### Capsuleer tools
 
 **Various Tools**
