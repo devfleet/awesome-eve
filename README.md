@@ -22,6 +22,9 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 
 ### Corporation/Alliance/Group tools
 
+**Management Tools**
+* [EveStructures](https://structures.eveskillboard.com) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, and much more.
+
 **Discord Tools**
 * [Firetail](https://github.com/shibdib/firetail) - A discord bot that can provide killmails, price checks, group and character lookups and more..
 * [Keepstar](https://github.com/shibdib/keepstar) - An easy way to authenticate discord users against their ingame persona. Restrict roles based off of corps and alliances.
@@ -120,6 +123,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [EveMon](https://evemondevteam.github.io/evemon/) - a lightweight, easy-to-use standalone Windows application designed to assist you in keeping track of your EVE Online character progression.
 * [EveSP](https://evesp.com/) - Web 'app' to quickly view the skills of a character along with the ships that they can currently fly. 
 * [Vitality](https://github.com/sixones/vitality/releases) - Mac skill planner. Requires circumventing of "can’t be opened because it is from an unidentified developer.".
+* [EveSkillboard](https://eveskillboard.com/) - Character Skill Sheet, Standings, Corporation History, Ships can/cannot fly.
 
 
 ### Developer tools, resources and APIs
