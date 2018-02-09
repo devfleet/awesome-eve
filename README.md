@@ -167,7 +167,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [goesi](https://github.com/antihax/goesi) - Go library using versioned endpoints to access ESI, SSO, CREST, and XMLAPI
 * [ESI Proxy](https://github.com/OrbitalEnterprises/orbital-esi-proxy) - A Java serlvet which acts as a proxy for the ESI translating key/hash pairs (created by the proxy) into auto-refreshed OAuth authorization tokens.
 * [CFESI](https://github.com/ddspringle/CFESI) - ColdFusion (CFML) CFC API wrapper to interact with the ESI API
-* [ESIClient.Dotcore](https://github.com/Jimmy062006/ESIClient.Dotcore) Dotcore API wrapper to interact with the ESI API
+* [ESIClient.Dotcore](https://github.com/Jimmy062006/ESIClient.Dotcore) - Dotcore API wrapper to interact with the ESI API
 
 
 **Resources**
