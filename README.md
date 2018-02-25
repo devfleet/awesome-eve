@@ -11,12 +11,13 @@ Process to be listed:
 Since Eve apps and websites come and go we will try to check each of the them periodically and keep the list up to date.
 
 ## Introducing ESI
-
 If you've been under a rock you may not have noticed that CCP is launching a new API with the intentions of replacing the current XML and CREST APIs. Please read the devblog here: https://community.eveonline.com/news/dev-blogs/introducing-esi/
 
 You can participate in CCP dev and third party dev discussion by [joining Tweetfleet on Slack](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/) and hopping into #esi
 
-### Capsuleer tools
+---------
+
+## Capsuleer tools
 
 #### Various Tools
 * [EveHQ](https://evehq.co) - Toolbox for capsuleer including fitting, character and skill planning, industry, assets management and more.
@@ -26,7 +27,7 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
 
-****Fitting Tools - Outdated****
+#### Fitting Tools (Outdated)
 
 While these fitting tools haven't been updated in some time they can still be useful, but use at your own risk.
 
@@ -47,7 +48,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Timer Calculator](http://timers-in.space/) - calculates structure timers (such as citadel vulnerability windows or POCO/POS reinforcement) from screenshots
 * [EVE PRISM](http://eve-prism.com/) -  tool for gathering and analyzing information intended for PvP-oriented players that also works as a gorgeous screensaver
 
-### Corporation/Alliance/Group tools
+## Corporation/Alliance/Group tools
 
 #### Management Tools
 * [EveStructures](https://structures.eveskillboard.com) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, and much more.
@@ -122,7 +123,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [EveSkillboard](https://eveskillboard.com/) - Character Skill Sheet, Standings, Corporation History, Ships can/cannot fly.
 
 
-### Developer resources & documentation
+## Developer resources & documentation
 
 #### ESI
 * [ESI - Swagger API documentation](https://esi.tech.ccp.is/latest/)
@@ -155,7 +156,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Mock ESI](https://github.com/antihax/mock-esi) - A mock ESI server for consistently testing ESI Consumers, wrapped in a Docker image.
 
 
-### Developer tools & libraries
+## Developer tools & libraries
 
 #### Java
 
