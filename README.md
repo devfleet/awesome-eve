@@ -10,6 +10,8 @@ Process to be listed:
 
 Since Eve apps and websites come and go we will try to check each of the them periodically and keep the list up to date.
 
+---------
+
 ## Introducing ESI
 If you've been under a rock you may not have noticed that CCP is launching a new API with the intentions of replacing the current XML and CREST APIs. Please read the devblog here: https://community.eveonline.com/news/dev-blogs/introducing-esi/
 
@@ -47,6 +49,8 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Eve Overmind](https://www.eveovermind.com)
 * [Timer Calculator](http://timers-in.space/) - calculates structure timers (such as citadel vulnerability windows or POCO/POS reinforcement) from screenshots
 * [EVE PRISM](http://eve-prism.com/) -  tool for gathering and analyzing information intended for PvP-oriented players that also works as a gorgeous screensaver
+
+---------
 
 ## Corporation/Alliance/Group tools
 
@@ -122,6 +126,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Vitality](https://github.com/sixones/vitality/releases) - Mac skill planner. Requires circumventing of "can’t be opened because it is from an unidentified developer.".
 * [EveSkillboard](https://eveskillboard.com/) - Character Skill Sheet, Standings, Corporation History, Ships can/cannot fly.
 
+---------
 
 ## Developer resources & documentation
 
@@ -155,6 +160,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Fuzzwork SDE Converter](https://github.com/fuzzysteve/yamlloader) - The conversion tool for going from the official yaml SDE to one in a DB.
 * [Mock ESI](https://github.com/antihax/mock-esi) - A mock ESI server for consistently testing ESI Consumers, wrapped in a Docker image.
 
+---------
 
 ## Developer tools & libraries
 
