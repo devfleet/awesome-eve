@@ -122,7 +122,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [EVE-Skillplan.net](https://www.eve-skillplan.net) - Web based and responsive skill planner to plan and share your training using your favourite devices - PC/Mac, tablet or smartphone.
 * [EveBoard](http://eveboard.com/) - Character tracking. (needs better description).
 * [EveMon](https://evemondevteam.github.io/evemon/) - a lightweight, easy-to-use standalone Windows application designed to assist you in keeping track of your EVE Online character progression.
-* [EveSP](https://evesp.com/) - Web 'app' to quickly view the skills of a character along with the ships that they can currently fly. 
+* [EveSP](https://evesp.com/) - Web 'app' to quickly view the skills of a character along with the ships that they can currently fly.
 * [Vitality](https://github.com/sixones/vitality/releases) - Mac skill planner. Requires circumventing of "can’t be opened because it is from an unidentified developer.".
 * [EveSkillboard](https://eveskillboard.com/) - Character Skill Sheet, Standings, Corporation History, Ships can/cannot fly.
 
@@ -158,6 +158,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [go-eve](https://github.com/killmails/go-eve) - Go library to access the XML API
 * [EVELink](https://github.com/eve-val/evelink) - Python library to access the XML API
 * [eve_online](https://github.com/biow0lf/eve_online) - Ruby library to access the XML/ESI API ([rubygems link](https://rubygems.org/gems/eve_online)).
+* [esi](https://github.com/dhiemstra/esi) - Ruby library to access the ESI API ([rubygems link](https://rubygems.org/gems/esi)).
 * [iveeCore](https://github.com/aineko-m/iveeCore) - PHP Library for calculations of industrial activities
 * [yapeal](https://github.com/Yapeal/yapeal) - PHP Library for interacting with and storing XML and CREST API results
 * [EVE Online Library.NET](https://github.com/ezet/evelib) - C#.NET library for interacting with a vareity of official and unoffical APIs including ZKillboard, CREST, Element43, and others.
