@@ -172,6 +172,11 @@ While these fitting tools haven't been updated in some time they can still be us
 * [ESI Proxy](https://github.com/OrbitalEnterprises/orbital-esi-proxy) - A Java serlvet which acts as a proxy for the ESI translating key/hash pairs (created by the proxy) into auto-refreshed OAuth authorization tokens.
 
 #### PHP
+=======
+* [go-eve](https://github.com/killmails/go-eve) - Go library to access the XML API
+* [EVELink](https://github.com/eve-val/evelink) - Python library to access the XML API
+* [eve_online](https://github.com/biow0lf/eve_online) - Ruby library to access the XML/ESI API ([rubygems link](https://rubygems.org/gems/eve_online)).
+* [esi](https://github.com/dhiemstra/esi) - Ruby library to access the ESI API ([rubygems link](https://rubygems.org/gems/esi)).
 * [iveeCore](https://github.com/aineko-m/iveeCore) - PHP Library for calculations of industrial activities
 * [yapeal](https://github.com/Yapeal/yapeal) - PHP Library for interacting with and storing XML and CREST API results
 * [Eseye](https://github.com/eveseat/eseye) - Standalone, Dynamic PHP Client Library for the ESI API
