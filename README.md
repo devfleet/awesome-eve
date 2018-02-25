@@ -1,4 +1,4 @@
-## 3rd Party Apps & Tools
+# 3rd Party Apps & Tools
 
 There are those who play Eve Online using the game's given UI and there are those who manipulate the data and create tools to work within the Eve Online Universe. This is an attempt to keep an updated and maintained list of some of the many great tools and applications.
 
@@ -10,34 +10,19 @@ Process to be listed:
 
 Since Eve apps and websites come and go we will try to check each of the them periodically and keep the list up to date.
 
-***
 ## Introducing ESI
 
 If you've been under a rock you may not have noticed that CCP is launching a new API with the intentions of replacing the current XML and CREST APIs. Please read the devblog here: https://community.eveonline.com/news/dev-blogs/introducing-esi/
 
 You can participate in CCP dev and third party dev discussion by [joining Tweetfleet on Slack](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/) and hopping into #esi
 
-***
-
-
-### Corporation/Alliance/Group tools
-
-**Management Tools**
-* [EveStructures](https://structures.eveskillboard.com) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, and much more.
-
-**Discord Tools**
-* [Firetail](https://github.com/shibdib/firetail) - A discord bot that can provide killmails, price checks, group and character lookups and more..
-* [Keepstar](https://github.com/shibdib/keepstar) - An easy way to authenticate discord users against their ingame persona. Restrict roles based off of corps and alliances.
-* [Opux](https://github.com/Jimmy062006/Opux) - A Discord bot that provides various lookups and killmail feeds as well as Discord Role management.
-
-
 ### Capsuleer tools
 
-**Various Tools**
+#### Various Tools
 * [EveHQ](https://evehq.co) - Toolbox for capsuleer including fitting, character and skill planning, industry, assets management and more.
 * [PyEveLiveDPS](https://github.com/ArtificialQualia/PyEveLiveDPS) - PyEveLiveDPS (PELD) is a live DPS calculator and grapher for many combat statistics
 
-**Fitting Tools**
+#### Fitting Tools
 
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
 
@@ -49,10 +34,10 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Osmium](https://o.smium.org/) - Browser based fitting tool and loadout sharing platform. (no update since August 2015)
 * [IGB POS](http://eve.1019.net/pos/index.php) - Old In Game Browers POS builder.  Allows you to set up a POS with fittings to see what you can online all at once.  Has prices and creates a shopping list.
 
-**Fleet Tools**
+#### Fleet Tools
 * [Fleet-up](http://fleet-up.com/) - Designed to help corporations & alliances manage their fittings, doctrines, operations and fleets.
 
-**Intel**
+#### Intel
 * [Eve Gate Camp Check](http://eve-gatecheck.space/eve/) - Navigation specifically tuned towards kills happening at gates.
 * [EveWho](http://evewho.com) - List members of a corp or alliance from out of game.
 * [SeAT](https://github.com/eveseat/seat) - SeAT is a EVE Online Corporation Management Tool written in PHP.
@@ -62,23 +47,33 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Timer Calculator](http://timers-in.space/) - calculates structure timers (such as citadel vulnerability windows or POCO/POS reinforcement) from screenshots
 * [EVE PRISM](http://eve-prism.com/) -  tool for gathering and analyzing information intended for PvP-oriented players that also works as a gorgeous screensaver
 
-**Intel (Wormholes)**
+### Corporation/Alliance/Group tools
+
+#### Management Tools
+* [EveStructures](https://structures.eveskillboard.com) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, and much more.
+
+#### Discord Tools
+* [Firetail](https://github.com/shibdib/firetail) - A discord bot that can provide killmails, price checks, group and character lookups and more..
+* [Keepstar](https://github.com/shibdib/keepstar) - An easy way to authenticate discord users against their ingame persona. Restrict roles based off of corps and alliances.
+* [Opux](https://github.com/Jimmy062006/Opux) - A Discord bot that provides various lookups and killmail feeds as well as Discord Role management.
+
+#### Intel (Wormholes)
 * [Tripwire](https://tripwire.eve-apps.com/) - wormhole mapping tool
 * [Siggy](https://siggy.borkedlabs.com/pages/welcome) - wormhole mapping tool
 * [Pathfinder](https://www.pathfinder-w.space/) - wormhole mapping tool
 * [wormhol.es](http://wh.pasta.gg/) - Wormhole info tool.  Tells you about the WH and who is probably in it.  Battles and links to zkillboard for kills.
 * [WormBoard](http://fetox-developments.com/wormboard/) - Wormhole corporation ranking site and statistics including killtime distribution and expected fleetsizes.
 
-**Killboards**
+#### Killboards
 
 * [zKillboard](https://zkillboard.com) - A website for killmail presentation and statistical aggregation.
 * [Utils Space](https://utils.space/killmails/) - A young but aspiring killboard.
 
-**Killboard Utilities**
+#### Killboard Utilities
 * [RedisQ](https://github.com/zKillboard/RedisQ) - A simple queue service for "pushing" killmails from zKillboard.
 * [evf-eve](http://evf-eve.com/services/brcat/) - Tool for generating battle reports from killmails held on zKillboard.com
 
-**Market**
+#### Market
 
 * [Eve Traders Handbook](http://matthewpennell.github.io/eve-traders-handbook/) - a multi-purpose web application for traders, importers, and manufacturers.
 * [EVE-Mogul](https://trade.eve-mogul.com) - EVE-Mogul.com - Website for trade & profit tracking, portfolio management, and more
@@ -91,18 +86,18 @@ While these fitting tools haven't been updated in some time they can still be us
 * [MarketBot](https://github.com/Ionaru/MarketBot) - A Discord bot for fetching the best item prices and other market data.
 * [EveCharacterSearch](http://www.evecharactersearch.com) - Search and filter Character Bazaar threads based on character skills. Useful for finding a perfect character to buy.
 
-**Manufacturing**
+#### Manufacturing
 
 * [Eve Cost](http://www.eve-cost.eu/calculator) - Calculate what you need to make anything and profit margins.  Also has invention and refining calculators.
 * [Fuzzworks](http://www.fuzzwork.co.uk) - Fuzzworks - many very, very useful tools including but not limited to Industry, stats, calculators, and route planners. [Fuzzwork github](https://github.com/fuzzysteve/)
 
-**Maps**
+#### Maps
 
 * [Dotlan](http://evemaps.dotlan.net/) - The ONLY eve map site you will ever need peroid.  Jump planning, and route planning.  A lot of info too much to list.
 * [Eveeye Explorer](https://eveeye.com/) - Ingame interactive k-space maps + chain mapping.
 * [Slazangers Map Tool (SMT)](https://github.com/Slazanger/SMT) - Character/intel tracking, waypoint manipulation, live data for all your hunting/travelling needs(ratting, deaths, jumps etc) and some helpers for relic/data exploration
 
-**Misc**
+#### Misc
 
 * [jeveassets](http://eve.nikr.net/jeveasset) - Asset viewer, with market values.
 * [Eve-Files](http://www.eve-files.com/) - Upload Eve related files for sharing.
@@ -112,30 +107,30 @@ While these fitting tools haven't been updated in some time they can still be us
 * [PHP Timerboard](https://github.com/drkthunder02/phptimerboard/) - Stand-alone PHP Timerboard
 * [EveChatNotifier](https://github.com/MyUncleSam/EveChatNotifier) - Outlook-Like Notifications for EVE Online chat
 
-**Planetary Interaction**
+#### Planetary Interaction
 
 * [EVE PI](https://play.google.com/store/apps/details?id=dae.evepi) - Android based Planetary Interaction App. Track your extractors. In active development.
 * [Eve Planets](http://eveplanets.com/) - Database of planets in each system and what can be made on each one.
 
-**Skills**
+#### Skills
 
 * [EVE-Skillplan.net](https://www.eve-skillplan.net) - Web based and responsive skill planner to plan and share your training using your favourite devices - PC/Mac, tablet or smartphone.
 * [EveBoard](http://eveboard.com/) - Character tracking. (needs better description).
 * [EveMon](https://evemondevteam.github.io/evemon/) - a lightweight, easy-to-use standalone Windows application designed to assist you in keeping track of your EVE Online character progression.
-* [EveSP](https://evesp.com/) - Web 'app' to quickly view the skills of a character along with the ships that they can currently fly. 
+* [EveSP](https://evesp.com/) - Web 'app' to quickly view the skills of a character along with the ships that they can currently fly.
 * [Vitality](https://github.com/sixones/vitality/releases) - Mac skill planner. Requires circumventing of "can’t be opened because it is from an unidentified developer.".
 * [EveSkillboard](https://eveskillboard.com/) - Character Skill Sheet, Standings, Corporation History, Ships can/cannot fly.
 
 
-### Developer tools, resources and APIs
+### Developer resources & documentation
 
-**ESI**
+#### ESI
 * [ESI - Swagger API documentation](https://esi.tech.ccp.is/latest/)
 * [ESI - Swagger API documentation (v3)](https://esi.tech.ccp.is/ui/) - [github repository](https://github.com/ccpgames/esi-swagger-ui)
 * [ESI-routes](https://github.com/ccpgames/esi-routes) - first open source ESI endpoint
 * [EVE-glue](https://github.com/ccpgames/eve-glue) - enums for transitioning from XML or CREST to ESI
 
-**API**
+#### API
 * [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documentation for official Eve Online endpoints (deprecation date May 8, 2018).
 * [EveWho's API](http://evewho.com/faq/) - EveWho's API.
 * [Google CREST Script](https://github.com/nuadi/googlecrestscript) - Designed for use in Google Sheets.
@@ -151,27 +146,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Eve MarketData](http://eve-marketdata.com/developers/index.php) - Price data API
 * [Citadel API](https://stop.hammerti.me.uk/api) - JSON API linking citadel IDs/names/solar systems. Has [swagger definition](https://raw.githubusercontent.com/OrbitalEnterprises/swagger-specs/master/citadel-api.yaml).
 
-**Library**
-* [EveApi](https://github.com/ZyorTaelon/eveapi) - Java library to access the XML API
-* [Eve-CREST](https://github.com/burberius/eve-crest) - Java library to access the CREST API
-* [eve-esi](https://github.com/burberius/eve-esi) - Java library to access the ESI API
-* [go-eve](https://github.com/killmails/go-eve) - Go library to access the XML API
-* [EVELink](https://github.com/eve-val/evelink) - Python library to access the XML API
-* [eve_online](https://github.com/biow0lf/eve_online) - Ruby library to access the XML/ESI API ([rubygems link](https://rubygems.org/gems/eve_online)).
-* [iveeCore](https://github.com/aineko-m/iveeCore) - PHP Library for calculations of industrial activities
-* [yapeal](https://github.com/Yapeal/yapeal) - PHP Library for interacting with and storing XML and CREST API results
-* [EVE Online Library.NET](https://github.com/ezet/evelib) - C#.NET library for interacting with a vareity of official and unoffical APIs including ZKillboard, CREST, Element43, and others.
-* [ESI Connection Library](https://github.com/Dusty-Meg/ESIConnectionLibrary) - C#.NET library for connecting with ESI
-* [Eseye](https://github.com/eveseat/eseye) - Standalone, Dynamic PHP Client Library for the ESI API
-* [PyCrest](https://github.com/pycrest/PyCrest) - Pythoon library to interact with CREST API
-* [EsiPy](https://github.com/Kyria/EsiPy) - Python library (on top of pyswagger) to interact with the ESI API
-* [goesi](https://github.com/antihax/goesi) - Go library using versioned endpoints to access ESI, SSO, CREST, and XMLAPI
-* [ESI Proxy](https://github.com/OrbitalEnterprises/orbital-esi-proxy) - A Java serlvet which acts as a proxy for the ESI translating key/hash pairs (created by the proxy) into auto-refreshed OAuth authorization tokens.
-* [CFESI](https://github.com/ddspringle/CFESI) - ColdFusion (CFML) CFC API wrapper to interact with the ESI API
-* [ESIClient.Dotcore](https://github.com/Jimmy062006/ESIClient.Dotcore) - Dotcore API wrapper to interact with the ESI API
-
-
-**Resources**
+#### Resources
 
 * [Official Resources](https://developers.eveonline.com/resource/resources) - CCP's developer site, including the SDE and image collection.
 * [EVE SDE Database Builder](https://forums.eveonline.com/default.aspx?g=posts&t=500859) - Customizable Window's application to import CCP's SDE into various Database formats and languages.
@@ -180,7 +155,41 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Mock ESI](https://github.com/antihax/mock-esi) - A mock ESI server for consistently testing ESI Consumers, wrapped in a Docker image.
 
 
-**SSO**
+### Developer tools & libraries
+
+#### Java
+
+* [EveApi](https://github.com/ZyorTaelon/eveapi) - Java library to access the XML API
+* [Eve-CREST](https://github.com/burberius/eve-crest) - Java library to access the CREST API
+* [eve-esi](https://github.com/burberius/eve-esi) - Java library to access the ESI API
+* [ESI Proxy](https://github.com/OrbitalEnterprises/orbital-esi-proxy) - A Java serlvet which acts as a proxy for the ESI translating key/hash pairs (created by the proxy) into auto-refreshed OAuth authorization tokens.
+
+#### PHP
+* [iveeCore](https://github.com/aineko-m/iveeCore) - PHP Library for calculations of industrial activities
+* [yapeal](https://github.com/Yapeal/yapeal) - PHP Library for interacting with and storing XML and CREST API results
+* [Eseye](https://github.com/eveseat/eseye) - Standalone, Dynamic PHP Client Library for the ESI API
+
+#### Python
+* [EVELink](https://github.com/eve-val/evelink) - Python library to access the XML API
+* [PyCrest](https://github.com/pycrest/PyCrest) - Pythoon library to interact with CREST API
+* [EsiPy](https://github.com/Kyria/EsiPy) - Python library (on top of pyswagger) to interact with the ESI API
+
+#### Ruby
+* [eve_online](https://github.com/biow0lf/eve_online) - Ruby library to access the XML/ESI API ([rubygems link](https://rubygems.org/gems/eve_online)).
+
+#### C#.NET
+* [EVE Online Library.NET](https://github.com/ezet/evelib) - C#.NET library for interacting with a vareity of official and unoffical APIs including ZKillboard, CREST, Element43, and others.
+* [ESI Connection Library](https://github.com/Dusty-Meg/ESIConnectionLibrary) - C#.NET library for connecting with ESI
+
+#### GO
+* [go-eve](https://github.com/killmails/go-eve) - Go library to access the XML API
+* [goesi](https://github.com/antihax/goesi) - Go library using versioned endpoints to access ESI, SSO, CREST, and XMLAPI
+
+#### Other
+* [CFESI](https://github.com/ddspringle/CFESI) - ColdFusion (CFML) CFC API wrapper to interact with the ESI API
+* [ESIClient.Dotcore](https://github.com/Jimmy062006/ESIClient.Dotcore) - Dotcore API wrapper to interact with the ESI API
+
+#### SSO
 
 * [CrestSSO](https://github.com/zKillboard/crestsso) - Simple CREST SSO library for PHP
 * [OAUTH2](https://github.com/killmails/oauth2-eve) - OAUTH2 library for working with Eve Online's SSO
