@@ -56,6 +56,7 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### Management Tools
 * [EveStructures](https://structures.eveskillboard.com) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, and much more.
+* [EVE Data](https://www.evedata.org) - Market Data, P&L, asset valuation, war/FW contact synchronization, locator agent data sharing, discord integration for kills; structures; locators, and more.
 
 #### Discord Tools
 * [Firetail](https://github.com/shibdib/firetail) - A discord bot that can provide killmails, price checks, group and character lookups and more..
