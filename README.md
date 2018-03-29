@@ -91,6 +91,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [EVE Station Trading Assistant](https://storage.googleapis.com/eve-station-trading-assistant/index.html) - EVE Station Trading Assistant (ESTA) was made to help you find profitable items for station trading in Trade Hubs.
 * [MarketBot](https://github.com/Ionaru/MarketBot) - A Discord bot for fetching the best item prices and other market data.
 * [EveCharacterSearch](http://www.evecharactersearch.com) - Search and filter Character Bazaar threads based on character skills. Useful for finding a perfect character to buy.
+* [EveMarketTool](https://memcallen.github.io/EveMarketTool/docs/) - Bulk price check and find the items with the best trade flipping margins.
 
 #### Manufacturing
 
