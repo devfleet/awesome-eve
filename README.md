@@ -26,6 +26,7 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [PyEveLiveDPS](https://github.com/ArtificialQualia/PyEveLiveDPS) - PyEveLiveDPS (PELD) is a live DPS calculator and grapher for many combat statistics
 * [EVE Ref](https://everef.net/) - EVE Online reference site with full item database and stats.
 * [EVEthing2](https://evething2.skyride.org/) - Toolbox for manage skills and assets across a large number of characters. [repo](https://github.com/skyride/evething-2)
+* [GESI](https://github.com/Blacksmoke16/GESI) - Google Sheets script to interact with ESI.
 
 #### Fitting Tools
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
@@ -158,7 +159,6 @@ While these fitting tools haven't been updated in some time they can still be us
 * [EveKit - Account](https://evekit.orbital.enterprises/#/main/news) - Capture EVE character and corporation data in the cloud (including complete history).  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 * [EveKit - SDE](https://evekit.orbital.enterprises/#/sde/main) - Last two releases of the full SDE online.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 * [EveKit - Proxy](https://evekit.orbital.enterprises/#/xmlapi/main) - A simple proxy which server the EVE Online XML API in JSON.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
-* [Eve Central](https://eve-central.com/home/develop.html) - Price data API
 * [Eve MarketData](http://eve-marketdata.com/developers/index.php) - Price data API
 * [Citadel API](https://stop.hammerti.me.uk/api) - JSON API linking citadel IDs/names/solar systems. Has [swagger definition](https://raw.githubusercontent.com/OrbitalEnterprises/swagger-specs/master/citadel-api.yaml).
 
