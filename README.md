@@ -25,6 +25,7 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [EveHQ](https://evehq.co) - Toolbox for capsuleer including fitting, character and skill planning, industry, assets management and more.
 * [PyEveLiveDPS](https://github.com/ArtificialQualia/PyEveLiveDPS) - PyEveLiveDPS (PELD) is a live DPS calculator and grapher for many combat statistics
 * [EVE Ref](https://everef.net/) - EVE Online reference site with full item database and stats.
+* [EVEthing2](https://evething2.skyride.org/) - Toolbox for manage skills and assets across a large number of characters. [repo](https://github.com/skyride/evething-2)
 
 #### Fitting Tools
 
