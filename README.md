@@ -67,6 +67,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Tripwire](https://tripwire.eve-apps.com/) - wormhole mapping tool
 * [Siggy](https://siggy.borkedlabs.com/pages/welcome) - wormhole mapping tool
 * [Pathfinder](https://www.pathfinder-w.space/) - wormhole mapping tool
+* [anoik.is](http://anoik.is/) - Wormhole info tool.  Tells you about the WH and who is probably in it.  Battles and links to zkillboard for kills.
 * [WormBoard](http://fetox-developments.com/wormboard/) - Wormhole corporation ranking site and statistics including killtime distribution and expected fleetsizes.
 
 #### Killboards
@@ -76,7 +77,7 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### Killboard Utilities
 * [RedisQ](https://github.com/zKillboard/RedisQ) - A simple queue service for "pushing" killmails from zKillboard.
-* [evf-eve](http://evf-eve.com/services/brcat/) - Tool for generating battle reports from killmails held on zKillboard.com
+* [brcat](https://br.inyour.space/) - Tool for generating battle reports from killmails held on zKillboard.com
 
 #### Market
 
