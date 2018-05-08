@@ -39,6 +39,8 @@ While these fitting tools haven't been updated in some time they can still be us
 * [IGB POS](http://eve.1019.net/pos/index.php) - Old In Game Browers POS builder.  Allows you to set up a POS with fittings to see what you can online all at once.  Has prices and creates a shopping list.
 
 #### Fleet Tools
+* [dscan.me](https://dscan.me/) - Dscan, Local scan and Fleet scan tools
+* [Capri's Tools](https://skyride.org/) - A suite of fleet scan tools including live fleet scans via ESI
 * [Fleet-up](http://fleet-up.com/) - Designed to help corporations & alliances manage their fittings, doctrines, operations and fleets.
 
 #### Intel
