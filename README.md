@@ -117,7 +117,6 @@ While these fitting tools haven't been updated in some time they can still be us
 #### Skills
 
 * [EVE-Skillplan.net](https://www.eve-skillplan.net) - Web based and responsive skill planner to plan and share your training using your favourite devices - PC/Mac, tablet or smartphone.
-* [EveMon](https://evemondevteam.github.io/evemon/) - a lightweight, easy-to-use standalone Windows application designed to assist you in keeping track of your EVE Online character progression.
 * [Vitality](https://github.com/sixones/vitality/releases) - Mac skill planner. Requires circumventing of "can’t be opened because it is from an unidentified developer.".
 * [EveSkillboard](https://eveskillboard.com/) - Character Skill Sheet, Standings, Corporation History, Ships can/cannot fly.
 * [SkillQ](https://skillq.net) - A simple webapp for monitoring skill queues of various characters.
