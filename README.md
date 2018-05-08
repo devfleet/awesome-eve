@@ -44,7 +44,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Eve Gate Camp Check](http://eve-gatecheck.space/eve/) - Navigation specifically tuned towards kills happening at gates.
 * [EveWho](http://evewho.com) - List members of a corp or alliance from out of game.
 * [SeAT](https://github.com/eveseat/seat) - SeAT is a EVE Online Corporation Management Tool written in PHP.
-* [Eve Warfare](evewarfare.com) - displays Faction Warfare statistics, highlights current hot-spots and offers a market management tool for keeping your pilots equiped. Faction warfare stats are available via both the website and Slack integration; market management tools are displayed in the browser and configured via Slack commands.
+* [Eve Warfare](http://evewarfare.com) - displays Faction Warfare statistics, highlights current hot-spots and offers a market management tool for keeping your pilots equiped. Faction warfare stats are available via both the website and Slack integration; market management tools are displayed in the browser and configured via Slack commands.
 * [Eve Incursions](http://incursions.shadowlauch.de/) -  provides an overview of the current incursions, active communities and incursion rat information.
 * [Eve Overmind](https://www.eveovermind.com)
 * [Timer Calculator](http://timers-in.space/) - calculates structure timers (such as citadel vulnerability windows or POCO/POS reinforcement) from screenshots
@@ -67,7 +67,6 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Tripwire](https://tripwire.eve-apps.com/) - wormhole mapping tool
 * [Siggy](https://siggy.borkedlabs.com/pages/welcome) - wormhole mapping tool
 * [Pathfinder](https://www.pathfinder-w.space/) - wormhole mapping tool
-* [wormhol.es](http://wh.pasta.gg/) - Wormhole info tool.  Tells you about the WH and who is probably in it.  Battles and links to zkillboard for kills.
 * [WormBoard](http://fetox-developments.com/wormboard/) - Wormhole corporation ranking site and statistics including killtime distribution and expected fleetsizes.
 
 #### Killboards
