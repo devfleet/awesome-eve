@@ -28,7 +28,6 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [EVEthing2](https://evething2.skyride.org/) - Toolbox for manage skills and assets across a large number of characters. [repo](https://github.com/skyride/evething-2)
 
 #### Fitting Tools
-
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
 
 #### Fitting Tools (Outdated)
@@ -42,6 +41,11 @@ While these fitting tools haven't been updated in some time they can still be us
 * [dscan.me](https://dscan.me/) - Dscan, Local scan and Fleet scan tools
 * [Capri's Tools](https://skyride.org/) - A suite of fleet scan tools including live fleet scans via ESI
 * [Fleet-up](http://fleet-up.com/) - Designed to help corporations & alliances manage their fittings, doctrines, operations and fleets.
+
+
+#### Auth Systems
+* [Alliance Auth](https://github.com/allianceauth/allianceauth) - An auth system for EVE Online to help in-game organizations manage online service access.
+* [AVRSE Auth](https://github.com/skyride/avrse-auth) - An FC focussed auth system with support for discord, mumble and IPB. Handles characters/assets/skills/structure management.
 
 #### Intel
 * [Eve Gate Camp Check](http://eve-gatecheck.space/eve/) - Navigation specifically tuned towards kills happening at gates.
