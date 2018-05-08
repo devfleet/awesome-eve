@@ -57,6 +57,16 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Timer Calculator](http://timers-in.space/) - calculates structure timers (such as citadel vulnerability windows or POCO/POS reinforcement) from screenshots
 * [EVE PRISM](http://eve-prism.com/) -  tool for gathering and analyzing information intended for PvP-oriented players that also works as a gorgeous screensaver
 
+#### Mobile Applications
+##### Android
+* (ESI) [Evanova](https://play.google.com/store/apps/details?id=com.tlabs.android.evanova) - Character and corporation management tool featuring a fitting tool, database browsing and more.
+* (ESI) [Eve Panda](https://play.google.com/store/apps/details?id=com.fnl.light.evepanda) - Manage your Eve Online characters using the ESI interface.
+* (XML) [Eve Droid](https://play.google.com/store/apps/details?id=dk.alxb.evedroid) - EVE Droid is a character monitoring and ship fitting tool for EVE Online.
+* (N/A) [Mining Helper](https://play.google.com/store/apps/details?id=com.randomlettersandnumbers15645151gd65fg16d5fgs46r84tserg51f3d21ger6.eveminer) - This simple app let's you select some ores and will fetch their prices in Tradehubs.
+
+##### IOS
+* (ESI) [NeoCom](https://itunes.apple.com/ca/app/neocom-for-eve-online/id418895101?mt=8) - View your EVE Online characters and skills, browse EVE Online items database, analyze market information, test ship fits on your iPhone/iPad or iPod Touch.
+
 ---------
 
 ## Corporation/Alliance/Group tools
