@@ -113,7 +113,6 @@ While these fitting tools haven't been updated in some time they can still be us
 #### Planetary Interaction
 
 * [EVE PI](https://play.google.com/store/apps/details?id=dae.evepi) - Android based Planetary Interaction App. Track your extractors. In active development.
-* [Eve Planets](http://eveplanets.com/) - Database of planets in each system and what can be made on each one.
 
 #### Skills
 
