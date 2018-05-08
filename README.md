@@ -188,10 +188,10 @@ While these fitting tools haven't been updated in some time they can still be us
 * [esi](https://github.com/dhiemstra/esi) - Ruby library to access the ESI API ([rubygems link](https://rubygems.org/gems/esi)).
 
 #### .NET
-* [EVE Online Library.NET](https://github.com/ezet/evelib) - C#.NET library for interacting with a vareity of official and unoffical APIs including ZKillboard, CREST, Element43, and others.
+* [EVE Online Library.NET](https://github.com/ezet/evelib) - C#.NET library for interacting with a vareity of official and unoffical APIs including ZKillboard, CREST, Element43, and others. ___Friendly reminder: EVE XML & CREST are dead___
 * [ESI Connection Library](https://github.com/Dusty-Meg/ESIConnectionLibrary) - C#.NET library for connecting with ESI
 * [ESIClient.Dotcore](https://github.com/Jimmy062006/ESIClient.Dotcore) - Dotcore API wrapper to interact with the ESI API
-* [zKbRedisqProxy](https://github.com/jameson2011/zKbRedisqProxy) - Command line app for testing against RedisQ
+* [zKbRedisqProxy](https://github.com/jameson2011/zKbRedisqProxy) - Console app for testing against RedisQ
 
 #### GO
 * [go-eve](https://github.com/killmails/go-eve) - Go library to access the XML API
