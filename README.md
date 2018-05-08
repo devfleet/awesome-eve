@@ -133,7 +133,6 @@ While these fitting tools haven't been updated in some time they can still be us
 #### API
 * [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documentation for official Eve Online endpoints (deprecation date May 8, 2018).
 * [EveWho's API](http://evewho.com/faq/) - EveWho's API.
-* [Google CREST Script](https://github.com/nuadi/googlecrestscript) - Designed for use in Google Sheets.
 * [Other Documentation](https://www.reddit.com/r/evetech/comments/4mwgb7/documentation/) - More Documentation for other tools and endpoints can be found in this Reddit post.
 * [PL APIs](https://tools.pandemic-legion.pl/api/) - PL provided list of apis.
 * [Fuzzwork Map API](https://www.fuzzwork.co.uk/tools/api-map-data/) - A number of map based APIs.
