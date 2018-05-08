@@ -88,7 +88,6 @@ While these fitting tools haven't been updated in some time they can still be us
 * [ISK Per Hour](https://eveiph.github.io/) EVE - Isk per Hour is a Windows program that allows players of EVE Online to determine ways to maximize their Isk per Hour through manufacturing, mining, invention, and reverse engineering.
 * [EveKit - Market](https://evekit.orbital.enterprises/#/md/main) - Market price history and book data (including complete history).  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 * [MarketBot](https://github.com/Ionaru/MarketBot) - A Discord bot for fetching the best item prices and other market data.
-* [EveCharacterSearch](http://www.evecharactersearch.com) - Search and filter Character Bazaar threads based on character skills. Useful for finding a perfect character to buy.
 * [EveMarketTool](https://memcallen.github.io/EveMarketTool/docs/) - Bulk price check and find the items with the best trade flipping margins.
 
 #### Manufacturing
