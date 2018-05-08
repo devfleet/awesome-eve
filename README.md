@@ -25,9 +25,9 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [EveHQ](https://evehq.co) - Toolbox for capsuleer including fitting, character and skill planning, industry, assets management and more.
 * [PyEveLiveDPS](https://github.com/ArtificialQualia/PyEveLiveDPS) - PyEveLiveDPS (PELD) is a live DPS calculator and grapher for many combat statistics
 * [EVE Ref](https://everef.net/) - EVE Online reference site with full item database and stats.
+* [EVEthing2](https://evething2.skyride.org/) - Toolbox for manage skills and assets across a large number of characters. [repo](https://github.com/skyride/evething-2)
 
 #### Fitting Tools
-
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
 
 #### Fitting Tools (Outdated)
@@ -35,17 +35,23 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 While these fitting tools haven't been updated in some time they can still be useful, but use at your own risk.
 
 * [EFT](https://forums.eveonline.com/default.aspx?g=posts&t=24359) - Eve Fitting Tool (Windows). (no update since May 2016)
-* [Osmium](https://o.smium.org/) - Browser based fitting tool and loadout sharing platform. (no update since August 2015)
 * [IGB POS](http://eve.1019.net/pos/index.php) - Old In Game Browers POS builder.  Allows you to set up a POS with fittings to see what you can online all at once.  Has prices and creates a shopping list.
 
 #### Fleet Tools
+* [dscan.me](https://dscan.me/) - Dscan, Local scan and Fleet scan tools
+* [Capri's Tools](https://skyride.org/) - A suite of fleet scan tools including live fleet scans via ESI
 * [Fleet-up](http://fleet-up.com/) - Designed to help corporations & alliances manage their fittings, doctrines, operations and fleets.
+
+
+#### Auth Systems
+* [Alliance Auth](https://github.com/allianceauth/allianceauth) - An auth system for EVE Online to help in-game organizations manage online service access.
+* [AVRSE Auth](https://github.com/skyride/avrse-auth) - An FC focussed auth system with support for discord, mumble and IPB. Handles characters/assets/skills/structure management.
 
 #### Intel
 * [Eve Gate Camp Check](http://eve-gatecheck.space/eve/) - Navigation specifically tuned towards kills happening at gates.
 * [EveWho](http://evewho.com) - List members of a corp or alliance from out of game.
 * [SeAT](https://github.com/eveseat/seat) - SeAT is a EVE Online Corporation Management Tool written in PHP.
-* [Eve Warfare](evewarfare.com) - displays Faction Warfare statistics, highlights current hot-spots and offers a market management tool for keeping your pilots equiped. Faction warfare stats are available via both the website and Slack integration; market management tools are displayed in the browser and configured via Slack commands.
+* [Eve Warfare](http://evewarfare.com) - displays Faction Warfare statistics, highlights current hot-spots and offers a market management tool for keeping your pilots equiped. Faction warfare stats are available via both the website and Slack integration; market management tools are displayed in the browser and configured via Slack commands.
 * [Eve Incursions](http://incursions.shadowlauch.de/) -  provides an overview of the current incursions, active communities and incursion rat information.
 * [Eve Overmind](https://www.eveovermind.com)
 * [Timer Calculator](http://timers-in.space/) - calculates structure timers (such as citadel vulnerability windows or POCO/POS reinforcement) from screenshots
@@ -68,7 +74,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Tripwire](https://tripwire.eve-apps.com/) - wormhole mapping tool
 * [Siggy](https://siggy.borkedlabs.com/pages/welcome) - wormhole mapping tool
 * [Pathfinder](https://www.pathfinder-w.space/) - wormhole mapping tool
-* [wormhol.es](http://wh.pasta.gg/) - Wormhole info tool.  Tells you about the WH and who is probably in it.  Battles and links to zkillboard for kills.
+* [anoik.is](http://anoik.is/) - Wormhole info tool.  Tells you about the WH and who is probably in it.  Battles and links to zkillboard for kills.
 * [WormBoard](http://fetox-developments.com/wormboard/) - Wormhole corporation ranking site and statistics including killtime distribution and expected fleetsizes.
 
 #### Killboards
@@ -78,7 +84,7 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### Killboard Utilities
 * [RedisQ](https://github.com/zKillboard/RedisQ) - A simple queue service for "pushing" killmails from zKillboard.
-* [evf-eve](http://evf-eve.com/services/brcat/) - Tool for generating battle reports from killmails held on zKillboard.com
+* [brcat](https://br.inyour.space/) - Tool for generating battle reports from killmails held on zKillboard.com
 
 #### Market
 
@@ -88,9 +94,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Evernus](http://evernus.com/) - Inventory and market data (Windows/MacOSX application).
 * [ISK Per Hour](https://eveiph.github.io/) EVE - Isk per Hour is a Windows program that allows players of EVE Online to determine ways to maximize their Isk per Hour through manufacturing, mining, invention, and reverse engineering.
 * [EveKit - Market](https://evekit.orbital.enterprises/#/md/main) - Market price history and book data (including complete history).  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
-* [EVEWalletAware](http://eve.basicaware.de/evewalletaware/index.html) - EVEWalletAware (EWA) is as an offline wallet viewer and trading/accounting helper. (Windows)
 * [MarketBot](https://github.com/Ionaru/MarketBot) - A Discord bot for fetching the best item prices and other market data.
-* [EveCharacterSearch](http://www.evecharactersearch.com) - Search and filter Character Bazaar threads based on character skills. Useful for finding a perfect character to buy.
 * [EveMarketTool](https://memcallen.github.io/EveMarketTool/docs/) - Bulk price check and find the items with the best trade flipping margins.
 
 #### Manufacturing
@@ -101,7 +105,6 @@ While these fitting tools haven't been updated in some time they can still be us
 #### Maps
 
 * [Dotlan](http://evemaps.dotlan.net/) - The ONLY eve map site you will ever need peroid.  Jump planning, and route planning.  A lot of info too much to list.
-* [Eveeye Explorer](https://eveeye.com/) - Ingame interactive k-space maps + chain mapping.
 * [Slazangers Map Tool (SMT)](https://github.com/Slazanger/SMT) - Character/intel tracking, waypoint manipulation, live data for all your hunting/travelling needs(ratting, deaths, jumps etc) and some helpers for relic/data exploration
 
 #### Misc
@@ -117,14 +120,10 @@ While these fitting tools haven't been updated in some time they can still be us
 #### Planetary Interaction
 
 * [EVE PI](https://play.google.com/store/apps/details?id=dae.evepi) - Android based Planetary Interaction App. Track your extractors. In active development.
-* [Eve Planets](http://eveplanets.com/) - Database of planets in each system and what can be made on each one.
 
 #### Skills
 
 * [EVE-Skillplan.net](https://www.eve-skillplan.net) - Web based and responsive skill planner to plan and share your training using your favourite devices - PC/Mac, tablet or smartphone.
-* [EveBoard](http://eveboard.com/) - Character tracking. (needs better description).
-* [EveMon](https://evemondevteam.github.io/evemon/) - a lightweight, easy-to-use standalone Windows application designed to assist you in keeping track of your EVE Online character progression.
-* [Vitality](https://github.com/sixones/vitality/releases) - Mac skill planner. Requires circumventing of "can’t be opened because it is from an unidentified developer.".
 * [EveSkillboard](https://eveskillboard.com/) - Character Skill Sheet, Standings, Corporation History, Ships can/cannot fly.
 * [SkillQ](https://skillq.net) - A simple webapp for monitoring skill queues of various characters.
 
@@ -141,7 +140,6 @@ While these fitting tools haven't been updated in some time they can still be us
 #### API
 * [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documentation for official Eve Online endpoints (deprecation date May 8, 2018).
 * [EveWho's API](http://evewho.com/faq/) - EveWho's API.
-* [Google CREST Script](https://github.com/nuadi/googlecrestscript) - Designed for use in Google Sheets.
 * [Other Documentation](https://www.reddit.com/r/evetech/comments/4mwgb7/documentation/) - More Documentation for other tools and endpoints can be found in this Reddit post.
 * [PL APIs](https://tools.pandemic-legion.pl/api/) - PL provided list of apis.
 * [Fuzzwork Map API](https://www.fuzzwork.co.uk/tools/api-map-data/) - A number of map based APIs.
@@ -168,19 +166,14 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### Java
 
-* [EveApi](https://github.com/ZyorTaelon/eveapi) - Java library to access the XML API
-* [Eve-CREST](https://github.com/burberius/eve-crest) - Java library to access the CREST API
 * [eve-esi](https://github.com/burberius/eve-esi) - Java library to access the ESI API
 * [ESI Proxy](https://github.com/OrbitalEnterprises/orbital-esi-proxy) - A Java serlvet which acts as a proxy for the ESI translating key/hash pairs (created by the proxy) into auto-refreshed OAuth authorization tokens.
 
 #### PHP
 * [iveeCore](https://github.com/aineko-m/iveeCore) - PHP Library for calculations of industrial activities
-* [yapeal](https://github.com/Yapeal/yapeal) - PHP Library for interacting with and storing XML and CREST API results
 * [Eseye](https://github.com/eveseat/eseye) - Standalone, Dynamic PHP Client Library for the ESI API
 
 #### Python
-* [EVELink](https://github.com/eve-val/evelink) - Python library to access the XML API
-* [PyCrest](https://github.com/pycrest/PyCrest) - Pythoon library to interact with CREST API
 * [EsiPy](https://github.com/Kyria/EsiPy) - Python library (on top of pyswagger) to interact with the ESI API
 
 #### Ruby
@@ -194,7 +187,6 @@ While these fitting tools haven't been updated in some time they can still be us
 * [zKbRedisqProxy](https://github.com/jameson2011/zKbRedisqProxy) - Console app for testing against RedisQ
 
 #### GO
-* [go-eve](https://github.com/killmails/go-eve) - Go library to access the XML API
 * [goesi](https://github.com/antihax/goesi) - Go library using versioned endpoints to access ESI, SSO, CREST, and XMLAPI
 
 #### Other
@@ -202,6 +194,5 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### SSO
 
-* [CrestSSO](https://github.com/zKillboard/crestsso) - Simple CREST SSO library for PHP
 * [OAUTH2](https://github.com/killmails/oauth2-eve) - OAUTH2 library for working with Eve Online's SSO
 * [omniauth-eve_online-sso](https://github.com/biow0lf/omniauth-eve_online-sso) - EveOnline SSO OAuth2 Strategy for OmniAuth ([rubygems link](https://rubygems.org/gems/omniauth-eve_online-sso)).
