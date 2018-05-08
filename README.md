@@ -159,19 +159,14 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### Java
 
-* [EveApi](https://github.com/ZyorTaelon/eveapi) - Java library to access the XML API
-* [Eve-CREST](https://github.com/burberius/eve-crest) - Java library to access the CREST API
 * [eve-esi](https://github.com/burberius/eve-esi) - Java library to access the ESI API
 * [ESI Proxy](https://github.com/OrbitalEnterprises/orbital-esi-proxy) - A Java serlvet which acts as a proxy for the ESI translating key/hash pairs (created by the proxy) into auto-refreshed OAuth authorization tokens.
 
 #### PHP
 * [iveeCore](https://github.com/aineko-m/iveeCore) - PHP Library for calculations of industrial activities
-* [yapeal](https://github.com/Yapeal/yapeal) - PHP Library for interacting with and storing XML and CREST API results
 * [Eseye](https://github.com/eveseat/eseye) - Standalone, Dynamic PHP Client Library for the ESI API
 
 #### Python
-* [EVELink](https://github.com/eve-val/evelink) - Python library to access the XML API
-* [PyCrest](https://github.com/pycrest/PyCrest) - Pythoon library to interact with CREST API
 * [EsiPy](https://github.com/Kyria/EsiPy) - Python library (on top of pyswagger) to interact with the ESI API
 
 #### Ruby
@@ -185,7 +180,6 @@ While these fitting tools haven't been updated in some time they can still be us
 * [zKbRedisqProxy](https://github.com/jameson2011/zKbRedisqProxy) - Command line app for testing against RedisQ
 
 #### GO
-* [go-eve](https://github.com/killmails/go-eve) - Go library to access the XML API
 * [goesi](https://github.com/antihax/goesi) - Go library using versioned endpoints to access ESI, SSO, CREST, and XMLAPI
 
 #### Other
@@ -193,6 +187,5 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### SSO
 
-* [CrestSSO](https://github.com/zKillboard/crestsso) - Simple CREST SSO library for PHP
 * [OAUTH2](https://github.com/killmails/oauth2-eve) - OAUTH2 library for working with Eve Online's SSO
 * [omniauth-eve_online-sso](https://github.com/biow0lf/omniauth-eve_online-sso) - EveOnline SSO OAuth2 Strategy for OmniAuth ([rubygems link](https://rubygems.org/gems/omniauth-eve_online-sso)).
