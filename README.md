@@ -12,10 +12,13 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 
 ---------
 
-## Introducing ESI
-If you've been under a rock you may not have noticed that CCP is launching a new API with the intentions of replacing the current XML and CREST APIs. Please read the devblog here: https://community.eveonline.com/news/dev-blogs/introducing-esi/
+## XML and CREST are dead, long live ESI
 
-You can participate in CCP dev and third party dev discussion by [joining Tweetfleet on Slack](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/) and hopping into #esi
+It's official, XML and CREST are officially dead as of May 8th, 2018. The replacement ESI is now in full effect and has reached parity.
+
+#### ESI Discussion
+
+You can participate with CCP devs and third party devs by [joining Tweetfleet on Slack](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/) and hopping into the #esi channel. Do be polite.
 
 ---------
 
