@@ -174,6 +174,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Fuzzwork SDE Conversions](https://www.fuzzwork.co.uk/dump/) - SDE conversions, to Mysql, sqlite, postgres and CSV.
 * [Fuzzwork SDE Converter](https://github.com/fuzzysteve/yamlloader) - The conversion tool for going from the official yaml SDE to one in a DB.
 * [Mock ESI](https://github.com/antihax/mock-esi) - A mock ESI server for consistently testing ESI Consumers, wrapped in a Docker image.
+* [JSON version of SDE](http://sde.zzeve.com) - Download SDE tables in JSON format.
 
 ---------
 
