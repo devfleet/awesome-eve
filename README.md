@@ -122,7 +122,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Slazangers Map Tool (SMT)](https://github.com/Slazanger/SMT) - Character/intel tracking, waypoint manipulation, live data for all your hunting/travelling needs(ratting, deaths, jumps etc) and some helpers for relic/data exploration
 
 #### Misc
-
+* [EVE SRP mail](https://github.com/jbs1/eve-srpmail) - A simple mailing tool for use in Corporations with Ship Replacement Programs. Mails from contracts.
 * [jeveassets](http://eve.nikr.net/jeveasset) - Asset viewer, with market values.
 * [Eve-Files](http://www.eve-files.com/) - Upload Eve related files for sharing.
 * [Destruct-Ore](http://www.eve-tools.net) - A Corporation Mining Op Scheduler/Manager with payment manager.
