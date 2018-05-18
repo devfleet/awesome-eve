@@ -4,7 +4,7 @@ There are those who play Eve Online using the game's given UI and there are thos
 
 Process to be listed:
 
-* Create an issue, or even better yet a pull request with the name of your tool, the URL (or app name) of your tool, a category it should go into, and a very brief description of what it does.
+* Create a Pull Request with the name of your tool, the URL (or app name) of your tool, a category it should go into, and a very brief description of what it does.
 * Your product should be user friendly and beyond "beta" stages.
 * If approved, it will be added! Yay!
 
