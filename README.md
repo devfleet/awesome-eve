@@ -130,6 +130,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [EVEOTS V2](https://github.com/drkthunder02/eveotsv2/) - EVE Online Teamspeak Authenticator V2 using ESI API
 * [PHP Timerboard](https://github.com/drkthunder02/phptimerboard/) - Stand-alone PHP Timerboard
 * [EveChatNotifier](https://github.com/MyUncleSam/EveChatNotifier) - Outlook-Like Notifications for EVE Online chat
+* [ESI Knife](https://esi.a-t.al) - View/share all of your ESI data
 
 #### Planetary Interaction
 
