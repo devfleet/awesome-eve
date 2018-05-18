@@ -146,12 +146,12 @@ While these fitting tools haven't been updated in some time they can still be us
 ## Developer resources & documentation
 
 #### ESI
-* [ESI - Swagger API documentation](https://esi.evetech.net/ui/) - [github repository](https://github.com/ccpgames/esi-swagger-ui)
+* [ESI - Swagger API documentation](https://esi.evetech.net/ui/) - [github repository](https://github.com/esi/esi-swagger-ui)
 * [ESI - Swagger API documentation (old/legacy webui)](https://esi.evetech.net/latest/)
-* [ESI-issues](https://github.com/ccpgames/esi-issues) - Bug reports and feature requests for ESI
-* [EVE-glue](https://github.com/ccpgames/eve-glue) - enums for transitioning from XML or CREST to ESI
-* [ESI-routes](https://github.com/ccpgames/esi-routes) - first open source ESI endpoint
-* [ESI-bot](https://github.com/ccpgames/esi-bot) - Tweetfleet Slack ESI bot
+* [ESI-issues](https://github.com/esi/esi-issues) - Bug reports and feature requests for ESI
+* [EVE-glue](https://github.com/esi/eve-glue) - enums for transitioning from XML or CREST to ESI
+* [ESI-routes](https://github.com/esi/esi-routes) - first open source ESI endpoint
+* [ESI-bot](https://github.com/esi/esi-bot) - Tweetfleet Slack ESI bot
 
 #### API
 * [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documentation for official Eve Online endpoints (deprecation date May 8, 2018).
