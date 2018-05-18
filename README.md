@@ -131,6 +131,10 @@ While these fitting tools haven't been updated in some time they can still be us
 * [PHP Timerboard](https://github.com/drkthunder02/phptimerboard/) - Stand-alone PHP Timerboard
 * [EveChatNotifier](https://github.com/MyUncleSam/EveChatNotifier) - Outlook-Like Notifications for EVE Online chat
 
+#### Recruitment
+
+* [ESI Knife](https://esi.a-t.al) - View/share all of your ESI data
+
 #### Planetary Interaction
 
 * [EVE PI](https://play.google.com/store/apps/details?id=dae.evepi) - Android based Planetary Interaction App. Track your extractors. In active development.
