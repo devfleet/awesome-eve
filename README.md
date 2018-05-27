@@ -30,6 +30,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [EVE Ref](https://everef.net/) - EVE Online reference site with full item database and stats.
 * [EVEthing2](https://evething2.skyride.org/) - Toolbox for manage skills and assets across a large number of characters. [repo](https://github.com/skyride/evething-2)
 * [GESI](https://github.com/Blacksmoke16/GESI) - Google Sheets script to interact with ESI.
+* [Clone Guard](https://clone-guard.firebaseapp.com/) - Never lose another training clone: Notifies you if you forgot to switch to the right clone
 
 #### Fitting Tools
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
