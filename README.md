@@ -63,9 +63,11 @@ While these fitting tools haven't been updated in some time they can still be us
 * (ESI) [Eve Panda](https://play.google.com/store/apps/details?id=com.fnl.light.evepanda) - Manage your Eve Online characters using the ESI interface.
 * (XML) [Eve Droid](https://play.google.com/store/apps/details?id=dk.alxb.evedroid) - EVE Droid is a character monitoring and ship fitting tool for EVE Online.
 * (N/A) [Mining Helper](https://play.google.com/store/apps/details?id=com.randomlettersandnumbers15645151gd65fg16d5fgs46r84tserg51f3d21ger6.eveminer) - This simple app let's you select some ores and will fetch their prices in Tradehubs.
+* [Eveeye Explorer](https://play.google.com/store/apps/details?id=com.eveeye) - Interactive k-space maps + chain mapping.
 
 ##### iOS
 * [Neocom II for EVE Online](https://itunes.apple.com/ca/app/neocom-ii-for-eve-online/id1257353838?mt=8) - View your EVE Online characters and skills, browse EVE Online items database, analyze market information, test ship fits on your iPhone/iPad or iPod Touch.
+* [Eveeye Explorer](https://itunes.apple.com/us/app/eveeye/id1163904317) - Interactive k-space maps + chain mapping.
 
 ---------
 
@@ -120,6 +122,7 @@ While these fitting tools haven't been updated in some time they can still be us
 #### Maps
 
 * [Dotlan](http://evemaps.dotlan.net/) - The ONLY eve map site you will ever need peroid.  Jump planning, and route planning.  A lot of info too much to list.
+* [Eveeye Explorer](https://eveeye.com/) - Interactive k-space maps + chain mapping.
 * [Slazangers Map Tool (SMT)](https://github.com/Slazanger/SMT) - Character/intel tracking, waypoint manipulation, live data for all your hunting/travelling needs(ratting, deaths, jumps etc) and some helpers for relic/data exploration
 
 #### Misc
