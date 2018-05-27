@@ -46,11 +46,6 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Capri's Tools](https://skyride.org/) - A suite of fleet scan tools including live fleet scans via ESI
 * [Fleet-up](http://fleet-up.com/) - Designed to help corporations & alliances manage their fittings, doctrines, operations and fleets.
 
-
-#### Auth Systems
-* [Alliance Auth](https://github.com/allianceauth/allianceauth) - An auth system for EVE Online to help in-game organizations manage online service access.
-* [AVRSE Auth](https://github.com/skyride/avrse-auth) - An FC focussed auth system with support for discord, mumble and IPB. Handles characters/assets/skills/structure management.
-
 #### Intel
 * [Eve Gate Camp Check](http://eve-gatecheck.space/eve/) - Navigation specifically tuned towards kills happening at gates.
 * [EveWho](http://evewho.com) - List members of a corp or alliance from out of game.
@@ -78,6 +73,10 @@ While these fitting tools haven't been updated in some time they can still be us
 #### Management Tools
 * [EveStructures](https://structures.eveskillboard.com) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, and much more.
 * [EVE Data](https://www.evedata.org) - Market Data, P&L, asset valuation, war/FW contact synchronization, locator agent data sharing, discord integration for kills; structures; locators, and more.
+
+#### Auth Systems
+* [Alliance Auth](https://github.com/allianceauth/allianceauth) - An auth system for EVE Online to help in-game organizations manage online service access.
+* [AVRSE Auth](https://github.com/skyride/avrse-auth) - An FC focussed auth system with support for discord, mumble and IPB. Handles characters/assets/skills/structure management.
 
 #### Discord Tools
 * [Firetail](https://github.com/shibdib/firetail) - A discord bot that can provide killmails, price checks, group and character lookups and more..
