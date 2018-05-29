@@ -67,6 +67,7 @@ While these fitting tools haven't been updated in some time they can still be us
 
 ##### iOS
 * [Neocom II for EVE Online](https://itunes.apple.com/ca/app/neocom-ii-for-eve-online/id1257353838?mt=8) - View your EVE Online characters and skills, browse EVE Online items database, analyze market information, test ship fits on your iPhone/iPad or iPod Touch.
+* [Eveeye Explorer](https://itunes.apple.com/us/app/eveeye/id1163904317) - Interactive k-space maps + chain mapping.
 
 ---------
 
@@ -121,6 +122,7 @@ While these fitting tools haven't been updated in some time they can still be us
 #### Maps
 
 * [Dotlan](http://evemaps.dotlan.net/) - The ONLY eve map site you will ever need peroid.  Jump planning, and route planning.  A lot of info too much to list.
+* [Eveeye Explorer](https://eveeye.com/) - Interactive k-space maps + chain mapping.
 * [Slazangers Map Tool (SMT)](https://github.com/Slazanger/SMT) - Character/intel tracking, waypoint manipulation, live data for all your hunting/travelling needs(ratting, deaths, jumps etc) and some helpers for relic/data exploration
 
 #### Misc
