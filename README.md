@@ -61,6 +61,7 @@ While these fitting tools haven't been updated in some time they can still be us
 ##### Android
 * [Evanova](https://play.google.com/store/apps/details?id=com.tlabs.android.evanova) - Character and corporation management tool featuring a fitting tool, database browsing and more.
 * [Eve Droid](https://play.google.com/store/apps/details?id=dk.alxb.evedroid) - EVE Droid is a character monitoring and ship fitting tool for EVE Online.
+* [Eveeye Explorer](https://play.google.com/store/apps/details?id=com.eveeye) - Interactive k-space maps + chain mapping.
 * [Eve Panda](https://play.google.com/store/apps/details?id=com.fnl.light.evepanda) - Manage your Eve Online characters using the ESI interface.
 * [Eve PI](https://play.google.com/store/apps/details?id=dae.evepi) - A central console for reviewing your Planetary Interaction colonies.
 * [Mining Helper](https://play.google.com/store/apps/details?id=com.randomlettersandnumbers15645151gd65fg16d5fgs46r84tserg51f3d21ger6.eveminer) - This simple app let's you select some ores and will fetch their prices in Tradehubs.
