@@ -170,7 +170,6 @@ While these fitting tools haven't been updated in some time they can still be us
 * [PL APIs](https://tools.pandemic-legion.pl/api/) - PL provided list of apis.
 * [Fuzzwork Map API](https://www.fuzzwork.co.uk/tools/api-map-data/) - A number of map based APIs.
 * [Fuzzwork typename API](https://www.fuzzwork.co.uk/tools/api-typename-to-typeid/) - Typename to typeid API.
-* [SDE RESTful API](http://jetbalsa.com/doku.php?id=sdeapi) - Access to the full SDE over a JSON/REST API.
 * [EveKit - Account](https://evekit.orbital.enterprises/#/main/news) - Capture EVE character and corporation data in the cloud (including complete history).  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 * [EveKit - SDE](https://evekit.orbital.enterprises/#/sde/main) - Last two releases of the full SDE online.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 * [EveKit - Proxy](https://evekit.orbital.enterprises/#/xmlapi/main) - A simple proxy which server the EVE Online XML API in JSON.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
