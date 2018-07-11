@@ -141,6 +141,7 @@ While these fitting tools haven't been updated in some time they can still be us
 #### Recruitment
 
 * [ESI Knife](https://esi.a-t.al) - View/share all of your ESI data
+* [ESIKnife](https://beta.esiknife.space) - View/share all of your ESI data
 
 #### Planetary Interaction
 
