@@ -162,6 +162,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [EVE-glue](https://github.com/esi/eve-glue) - enums for transitioning from XML or CREST to ESI
 * [ESI-routes](https://github.com/esi/esi-routes) - first open source ESI endpoint
 * [ESI-bot](https://github.com/esi/esi-bot) - Tweetfleet Slack ESI bot
+* [ESIStatus](https://status.esiknife.space) - Visualize the status of ESI Endpoints
 
 #### API
 * [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documentation for official Eve Online endpoints (deprecation date May 8, 2018).
