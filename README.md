@@ -149,7 +149,6 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### Skills
 
-* [EVE-Skillplan.net](https://www.eve-skillplan.net) - Web based and responsive skill planner to plan and share your training using your favourite devices - PC/Mac, tablet or smartphone.
 * [EveSkillboard](https://eveskillboard.com/) - Character Skill Sheet, Standings, Corporation History, Ships can/cannot fly.
 * [SkillQ](https://skillq.net) - A simple webapp for monitoring skill queues of various characters.
 
