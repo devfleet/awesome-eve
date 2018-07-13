@@ -107,6 +107,7 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### Market
 
+* [EVE Trade](https://evetrade.space) - a tool to fill the gaps that EVE Central left behind. It allows users to find great deals when it comes to station trading or hauling. The tool will run market analysis on station to station trades as well as region to region trades (public citadels included). 
 * [Eve Traders Handbook](http://matthewpennell.github.io/eve-traders-handbook/) - a multi-purpose web application for traders, importers, and manufacturers.
 * [EVE-Mogul](https://trade.eve-mogul.com) - EVE-Mogul.com - Website for trade & profit tracking, portfolio management, and more
 * [Eve Trade Master](http://evetrademaster.com) - web based profit tracking, sales reporting, trade simulator and inventory management tool.
