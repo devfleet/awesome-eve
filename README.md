@@ -25,7 +25,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 ## Capsuleer tools
 
 #### Various Tools
-* [EveHQ](https://evehq.co) - Toolbox for capsuleer including fitting, character and skill planning, industry, assets management and more.
+* ~~[EveHQ](https://evehq.co) - Toolbox for capsuleer including fitting, character and skill planning, industry, assets management and more.~~
 * [PyEveLiveDPS](https://github.com/ArtificialQualia/PyEveLiveDPS) - PyEveLiveDPS (PELD) is a live DPS calculator and grapher for many combat statistics
 * [EVE Ref](https://everef.net/) - EVE Online reference site with full item database and stats.
 * [EVEthing2](https://evething2.skyride.org/) - Toolbox for manage skills and assets across a large number of characters. [repo](https://github.com/skyride/evething-2)
@@ -34,6 +34,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 #### EveMail
 * [PodMail](https://podmail.zzeve.com) - PodMail, an ESI EveMail client. Mobile friendly web platform for accessing your evemails.
+* [Fuzzwork Mail](https://evemail.fuzzwork.co.uk) - Fuzzwork Evemail, an ESI Evemail client. Clientside based, no storage.
 
 
 #### Fitting Tools
@@ -43,8 +44,8 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 While these fitting tools haven't been updated in some time they can still be useful, but use at your own risk.
 
-* [EFT](https://forums.eveonline.com/default.aspx?g=posts&t=24359) - Eve Fitting Tool (Windows). (no update since May 2016)
-* [IGB POS](http://eve.1019.net/pos/index.php) - Old In Game Browers POS builder.  Allows you to set up a POS with fittings to see what you can online all at once.  Has prices and creates a shopping list.
+* ~~[EFT](https://forums.eveonline.com/default.aspx?g=posts&t=24359) - Eve Fitting Tool (Windows). (no update since May 2016)~~
+* ~~[IGB POS](http://eve.1019.net/pos/index.php) - Old In Game Browers POS builder.  Allows you to set up a POS with fittings to see what you can online all at once.  Has prices and creates a shopping list.~~
 
 #### Fleet Tools
 * [dscan.me](https://dscan.me/) - Dscan, Local scan and Fleet scan tools
