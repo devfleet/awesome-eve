@@ -208,6 +208,10 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Mock ESI](https://github.com/antihax/mock-esi) - A mock ESI server for consistently testing ESI Consumers, wrapped in a Docker image.
 * [JSON version of SDE](http://sde.zzeve.com) - Download SDE tables in JSON format.
 
+#### Microservices
+* [EVE MarketWatch](https://github.com/antihax/eve-marketwatch) - Self contained market microservices that pumps market changes over a websocket.
+* [EVE Axiom](https://github.com/antihax/eve-axiom) - Self contained killmail to dogma attribute processor. Feed it ESI Killmail data and it spits out the ship, module, and drone attributes.
+
 ---------
 
 ## Developer tools & libraries
