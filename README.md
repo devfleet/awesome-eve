@@ -81,7 +81,19 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### Management Tools
 * [EveStructures](https://structures.eveskillboard.com) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, and much more.
-* [EVE Data](https://www.evedata.org) - Market Data, P&L, asset valuation, war/FW contact synchronization, locator agent data sharing, discord integration for kills; structures; locators, and more.
+* [EVE Data](https://www.evedata.org) - A collection of tools to help capsuleers including:
+    * [ECM Calculator](https://www.evedata.org/ecmjam) Jam Probability.
+    * [Local Intel](https://www.evedata.org/localIntel) Paste local members to get a quick summary of their capability and hotdrop frequency.
+    * [Mutation Price Estimator](https://www.evedata.org/mutaplasmidEst) Estimate of mutated module value.
+    * [Bubble-O-Matic](https://www.evedata.org/bubblePlacer) Find optimal bubble placement for inbound warp paths.
+    * [Locator Responses](https://www.evedata.org/locatorResponses) All your locator agent responses in once place, plus any shared to your corporation from other users.
+    * [War Contact Sync](https://www.evedata.org/contactSync) Synchronize war contacts across many alts. Also works for Faction War.
+    * [Undervalued Items](https://www.evedata.org/marketUndervalue) Find undervalue market items to snatch for profit.
+    * [Station Stocker](https://www.evedata.org/marketStationStocker) Compare regions to find items to resell at a profit.
+    * [ISK per Loyalty Point](https://www.evedata.org/iskPerLP) Find the best items to convert LP for ISK.
+    * [Marketable Assets](https://www.evedata.org/marketableAssets) Aids in pricing items on the market based on regional statistics.
+    * [P&L Statement](https://www.evedata.org/profitAndLoss) See all your journal history across characters to determine where you are making and losing ISK.
+    * [P&L Statement](https://www.evedata.org/killmailAttributes) Search attributes of the last 10,000 killmails of any ship category to find common or whacky fits.
 
 #### Auth Systems
 * [Alliance Auth](https://github.com/allianceauth/allianceauth) - An auth system for EVE Online to help in-game organizations manage online service access.
