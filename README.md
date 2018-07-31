@@ -93,7 +93,7 @@ While these fitting tools haven't been updated in some time they can still be us
     * [ISK per Loyalty Point](https://www.evedata.org/iskPerLP) Find the best items to convert LP for ISK.
     * [Marketable Assets](https://www.evedata.org/marketableAssets) Aids in pricing items on the market based on regional statistics.
     * [P&L Statement](https://www.evedata.org/profitAndLoss) See all your journal history across characters to determine where you are making and losing ISK.
-    * [P&L Statement](https://www.evedata.org/killmailAttributes) Search attributes of the last 10,000 killmails of any ship category to find common or whacky fits.
+    * [Killmail Attributes](https://www.evedata.org/killmailAttributes) Search attributes of the last 10,000 killmails of any ship category to find common or whacky fits.
 
 #### Auth Systems
 * [Alliance Auth](https://github.com/allianceauth/allianceauth) - An auth system for EVE Online to help in-game organizations manage online service access.
