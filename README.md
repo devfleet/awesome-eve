@@ -136,7 +136,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [EveMarketTool](https://memcallen.github.io/EveMarketTool/docs/) - Bulk price check and find the items with the best trade flipping margins.
 * [EVEMarketer](https://evemarketer.com/) - Web client to check prices and orders of all items in multiple regions that looks a lot like the in-game market.
 * [Lazy Blacksmith](https://khon.space/) - web based manufacturing/invention helper with price and profit support
-* [Priceall](https://github.com/xyx0826/Priceall) - a tool that checks Jita price of any item list with a single click without leaving game window. It is built upon Evepraisal. The tool as a widget supports various customation options including size, color, and opacity.
+* [Priceall](https://github.com/xyx0826/Priceall) - a tool that checks Jita price of any item list with a single click without leaving game window. It is built upon Evepraisal. The tool as a widget supports various customization options including size, color, and opacity.
 
 #### Manufacturing
 
