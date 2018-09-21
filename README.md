@@ -143,6 +143,7 @@ While these fitting tools haven't been updated in some time they can still be us
 
 * [Eve Cost](http://www.eve-cost.eu/calculator) - Calculate what you need to make anything and profit margins.  Also has invention and refining calculators.
 * [Fuzzworks](http://www.fuzzwork.co.uk) - Fuzzworks - many very, very useful tools including but not limited to Industry, stats, calculators, and route planners. [Fuzzwork github](https://github.com/fuzzysteve/)
+* [Eve-check](http://eve-check.space) - Interactive polymer reactions scheme
 
 #### Maps
 
