@@ -25,12 +25,17 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 ## Capsuleer tools
 
 #### Various Tools
-* [EveHQ](https://evehq.co) - Toolbox for capsuleer including fitting, character and skill planning, industry, assets management and more.
+* ~~[EveHQ](https://evehq.co) - Toolbox for capsuleer including fitting, character and skill planning, industry, assets management and more.~~
 * [PyEveLiveDPS](https://github.com/ArtificialQualia/PyEveLiveDPS) - PyEveLiveDPS (PELD) is a live DPS calculator and grapher for many combat statistics
 * [EVE Ref](https://everef.net/) - EVE Online reference site with full item database and stats.
 * [EVEthing2](https://evething2.skyride.org/) - Toolbox for manage skills and assets across a large number of characters. [repo](https://github.com/skyride/evething-2)
 * [GESI](https://github.com/Blacksmoke16/GESI) - Google Sheets script to interact with ESI.
 * [Clone Guard](https://clone-guard.firebaseapp.com/) - Never lose another training clone: Notifies you if you forgot to switch to the right clone
+
+#### EveMail
+* [PodMail](https://podmail.zzeve.com) - PodMail, an ESI EveMail client. Mobile friendly web platform for accessing your evemails.
+* [Fuzzwork Mail](https://evemail.fuzzwork.co.uk) - Fuzzwork Evemail, an ESI Evemail client. Clientside based, no storage.
+
 
 #### Fitting Tools
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
@@ -39,8 +44,8 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 While these fitting tools haven't been updated in some time they can still be useful, but use at your own risk.
 
-* [EFT](https://forums.eveonline.com/default.aspx?g=posts&t=24359) - Eve Fitting Tool (Windows). (no update since May 2016)
-* [IGB POS](http://eve.1019.net/pos/index.php) - Old In Game Browers POS builder.  Allows you to set up a POS with fittings to see what you can online all at once.  Has prices and creates a shopping list.
+* ~~[EFT](https://forums.eveonline.com/default.aspx?g=posts&t=24359) - Eve Fitting Tool (Windows). (no update since May 2016)~~
+* ~~[IGB POS](http://eve.1019.net/pos/index.php) - Old In Game Browers POS builder.  Allows you to set up a POS with fittings to see what you can online all at once.  Has prices and creates a shopping list.~~
 
 #### Fleet Tools
 * [dscan.me](https://dscan.me/) - Dscan, Local scan and Fleet scan tools
@@ -76,7 +81,19 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### Management Tools
 * [EveStructures](https://structures.eveskillboard.com) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, and much more.
-* [EVE Data](https://www.evedata.org) - Market Data, P&L, asset valuation, war/FW contact synchronization, locator agent data sharing, discord integration for kills; structures; locators, and more.
+* [EVE Data](https://www.evedata.org) - A collection of tools to help capsuleers including:
+    * [ECM Calculator](https://www.evedata.org/ecmjam) Jam Probability.
+    * [Local Intel](https://www.evedata.org/localIntel) Paste local members to get a quick summary of their capability and hotdrop frequency.
+    * [Mutation Price Estimator](https://www.evedata.org/mutaplasmidEst) Estimate of mutated module value.
+    * [Bubble-O-Matic](https://www.evedata.org/bubblePlacer) Find optimal bubble placement for inbound warp paths.
+    * [Locator Responses](https://www.evedata.org/locatorResponses) All your locator agent responses in once place, plus any shared to your corporation from other users.
+    * [War Contact Sync](https://www.evedata.org/contactSync) Synchronize war contacts across many alts. Also works for Faction War.
+    * [Undervalued Items](https://www.evedata.org/marketUndervalue) Find undervalue market items to snatch for profit.
+    * [Station Stocker](https://www.evedata.org/marketStationStocker) Compare regions to find items to resell at a profit.
+    * [ISK per Loyalty Point](https://www.evedata.org/iskPerLP) Find the best items to convert LP for ISK.
+    * [Marketable Assets](https://www.evedata.org/marketableAssets) Aids in pricing items on the market based on regional statistics.
+    * [P&L Statement](https://www.evedata.org/profitAndLoss) See all your journal history across characters to determine where you are making and losing ISK.
+    * [Killmail Attributes](https://www.evedata.org/killmailAttributes) Search attributes of the last 10,000 killmails of any ship category to find common or whacky fits.
 
 #### Auth Systems
 * [Alliance Auth](https://github.com/allianceauth/allianceauth) - An auth system for EVE Online to help in-game organizations manage online service access.
@@ -86,18 +103,21 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Firetail](https://github.com/shibdib/firetail) - A discord bot that can provide killmails, price checks, group and character lookups and more..
 * [Keepstar](https://github.com/shibdib/keepstar) - An easy way to authenticate discord users against their ingame persona. Restrict roles based off of corps and alliances.
 * [Opux](https://github.com/Jimmy062006/Opux) - A Discord bot that provides various lookups and killmail feeds as well as Discord Role management.
+* [Insight](https://github.com/Nathan-LS/Insight) - Killboard and radar streaming service for Discord.
 
 #### Intel (Wormholes)
 * [Tripwire](https://tripwire.eve-apps.com/) - wormhole mapping tool
 * [Siggy](https://siggy.borkedlabs.com/pages/welcome) - wormhole mapping tool
 * [Pathfinder](https://www.pathfinder-w.space/) - wormhole mapping tool
 * [anoik.is](http://anoik.is/) - Wormhole info tool.  Tells you about the WH and who is probably in it.  Battles and links to zkillboard for kills.
+* [eve-wh.space](https://eve-wh.space/) - Information about wormhole systems, WH sites; WH database. Integration with ESI, zKillboard. Focused on minimalistic UI and usability.
 * [WormBoard](http://fetox-developments.com/wormboard/) - Wormhole corporation ranking site and statistics including killtime distribution and expected fleetsizes.
 
 #### Killboards
 
 * [zKillboard](https://zkillboard.com) - A website for killmail presentation and statistical aggregation.
 * [Utils Space](https://utils.space/killmails/) - A young but aspiring killboard.
+* [Eve Development Network Killboard](https://github.com/evekb/evedev-kb) - A selfhostable killboard for keeping track and making campaigns with goals.
 
 #### Killboard Utilities
 * [RedisQ](https://github.com/zKillboard/RedisQ) - A simple queue service for "pushing" killmails from zKillboard.
@@ -105,15 +125,18 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### Market
 
+* [EVE Trade](https://evetrade.space) - a tool to fill the gaps that EVE Central left behind. It allows users to find great deals when it comes to station trading or hauling. The tool will run market analysis on station to station trades as well as region to region trades (public citadels included). 
 * [Eve Traders Handbook](http://matthewpennell.github.io/eve-traders-handbook/) - a multi-purpose web application for traders, importers, and manufacturers.
 * [EVE-Mogul](https://trade.eve-mogul.com) - EVE-Mogul.com - Website for trade & profit tracking, portfolio management, and more
-* [Eve Trade Master](http://evetrademaster.com) - web based profit tracking, sales reporting, trade simulator and inventory management tool.
+* ~~[Eve Trade Master](http://evetrademaster.com) - web based profit tracking, sales reporting, trade simulator and inventory management tool.~~
 * [Evernus](http://evernus.com/) - Inventory and market data (Windows/MacOSX application).
 * [ISK Per Hour](https://eveiph.github.io/) EVE - Isk per Hour is a Windows program that allows players of EVE Online to determine ways to maximize their Isk per Hour through manufacturing, mining, invention, and reverse engineering.
 * [EveKit - Market](https://evekit.orbital.enterprises/#/md/main) - Market price history and book data (including complete history).  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 * [MarketBot](https://github.com/Ionaru/MarketBot) - A Discord bot for fetching the best item prices and other market data.
 * [EveMarketTool](https://memcallen.github.io/EveMarketTool/docs/) - Bulk price check and find the items with the best trade flipping margins.
 * [EVEMarketer](https://evemarketer.com/) - Web client to check prices and orders of all items in multiple regions that looks a lot like the in-game market.
+* [Lazy Blacksmith](https://khon.space/) - web based manufacturing/invention helper with price and profit support
+* [Priceall](https://github.com/xyx0826/Priceall) - a tool that checks Jita price of any item list with a single click without leaving game window. It is built upon Evepraisal. The tool as a widget supports various customization options including size, color, and opacity.
 
 #### Manufacturing
 
@@ -139,6 +162,7 @@ While these fitting tools haven't been updated in some time they can still be us
 #### Recruitment
 
 * [ESI Knife](https://esi.a-t.al) - View/share all of your ESI data
+* [ESIKnife](https://beta.esiknife.space) - View/share all of your ESI data
 
 #### Planetary Interaction
 
@@ -146,7 +170,6 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### Skills
 
-* [EVE-Skillplan.net](https://www.eve-skillplan.net) - Web based and responsive skill planner to plan and share your training using your favourite devices - PC/Mac, tablet or smartphone.
 * [EveSkillboard](https://eveskillboard.com/) - Character Skill Sheet, Standings, Corporation History, Ships can/cannot fly.
 * [SkillQ](https://skillq.net) - A simple webapp for monitoring skill queues of various characters.
 
@@ -161,6 +184,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [EVE-glue](https://github.com/esi/eve-glue) - enums for transitioning from XML or CREST to ESI
 * [ESI-routes](https://github.com/esi/esi-routes) - first open source ESI endpoint
 * [ESI-bot](https://github.com/esi/esi-bot) - Tweetfleet Slack ESI bot
+* [ESIStatus](https://status.esiknife.space) - Visualize the status of ESI Endpoints
 
 #### API
 * [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documentation for official Eve Online endpoints (deprecation date May 8, 2018).
@@ -169,12 +193,13 @@ While these fitting tools haven't been updated in some time they can still be us
 * [PL APIs](https://tools.pandemic-legion.pl/api/) - PL provided list of apis.
 * [Fuzzwork Map API](https://www.fuzzwork.co.uk/tools/api-map-data/) - A number of map based APIs.
 * [Fuzzwork typename API](https://www.fuzzwork.co.uk/tools/api-typename-to-typeid/) - Typename to typeid API.
-* [SDE RESTful API](http://jetbalsa.com/doku.php?id=sdeapi) - Access to the full SDE over a JSON/REST API.
+* [SDE2JSON](http://sde.zzeve.com/) - The SDE converted to JSON for easy "api" access.
 * [EveKit - Account](https://evekit.orbital.enterprises/#/main/news) - Capture EVE character and corporation data in the cloud (including complete history).  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 * [EveKit - SDE](https://evekit.orbital.enterprises/#/sde/main) - Last two releases of the full SDE online.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 * [EveKit - Proxy](https://evekit.orbital.enterprises/#/xmlapi/main) - A simple proxy which server the EVE Online XML API in JSON.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 * [Eve MarketData](http://eve-marketdata.com/developers/index.php) - Price data API
 * [Citadel API](https://stop.hammerti.me.uk/api) - JSON API linking citadel IDs/names/solar systems. Has [swagger definition](https://raw.githubusercontent.com/OrbitalEnterprises/swagger-specs/master/citadel-api.yaml).
+* [zKillboard API](https://github.com/zKillboard/zKillboard/wiki) API provided by zKillboard, includes websocket documentation as well.
 
 #### Resources
 
@@ -184,6 +209,10 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Fuzzwork SDE Converter](https://github.com/fuzzysteve/yamlloader) - The conversion tool for going from the official yaml SDE to one in a DB.
 * [Mock ESI](https://github.com/antihax/mock-esi) - A mock ESI server for consistently testing ESI Consumers, wrapped in a Docker image.
 * [JSON version of SDE](http://sde.zzeve.com) - Download SDE tables in JSON format.
+
+#### Microservices
+* [EVE MarketWatch](https://github.com/antihax/eve-marketwatch) - Self contained market microservices that pumps market changes over a websocket.
+* [EVE Axiom](https://github.com/antihax/eve-axiom) - Self contained killmail to dogma attribute processor. Feed it ESI Killmail data and it spits out the ship, module, and drone attributes.
 
 ---------
 
@@ -206,6 +235,8 @@ While these fitting tools haven't been updated in some time they can still be us
 * [esi](https://github.com/dhiemstra/esi) - Ruby library to access the ESI API ([rubygems link](https://rubygems.org/gems/esi)).
 
 #### .NET
+* [EVEStandard](https://github.com/gehnster/EVEStandard) - A C# library for accessing the EVE Online ESI API. This library is .NET Standard compatible.
+* [ESISharp](https://github.com/wranders/ESISharp) - C# Library for interacting with the Eve Online ESI API.
 * [EVE Online Library.NET](https://github.com/ezet/evelib) - C#.NET library for interacting with a vareity of official and unoffical APIs including ZKillboard, CREST, Element43, and others. ___Friendly reminder: EVE XML & CREST are dead___
 * [ESI Connection Library](https://github.com/Dusty-Meg/ESIConnectionLibrary) - C#.NET library for connecting with ESI
 * [ESIClient.Dotcore](https://github.com/Jimmy062006/ESIClient.Dotcore) - Dotcore API wrapper to interact with the ESI API
