@@ -96,7 +96,7 @@ While these fitting tools haven't been updated in some time they can still be us
     * [Killmail Attributes](https://www.evedata.org/killmailAttributes) Search attributes of the last 10,000 killmails of any ship category to find common or whacky fits.
 
 #### Auth Systems
-* [Alliance Auth](https://github.com/allianceauth/allianceauth) - An auth system for EVE Online to help in-game organizations manage online service access.
+* [Alliance Auth](https://gitlab.com/allianceauth/allianceauth) - An auth system for EVE Online to help in-game organizations manage online service access.
 * [AVRSE Auth](https://github.com/skyride/avrse-auth) - An FC focussed auth system with support for discord, mumble and IPB. Handles characters/assets/skills/structure management.
 
 #### Discord Tools
