@@ -33,6 +33,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Clone Guard](https://clone-guard.firebaseapp.com/) - Never lose another training clone: Notifies you if you forgot to switch to the right clone
 
 #### EveMail
+* [eve-mails.com](https://www.eve-mails.com) - eve-mails.com: Read, delete and write eve-mails from your browser. Allows for tracking mails of multiple accounts at the same time.
 * [PodMail](https://podmail.zzeve.com) - PodMail, an ESI EveMail client. Mobile friendly web platform for accessing your evemails.
 * [Fuzzwork Mail](https://evemail.fuzzwork.co.uk) - Fuzzwork Evemail, an ESI Evemail client. Clientside based, no storage.
 * [Spacemail](https://spacemail.xyz) - Spacemail, ESI Mail and Calendar client. Responsive open-source web-app.
