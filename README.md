@@ -33,8 +33,9 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Clone Guard](https://clone-guard.firebaseapp.com/) - Never lose another training clone: Notifies you if you forgot to switch to the right clone
 
 #### EveMail
-* [PodMail](https://podmail.zzeve.com) - PodMail, an ESI EveMail client. Mobile friendly web platform for accessing your evemails.
+* [eve-mails.com](https://www.eve-mails.com) - eve-mails.com: Read, delete and write eve-mails from your browser. Allows for tracking mails of multiple accounts at the same time.
 * [Fuzzwork Mail](https://evemail.fuzzwork.co.uk) - Fuzzwork Evemail, an ESI Evemail client. Clientside based, no storage.
+* [PodMail](https://podmail.zzeve.com) - PodMail, an ESI EveMail client. Mobile friendly web platform for accessing your evemails.
 * [Spacemail](https://spacemail.xyz) - Spacemail, ESI Mail and Calendar client. Responsive open-source web-app.
 
 
@@ -127,7 +128,7 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### Market
 
-* [EVE Trade](https://evetrade.space) - a tool to fill the gaps that EVE Central left behind. It allows users to find great deals when it comes to station trading or hauling. The tool will run market analysis on station to station trades as well as region to region trades (public citadels included). 
+* [EVE Trade](https://evetrade.space) - a tool to fill the gaps that EVE Central left behind. It allows users to find great deals when it comes to station trading or hauling. The tool will run market analysis on station to station trades as well as region to region trades (public citadels included).
 * [Eve Traders Handbook](http://matthewpennell.github.io/eve-traders-handbook/) - a multi-purpose web application for traders, importers, and manufacturers.
 * [EVE-Mogul](https://trade.eve-mogul.com) - EVE-Mogul.com - Website for trade & profit tracking, portfolio management, and more
 * ~~[Eve Trade Master](http://evetrademaster.com) - web based profit tracking, sales reporting, trade simulator and inventory management tool.~~
