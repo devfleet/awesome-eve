@@ -112,6 +112,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [MarketBot](https://github.com/Ionaru/MarketBot) - A Discord bot for fetching the best item prices and other market data.
 * [EveMarketTool](https://memcallen.github.io/EveMarketTool/docs/) - Bulk price check and find the items with the best trade flipping margins.
 * [EVEMarketer](https://evemarketer.com/) - Web client to check prices and orders of all items in multiple regions that looks a lot like the in-game market.
+* [Eve Market Watch](https://eve-market-watch.firebaseapp.com) - Notifications for when market stocks deplete
 
 #### Manufacturing
 
