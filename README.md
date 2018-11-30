@@ -141,6 +141,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Lazy Blacksmith](https://khon.space/) - web based manufacturing/invention helper with price and profit support
 * [Priceall](https://github.com/xyx0826/Priceall) - a tool that checks Jita price of any item list with a single click without leaving game window. It is built upon Evepraisal. The tool as a widget supports various customization options including size, color, and opacity.
 * [Abyssal Market](https://mutaplasmid.space/) - Web-based tool for searching through, appraising and buying abyssal modules that are available on the contract market.
+* [Eve Market Watch](https://eve-market-watch.firebaseapp.com) - Notifications for when market stocks deplete
 
 #### Manufacturing
 
