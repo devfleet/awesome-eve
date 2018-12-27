@@ -142,22 +142,14 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Priceall](https://github.com/xyx0826/Priceall) - a tool that checks Jita price of any item list with a single click without leaving game window. It is built upon Evepraisal. The tool as a widget supports various customization options including size, color, and opacity.
 * [Abyssal Market](https://mutaplasmid.space/) - Web-based tool for searching through, appraising and buying abyssal modules that are available on the contract market.
 * [Eve Market Watch](https://eve-market-watch.firebaseapp.com) - Notifications for when market stocks deplete
-* [Adam4EVE](https://www.adam4eve.eu) - A collection of market related tools and statistics including:
-    * [Margin finder](https://www.adam4eve.eu/margin_finder.php) Find items with high buy/sell spread
-    * [Market trends](https://www.adam4eve.eu/market_trends.php) Find items with their prices/volume trending
-    * [Contract prices](https://www.adam4eve.eu/contract_price.php) Contract price history
-    * [Contract profit](https://www.adam4eve.eu/contract_profit.php) Available public contracts with their profitability
+* [Adam4EVE](https://www.adam4eve.eu) - A collection of market related tools and statistics including [Margin finder](https://www.adam4eve.eu/margin_finder.php), [Market trends](https://www.adam4eve.eu/market_trends.php), [Contract prices](https://www.adam4eve.eu/contract_price.php), [Contract profit](https://www.adam4eve.eu/contract_profit.php) and more
 
 #### Manufacturing
 
 * [Eve Cost](http://www.eve-cost.eu/calculator) - Calculate what you need to make anything and profit margins.  Also has invention and refining calculators.
 * [Fuzzworks](http://www.fuzzwork.co.uk) - Fuzzworks - many very, very useful tools including but not limited to Industry, stats, calculators, and route planners. [Fuzzwork github](https://github.com/fuzzysteve/)
 * [Eve-check](http://eve-check.space) - Interactive polymer reactions scheme
-* [Adam4EVE](https://www.adam4eve.eu) - A collection of industry related tools including:
-    * [Manufacturing profitability](https://www.adam4eve.eu/manu_rank.php?category=6&tech=2&maxSat=100) What to build to make profit?
-    * [Reprocessing profitability](https://www.adam4eve.eu/repro_ranking.php) What can be reprocessed for profit?
-    * [Material influence](https://www.adam4eve.eu/material_influence.php) End price influence of a specific component
-    * [Cost index history](https://www.adam4eve.eu/graph_costIndex.php) How did the industry cost index change?
+* [Adam4EVE](https://www.adam4eve.eu) - A collection of industry related tools including [Manufacturing profitability](https://www.adam4eve.eu/manu_rank.php?category=6&tech=2&maxSat=100), [Reprocessing profitability](https://www.adam4eve.eu/repro_ranking.php), [Material influence](https://www.adam4eve.eu/material_influence.php), [Cost index history](https://www.adam4eve.eu/graph_costIndex.php) and more
 
 #### Maps
 
@@ -184,9 +176,7 @@ While these fitting tools haven't been updated in some time they can still be us
 #### Planetary Interaction
 
 * [EVE PI](https://play.google.com/store/apps/details?id=dae.evepi) - Android based Planetary Interaction App. Track your extractors. In active development.
-* [Adam4EVE](https://www.adam4eve.eu) - A collection of PI related tools including:
-    * [PI profitability](https://www.adam4eve.eu/pi_rank.php) What to create with PI for max profit?
-    * [PI chain](https://www.adam4eve.eu/pi_chain.php?pi2=3828) Chain view of the PI production process
+* [Adam4EVE](https://www.adam4eve.eu) - A collection of PI related tools including [PI profitability](https://www.adam4eve.eu/pi_rank.php) and [PI chains](https://www.adam4eve.eu/pi_chain.php?pi2=3828)
 
 #### Skills
 
