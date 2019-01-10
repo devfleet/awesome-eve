@@ -61,7 +61,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Eve Warfare](http://evewarfare.com) - displays Faction Warfare statistics, highlights current hot-spots and offers a market management tool for keeping your pilots equiped. Faction warfare stats are available via both the website and Slack integration; market management tools are displayed in the browser and configured via Slack commands.
 * [Eve Incursions](http://incursions.shadowlauch.de/) -  provides an overview of the current incursions, active communities and incursion rat information.
 * [Eve Overmind](https://www.eveovermind.com)
-* [Timer Calculator](http://timers-in.space/) - calculates structure timers (such as citadel vulnerability windows or POCO/POS reinforcement) from screenshots
+* ~~[Timer Calculator](http://timers-in.space/) - calculates structure timers (such as citadel vulnerability windows or POCO/POS reinforcement) from screenshots~~
 * [EVE PRISM](http://eve-prism.com/) -  tool for gathering and analyzing information intended for PvP-oriented players that also works as a gorgeous screensaver
 
 #### Mobile Applications
