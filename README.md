@@ -231,6 +231,7 @@ While these fitting tools haven't been updated in some time they can still be us
 #### Java
 
 * [eve-esi](https://github.com/burberius/eve-esi) - Java library to access the ESI API
+* [eve-esi-client](https://github.com/OrbitalEnterprises/eve-esi-client) - Auto-generated Swagger client (in Java) for ESI
 * [ESI Proxy](https://github.com/OrbitalEnterprises/orbital-esi-proxy) - A Java serlvet which acts as a proxy for the ESI translating key/hash pairs (created by the proxy) into auto-refreshed OAuth authorization tokens.
 
 #### PHP
@@ -245,6 +246,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [esi](https://github.com/dhiemstra/esi) - Ruby library to access the ESI API ([rubygems link](https://rubygems.org/gems/esi)).
 
 #### .NET
+* [ESI.NET](https://github.com/seraphx2/ESI.NET) - A C# wrapper for the ESI API.
 * [EVEStandard](https://github.com/gehnster/EVEStandard) - A C# library for accessing the EVE Online ESI API. This library is .NET Standard compatible.
 * [ESISharp](https://github.com/wranders/ESISharp) - C# Library for interacting with the Eve Online ESI API.
 * [EVE Online Library.NET](https://github.com/ezet/evelib) - C#.NET library for interacting with a vareity of official and unoffical APIs including ZKillboard, CREST, Element43, and others. ___Friendly reminder: EVE XML & CREST are dead___
@@ -254,9 +256,11 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### GO
 * [goesi](https://github.com/antihax/goesi) - Go library using versioned endpoints to access ESI, SSO, CREST, and XMLAPI
+* [go-eveonline](https://github.com/pequalsnp/go-eveonline) - Go package for the EVE Online ESI and SDE
 
 #### Other
 * [CFESI](https://github.com/ddspringle/CFESI) - ColdFusion (CFML) CFC API wrapper to interact with the ESI API
+* [EVE-Online-ESI-Posh](https://github.com/markus-lassfolk/EVE-Online-ESI-Posh) - Powershell Module for the ESI API
 
 #### SSO
 
