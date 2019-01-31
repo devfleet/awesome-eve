@@ -118,7 +118,6 @@ While these fitting tools haven't been updated in some time they can still be us
 #### Killboards
 
 * [zKillboard](https://zkillboard.com) - A website for killmail presentation and statistical aggregation.
-* [Utils Space](https://utils.space/killmails/) - A young but aspiring killboard.
 * [Eve Development Network Killboard](https://github.com/evekb/evedev-kb) - A selfhostable killboard for keeping track and making campaigns with goals.
 
 #### Killboard Utilities
