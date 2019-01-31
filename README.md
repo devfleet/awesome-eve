@@ -240,7 +240,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [EsiPy](https://github.com/Kyria/EsiPy) - Python library (on top of pyswagger) to interact with the ESI API
 
 #### Ruby
-* [eve_online](https://github.com/biow0lf/eve_online) - Ruby library to access the XML/ESI API ([rubygems link](https://rubygems.org/gems/eve_online)).
+* [eve_online](https://github.com/evemonk/eve_online) - Ruby library to access the XML/ESI API ([rubygems link](https://rubygems.org/gems/eve_online)).
 * [esi](https://github.com/dhiemstra/esi) - Ruby library to access the ESI API ([rubygems link](https://rubygems.org/gems/esi)).
 
 #### .NET
