@@ -63,6 +63,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Eve Overmind](https://www.eveovermind.com)
 * ~~[Timer Calculator](http://timers-in.space/) - calculates structure timers (such as citadel vulnerability windows or POCO/POS reinforcement) from screenshots~~
 * [EVE PRISM](http://eve-prism.com/) -  tool for gathering and analyzing information intended for PvP-oriented players that also works as a gorgeous screensaver
+* [Near2] (http://www.evedustry.com/near/) - Tactical Intelligence Organizer. Realtime intel/map tool.
 
 #### Mobile Applications
 ##### Android
@@ -117,7 +118,6 @@ While these fitting tools haven't been updated in some time they can still be us
 #### Killboards
 
 * [zKillboard](https://zkillboard.com) - A website for killmail presentation and statistical aggregation.
-* [Utils Space](https://utils.space/killmails/) - A young but aspiring killboard.
 * [Eve Development Network Killboard](https://github.com/evekb/evedev-kb) - A selfhostable killboard for keeping track and making campaigns with goals.
 
 #### Killboard Utilities
