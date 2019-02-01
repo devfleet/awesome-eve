@@ -240,7 +240,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [EsiPy](https://github.com/Kyria/EsiPy) - Python library (on top of pyswagger) to interact with the ESI API
 
 #### Ruby
-* [eve_online](https://github.com/biow0lf/eve_online) - Ruby library to access the XML/ESI API ([rubygems link](https://rubygems.org/gems/eve_online)).
+* [eve_online](https://github.com/evemonk/eve_online) - Ruby library to access the ESI API ([rubygems link](https://rubygems.org/gems/eve_online)).
 * [esi](https://github.com/dhiemstra/esi) - Ruby library to access the ESI API ([rubygems link](https://rubygems.org/gems/esi)).
 
 #### .NET
@@ -264,7 +264,7 @@ While these fitting tools haven't been updated in some time they can still be us
 
 * [Updated OAuth2](https://github.com/jbs1/oauth2-eveonline) - Updated OAuth2 composer package with extended Owner with corp details.
 * [OAUTH2](https://github.com/killmails/oauth2-eve) - OAUTH2 library for working with Eve Online's SSO
-* [omniauth-eve_online-sso](https://github.com/biow0lf/omniauth-eve_online-sso) - EveOnline SSO OAuth2 Strategy for OmniAuth ([rubygems link](https://rubygems.org/gems/omniauth-eve_online-sso)).
+* [omniauth-eve_online-sso](https://github.com/evemonk/omniauth-eve_online-sso) - EveOnline SSO OAuth2 Strategy for OmniAuth ([rubygems link](https://rubygems.org/gems/omniauth-eve_online-sso)).
 
 #### Dogma
 * [libdgmpp](https://github.com/mrdepth/libdgmpp) Fitting engine for EVE Online written on C++ with wrappers for Java and Android.
