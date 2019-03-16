@@ -170,6 +170,7 @@ While these fitting tools haven't been updated in some time they can still be us
 
 * [ESI Knife](https://esi.a-t.al) - View/share all of your ESI data
 * [ESIKnife](https://beta.esiknife.space) - View/share all of your ESI data
+* [Eve-HR](https://eve-hr.com) - Create a recruitment webpage for your corporation and be able to view applicants ESI data.
 
 #### Planetary Interaction
 
