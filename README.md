@@ -143,6 +143,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Abyssal Market](https://mutaplasmid.space/) - Web-based tool for searching through, appraising and buying abyssal modules that are available on the contract market.
 * [Eve Market Watch](https://eve-market-watch.firebaseapp.com) - Notifications for when market stocks deplete
 * [Adam4EVE](https://www.adam4eve.eu) - A collection of market related tools and statistics including [Margin finder](https://www.adam4eve.eu/margin_finder.php), [Market trends](https://www.adam4eve.eu/market_trends.php), [Contract prices](https://www.adam4eve.eu/contract_price.php), [Contract profit](https://www.adam4eve.eu/contract_profit.php) and more
+* [EveShopper](https://github.com/GingkathFox/EveShopper) - A small app designed to make bulk shopping easier.
 
 #### Manufacturing
 
