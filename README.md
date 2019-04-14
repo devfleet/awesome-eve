@@ -207,6 +207,7 @@ While these fitting tools haven't been updated in some time they can still be us
 * [Eve MarketData](http://eve-marketdata.com/developers/index.php) - Price data API
 * [Citadel API](https://stop.hammerti.me.uk/api) - JSON API linking citadel IDs/names/solar systems. Has [swagger definition](https://raw.githubusercontent.com/OrbitalEnterprises/swagger-specs/master/citadel-api.yaml).
 * [zKillboard API](https://github.com/zKillboard/zKillboard/wiki) API provided by zKillboard, includes websocket documentation as well.
+* [Contracts Appraisal](https://app.swaggerhub.com/apis-docs/rihanshazih/contracts-appraisal) Pricing API based on public contracts, especially good for researched BPOs and BPCs.
 
 #### Resources
 
