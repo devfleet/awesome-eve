@@ -202,6 +202,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [EveKit - Proxy](https://evekit.orbital.enterprises/#/xmlapi/main) - A simple proxy which server the EVE Online XML API in JSON.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 * [Citadel API](https://stop.hammerti.me.uk/api) - JSON API linking citadel IDs/names/solar systems. Has [swagger definition](https://raw.githubusercontent.com/OrbitalEnterprises/swagger-specs/master/citadel-api.yaml).
 * [zKillboard API](https://github.com/zKillboard/zKillboard/wiki) API provided by zKillboard, includes websocket documentation as well.
+* [Contracts Appraisal](https://app.swaggerhub.com/apis-docs/rihanshazih/contracts-appraisal) Pricing API based on public contracts, especially good for researched BPOs and BPCs.
 
 #### Resources
 
