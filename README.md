@@ -30,6 +30,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [GESI](https://github.com/Blacksmoke16/GESI) - Google Sheets script to interact with ESI.
 * [Clone Guard](https://clone-guard.firebaseapp.com/) - Never lose another training clone: Notifies you if you forgot to switch to the right clone
 * [Eve Fleet Simulator](https://evefleetsimulator.com/) - Simulate fleet PvP and compare/analyse fits and hulls.
+* [EVE Workbench](https://www.eveworkbench.com/) - EVE Workbench is a web based tool for the EVE community, allowing players to browse the market, create haul routes and browse & share fittings.
 
 #### EveMail
 * [eve-mails.com](https://www.eve-mails.com) - eve-mails.com: Read, delete and write eve-mails from your browser. Allows for tracking mails of multiple accounts at the same time.
