@@ -231,6 +231,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 #### PHP
 * [iveeCore](https://github.com/aineko-m/iveeCore) - PHP Library for calculations of industrial activities
 * [Eseye](https://github.com/eveseat/eseye) - Standalone, Dynamic PHP Client Library for the ESI API
+* [swagger-eve-php](https://github.com/tkhamez/swagger-eve-php) - Auto-generated OpenAPI client for ESI
 
 #### Python
 * [EsiPy](https://github.com/Kyria/EsiPy) - Python library (on top of pyswagger) to interact with the ESI API
