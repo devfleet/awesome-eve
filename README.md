@@ -56,6 +56,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [EVE PRISM](http://eve-prism.com/) -  tool for gathering and analyzing information intended for PvP-oriented players that also works as a gorgeous screensaver
 * [Near2](http://www.evedustry.com/near/) - Tactical Intelligence Organizer. Realtime intel/map tool.
 * [Spyglass](http://www.crypta.tech/spyglass/) - Real time visual intelligence rendering
+* [IMP](https://github.com/3vi1/IMP) - Eve Online Intelligence Management Program
 * [PySpy](https://github.com/WhiteRusssian/PySpy#pyspy---a-simple-eve-online-character-intel-tool-using-ccps-esi-api) - A powerful and fast character intel tool. Just copy past & paste pilot names from local. Great for hunting, fleet scouting and solo / small gang PVP.
 
 
