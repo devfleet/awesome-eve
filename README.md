@@ -60,6 +60,8 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [PySpy](https://github.com/WhiteRusssian/PySpy#pyspy---a-simple-eve-online-character-intel-tool-using-ccps-esi-api) - A powerful and fast character intel tool. Just copy past & paste pilot names from local. Great for hunting, fleet scouting and solo / small gang PVP.
 * [PLH](http://eve-plh.com) - Pirate's Little Helper provides a whole toolbox for finding targets, avoiding ganks and much more.
 
+#### Character Management
+* [Cerebral](https://github.com/PrometheusSatyen/Cerebral) - Cerebral is a tool for monitoring your EVE Online characters.
 
 #### Mobile Applications
 ##### Android
