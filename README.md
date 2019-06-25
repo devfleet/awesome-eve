@@ -138,7 +138,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [Lazy Blacksmith](https://khon.space/) - web based manufacturing/invention helper with price and profit support
 * [Priceall](https://github.com/xyx0826/Priceall) - a tool that checks Jita price of any item list with a single click without leaving game window. It is built upon Evepraisal. The tool as a widget supports various customization options including size, color, and opacity.
 * [Abyssal Market](https://mutaplasmid.space/) - Web-based tool for searching through, appraising and buying abyssal modules that are available on the contract market.
-* [Eve Market Watch](https://eve-market-watch.firebaseapp.com) - Notifications for when market stocks deplete
+* [EVE Market Watch](https://evemarketwatch.com) - EVE Market Watch helps you keep markets stocked.
 * [Adam4EVE](https://www.adam4eve.eu) - A collection of market related tools and statistics including [Margin finder](https://www.adam4eve.eu/margin_finder.php), [Market trends](https://www.adam4eve.eu/market_trends.php), [Contract prices](https://www.adam4eve.eu/contract_price.php), [Contract profit](https://www.adam4eve.eu/contract_profit.php) and more
 * [EveShopper](https://github.com/GingkathFox/EveShopper) - A small app designed to make bulk buying easier, and is aso useful for miners/industry players.
 
