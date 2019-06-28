@@ -100,6 +100,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [Alliance Auth](https://gitlab.com/allianceauth/allianceauth) - An auth system for EVE Online to help in-game organizations manage online service access.
 * [AVRSE Auth](https://github.com/skyride/avrse-auth) - An FC focussed auth system with support for discord, mumble and IPB. Handles characters/assets/skills/structure management.
 * [Neucore](https://github.com/tkhamez/neucore) - An application for managing access for EVE Online players to external services of an alliance.
+* [DokuWiki EveSSO Plugin](https://github.com/GoldenGnu/dokuwiki-plugin-evesso)  - DokuWiki authentication via eve online SSO and access control for corporations/alliances/factions
 
 #### Discord Tools
 * [Firetail](https://github.com/shibdib/firetail) - A discord bot that can provide killmails, price checks, group and character lookups and more..
