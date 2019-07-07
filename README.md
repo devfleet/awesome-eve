@@ -142,6 +142,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [EVE Market Watch](https://evemarketwatch.com) - EVE Market Watch helps you keep markets stocked.
 * [Adam4EVE](https://www.adam4eve.eu) - A collection of market related tools and statistics including [Margin finder](https://www.adam4eve.eu/margin_finder.php), [Market trends](https://www.adam4eve.eu/market_trends.php), [Contract prices](https://www.adam4eve.eu/contract_price.php), [Contract profit](https://www.adam4eve.eu/contract_profit.php) and more
 * [EveShopper](https://github.com/GingkathFox/EveShopper) - A small app designed to make bulk buying easier, and is aso useful for miners/industry players.
+* [Venal](https://github.com/gemoroy/venal) - A CLI alternative for [Evernus Margin tool](https://evernus.com/help/#margin_tool) aimed at quick market reconnaissance and price updating.
 
 #### Manufacturing
 
