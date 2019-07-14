@@ -31,6 +31,8 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Clone Guard](https://clone-guard.firebaseapp.com/) - Never lose another training clone: Notifies you if you forgot to switch to the right clone
 * [Eve Fleet Simulator](https://evefleetsimulator.com/) - Simulate fleet PvP and compare/analyse fits and hulls.
 * [EVE Workbench](https://www.eveworkbench.com/) - EVE Workbench is a web based tool for the EVE community, allowing players to browse the market, create haul routes and browse & share fittings.
+* [eve-calendars.com](https://www.eve-calendars.com) - Convenient out-of-game access to character's calendar. Allows players to use their favourite calendar app on the desktop or mobile as also see events in their preferred time zone.
+
 
 #### EveMail
 * [eve-mails.com](https://www.eve-mails.com) - eve-mails.com: Read, delete and write eve-mails from your browser. Allows for tracking mails of multiple accounts at the same time.
