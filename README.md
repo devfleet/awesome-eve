@@ -83,7 +83,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 ## Corporation/Alliance/Group tools
 
 #### Management Tools
-* [EveStructures](https://structures.eveskillboard.com) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, and much more.
+* [EveStructures](https://structures.eveskillboard.com) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, etc and be notified via discord/slack push notifications.
 * [EVE Data](https://www.evedata.org) - A collection of tools to help capsuleers including:
     * [ECM Calculator](https://www.evedata.org/ecmjam) Jam Probability.
     * [Local Intel](https://www.evedata.org/localIntel) Paste local members to get a quick summary of their capability and hotdrop frequency.
@@ -170,6 +170,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [EveChatNotifier](https://github.com/MyUncleSam/EveChatNotifier) - Outlook-Like Notifications for EVE Online chat
 * [Eve Deposit](http://evedeposit.dropsnorz.com) - A Rookie-friendly ore comparator based on market prices.
 * [skŸlizer](https://github.com/chrRtg/eve-skylizer) - Moon, Goo and SCAN analyzer - keep track and share moon-ore and scans
+* [Eve Insurance Fraud](https://github.com/skiedude/Eve-Insurance-Fraud) - Discover profitable ships from a specific region to buy off Sell order, insure and blow up!
   
 #### Recruitment
 
@@ -184,7 +185,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 
 #### Skills
 
-* [EveSkillboard](https://eveskillboard.com/) - Character Skill Sheet, Standings, Corporation History, Ships can/cannot fly.
+* [EveSkillboard](https://eveskillboard.com/) - Skill sheet for displaying skills, standings, implants, employment history, and provide an XML dump to import into Evemon/Pyfa.
 * [SkillQ](https://skillq.net) - A simple webapp for monitoring skill queues of various characters.
 
 ---------
