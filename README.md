@@ -145,6 +145,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [Adam4EVE](https://www.adam4eve.eu) - A collection of market related tools and statistics including [Margin finder](https://www.adam4eve.eu/margin_finder.php), [Market trends](https://www.adam4eve.eu/market_trends.php), [Contract prices](https://www.adam4eve.eu/contract_price.php), [Contract profit](https://www.adam4eve.eu/contract_profit.php) and more
 * [EveShopper](https://github.com/GingkathFox/EveShopper) - A small app designed to make bulk buying easier, and is aso useful for miners/industry players.
 * [Venal](https://github.com/gemoroy/venal) - A CLI alternative for [Evernus Margin tool](https://evernus.com/help/#margin_tool) aimed at quick market reconnaissance and price updating.
+* [Eve Insurance Fraud](https://github.com/skiedude/Eve-Insurance-Fraud) - Discover profitable ships from a specific regions market to buy off Sell order, insure and blow up!
 
 #### Manufacturing
 
@@ -170,7 +171,6 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [EveChatNotifier](https://github.com/MyUncleSam/EveChatNotifier) - Outlook-Like Notifications for EVE Online chat
 * [Eve Deposit](http://evedeposit.dropsnorz.com) - A Rookie-friendly ore comparator based on market prices.
 * [skŸlizer](https://github.com/chrRtg/eve-skylizer) - Moon, Goo and SCAN analyzer - keep track and share moon-ore and scans
-* [Eve Insurance Fraud](https://github.com/skiedude/Eve-Insurance-Fraud) - Discover profitable ships from a specific region to buy off Sell order, insure and blow up!
   
 #### Recruitment
 
@@ -185,7 +185,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 
 #### Skills
 
-* [EveSkillboard](https://eveskillboard.com/) - Skill sheet for displaying skills, standings, implants, employment history, and provide an XML dump to import into Evemon/Pyfa.
+* [EveSkillboard](https://eveskillboard.com/) - Skill sheet for displaying skills, standings, implants, employment history, ships and provide an XML dump to import into Evemon/Pyfa.
 * [SkillQ](https://skillq.net) - A simple webapp for monitoring skill queues of various characters.
 
 ---------
