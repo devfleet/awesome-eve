@@ -59,7 +59,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [Near2](http://www.evedustry.com/near/) - Tactical Intelligence Organizer. Realtime intel/map tool.
 * [Spyglass](http://www.crypta.tech/spyglass/) - Real time visual intelligence rendering
 * [IMP](https://github.com/3vi1/IMP) - Eve Online Intelligence Management Program
-* [PySpy](https://github.com/WhiteRusssian/PySpy#pyspy---a-simple-eve-online-character-intel-tool-using-ccps-esi-api) - A powerful and fast character intel tool. Just copy past & paste pilot names from local. Great for hunting, fleet scouting and solo / small gang PVP.
+* [PySpy](https://github.com/Eve-PySpy/PySpy#pyspy---a-simple-eve-online-character-intel-tool-using-ccps-esi-api) - A powerful and fast character intel tool. Just copy past & paste pilot names from local. Great for hunting, fleet scouting and solo / small gang PVP.
 * [PLH](http://eve-plh.com) - Pirate's Little Helper provides a whole toolbox for finding targets, avoiding ganks and much more.
 
 #### Character Management
