@@ -171,6 +171,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [EveChatNotifier](https://github.com/MyUncleSam/EveChatNotifier) - Outlook-Like Notifications for EVE Online chat
 * [Eve Deposit](http://evedeposit.dropsnorz.com) - A Rookie-friendly ore comparator based on market prices.
 * [skŸlizer](https://github.com/chrRtg/eve-skylizer) - Moon, Goo and SCAN analyzer - keep track and share moon-ore and scans
+* [Eve Online Static Data Export (SDE) and Image Export Collection (IEC) downloader](https://github.com/evemonk/eveonline-sde-iec-downloader) - SDE and IEC archive since 2015.
   
 #### Recruitment
 
