@@ -48,7 +48,6 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 
 #### Fleet Tools
 * [Capri's Tools](https://skyride.org/) - A suite of fleet scan tools including live fleet scans via ESI
-* [Fleet-up](http://fleet-up.com/) - Designed to help corporations & alliances manage their fittings, doctrines, operations and fleets.
 
 #### Intel
 * [Eve Gate Camp Check](http://eve-gatecheck.space/eve/) - Navigation specifically tuned towards kills happening at gates.
