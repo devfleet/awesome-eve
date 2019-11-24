@@ -173,7 +173,6 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
   
 #### Recruitment
 
-* [ESI Knife](https://esi.a-t.al) - View/share all of your ESI data
 * [ESIKnife](https://beta.esiknife.space) - View/share all of your ESI data
 * [Eve-HR](https://eve-hr.com) - Create a recruitment webpage for your corporation and be able to view applicants ESI data.
 
