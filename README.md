@@ -20,9 +20,41 @@ It's official, XML and CREST are officially dead as of May 8th, 2018. The replac
 
 You can participate with CCP devs and third party devs by [joining Tweetfleet on Slack](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/) and hopping into the #esi channel. Do be polite.
 
+
+## Table Of Contents
+- [Capsuleer Tools](#capsuleer-tools)
+- - [Various Tools](#various-tools)
+- - [EveMail](#evemail)
+- - [Fitting Tools](#fitting-tools)
+- - [Fleet Tools](#fleet-tools)
+- - [Intel](#intel)
+- - [Character Management](#character-management)
+- [Mobile Applications](#mobile-applications)
+- - [Android](#android)
+- - [iOS](#ios)
+- [Corporation/Alliance/Group Tools](#corporationalliancegroup-tools)
+- - [Management-tools](#management-tools)
+- - [Auth Systems](#auth-systems)
+- - [Discord Tools](#discord-tools)
+- - [Intel (Wormholes)](#intel-wormholes)
+- - [Killboards](#killboards)
+- - [Killboard Utilities](#killboard-utilities)
+- - [Market](#market)
+- - [Manufacturing](#manufacturing)
+- - [Maps](#maps)
+- - [Misc](#misc)
+- - [Recruitment](#recruitment)
+- - [Planetary Interaction](#planetary-interaction)
+- - [Skills](#skills)
+- [Developer resources & documentation](#developer-resources--documentation)
+- - [ESI](#esi)
+- - [API](#api)
+- - [Resources](#resources)
+- - [Microservices](#microservices)
+- [Developer tools & libraries](#developer-tools--libraries)
 ---------
 
-## Capsuleer tools
+## Capsuleer Tools
 
 #### Various Tools
 * [PyEveLiveDPS](https://github.com/ArtificialQualia/PyEveLiveDPS) - PyEveLiveDPS (PELD) is a live DPS calculator and grapher for many combat statistics
@@ -175,6 +207,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 
 * [ESIKnife](https://beta.esiknife.space) - View/share all of your ESI data
 * [Eve-HR](https://eve-hr.com) - Create a recruitment webpage for your corporation and be able to view applicants ESI data.
+* [r/evejobs](https://reddit.com/r/evejobs) - Intergalatic job board.
 
 #### Planetary Interaction
 
@@ -265,7 +298,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 #### Other
 * [CFESI](https://github.com/ddspringle/CFESI) - ColdFusion (CFML) CFC API wrapper to interact with the ESI API
 * [EVE-Online-ESI-Posh](https://github.com/markus-lassfolk/EVE-Online-ESI-Posh) - Powershell Module for the ESI API
-* [esiJS](https://github.com/GingkathFox/esiJS) - Compact and powerful Node module for the ESI API
+* [esiJS](https://github.com/GingkathFox/esiJS) - Compact and powerful NodeJS module for the ESI API
 #### SSO
 
 * [Updated OAuth2](https://github.com/jbs1/oauth2-eveonline) - Updated OAuth2 composer package with extended Owner with corp details.
