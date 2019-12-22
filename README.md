@@ -32,7 +32,9 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 - [Mobile Applications](#mobile-applications)
 - - [Android](#android)
 - - [iOS](#ios)
-- [Corporation/Alliance/Group Tools](#corporation/alliance/group-tools)
+- [Corporation/Alliance/Group Tools](#corporationalliancegroup-tools)
+- - [Management-tools](#management-tools)
+- - [Auth Systems](#auth-systems)
 ---------
 
 ## Capsuleer Tools
