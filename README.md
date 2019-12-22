@@ -20,9 +20,22 @@ It's official, XML and CREST are officially dead as of May 8th, 2018. The replac
 
 You can participate with CCP devs and third party devs by [joining Tweetfleet on Slack](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/) and hopping into the #esi channel. Do be polite.
 
+
+## Table Of Contents
+- [Capsuleer Tools](#capsuleer-tools)
+- - [Various Tools](#various-tools)
+- - [EveMail](#evemail)
+- - [Fitting Tools](#fitting-tools)
+- - [Fleet Tools](#fleet-tools)
+- - [Intel](#intel)
+- - [Character Management](#character-management)
+- [Mobile Applications](#mobile-applications)
+- - [Android](#android)
+- - [iOS](#ios)
+- [Corporation/Alliance/Group Tools](#corporation/alliance/group-tools)
 ---------
 
-## Capsuleer tools
+## Capsuleer Tools
 
 #### Various Tools
 * [PyEveLiveDPS](https://github.com/ArtificialQualia/PyEveLiveDPS) - PyEveLiveDPS (PELD) is a live DPS calculator and grapher for many combat statistics
