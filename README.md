@@ -92,9 +92,11 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [IMP](https://github.com/3vi1/IMP) - Eve Online Intelligence Management Program
 * [PySpy](https://github.com/Eve-PySpy/PySpy#pyspy---a-simple-eve-online-character-intel-tool-using-ccps-esi-api) - A powerful and fast character intel tool. Just copy past & paste pilot names from local. Great for hunting, fleet scouting and solo / small gang PVP.
 * [PLH](http://eve-plh.com) - Pirate's Little Helper provides a whole toolbox for finding targets, avoiding ganks and much more.
+* [TheraBot](https://github.com/Ionaru/TheraBot) - A Discord bot that posts notifications of newly scouted wormhole connections to Thera.
 
 #### Character Management
 * [Cerebral](https://github.com/PrometheusSatyen/Cerebral) - Cerebral is a tool for monitoring your EVE Online characters.
+* [EVIE](https://spaceships.app) - EVIE is an EVE Online API interface, for either a quick overview or in-depth information about your characters. Supports adding characters from multiple accounts into one overview.
 
 #### Mobile Applications
 ##### Android
