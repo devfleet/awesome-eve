@@ -282,6 +282,9 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [eve_online](https://github.com/evemonk/eve_online) - Ruby library to access the ESI API ([rubygems link](https://rubygems.org/gems/eve_online)).
 * [esi](https://github.com/dhiemstra/esi) - Ruby library to access the ESI API ([rubygems link](https://rubygems.org/gems/esi)).
 
+#### Rust
+* [neweden](https://github.com/dsp/neweden) - Rust library for basic system information, wayfinding and range queries ([crates.io link](https://crates.io/crates/neweden)).
+
 #### .NET
 * [ESI.NET](https://github.com/seraphx2/ESI.NET) - A C# wrapper for the ESI API.
 * [EVEStandard](https://github.com/gehnster/EVEStandard) - A C# library for accessing the EVE Online ESI API. This library is .NET Standard compatible.
