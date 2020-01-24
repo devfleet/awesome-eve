@@ -309,6 +309,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [OAUTH2](https://github.com/killmails/oauth2-eve) - OAUTH2 library for working with Eve Online's SSO
 * [omniauth-eve_online-sso](https://github.com/evemonk/omniauth-eve_online-sso) - EveOnline SSO OAuth2 Strategy for OmniAuth ([rubygems link](https://rubygems.org/gems/omniauth-eve_online-sso)).
 * [ueberauth_eve_sso](https://github.com/lukasni/ueberauth_eve_sso) - EVE Online SSO v2 OAuth2 strategy for Elixir Ueberauth ([hex.pm link](https://hex.pm/packages/ueberauth_eve_sso))
+* [ESI_Flask_Authlib_SSO](https://github.com/jayblunt/ESI_Flask_Authlib_SSO) - EVE Online SSO example with [Authlib](https://authlib.org/) for Python / Flask.
 
 #### Dogma
 * [libdgmpp](https://github.com/mrdepth/libdgmpp) Fitting engine for EVE Online written on C++ with wrappers for Java and Android.
