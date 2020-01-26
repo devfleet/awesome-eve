@@ -178,6 +178,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [EveShopper](https://github.com/GingkathFox/EveShopper) - A small app designed to make bulk buying easier, and is aso useful for miners/industry players.
 * [Venal](https://github.com/gemoroy/venal) - A CLI alternative for [Evernus Margin tool](https://evernus.com/help/#margin_tool) aimed at quick market reconnaissance and price updating.
 * [Eve Insurance Fraud](https://github.com/skiedude/Eve-Insurance-Fraud) - Discover profitable ships from a specific regions market to buy off Sell order, insure and blow up!
+* [EVE Tycoon](https://evetycoon.com/) - A profit tracking and order management application, with a market browser.
 
 #### Manufacturing
 
