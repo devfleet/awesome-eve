@@ -280,6 +280,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 
 #### Python
 * [EsiPy](https://github.com/Kyria/EsiPy) - Python library (on top of pyswagger) to interact with the ESI API
+* [django-esi](https://gitlab.com/allianceauth/django-esi) - Django app for easy access to the ESI API and Eve SSO
 
 #### Ruby
 * [eve_online](https://github.com/evemonk/eve_online) - Ruby library to access the ESI API ([rubygems link](https://rubygems.org/gems/eve_online)).
