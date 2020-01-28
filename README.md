@@ -261,6 +261,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 #### Microservices
 * [EVE MarketWatch](https://github.com/antihax/eve-marketwatch) - Self contained market microservices that pumps market changes over a websocket.
 * [EVE Axiom](https://github.com/antihax/eve-axiom) - Self contained killmail to dogma attribute processor. Feed it ESI Killmail data and it spits out the ship, module, and drone attributes.
+* [eve-shields](https://github.com/ErikKalkoken/eve-shields) - Web service for creating Eve Online related badges for web sites and github readme's with shields.io 
 
 ---------
 
