@@ -180,6 +180,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [Venal](https://github.com/gemoroy/venal) - A CLI alternative for [Evernus Margin tool](https://evernus.com/help/#margin_tool) aimed at quick market reconnaissance and price updating.
 * [Eve Insurance Fraud](https://github.com/skiedude/Eve-Insurance-Fraud) - Discover profitable ships from a specific regions market to buy off Sell order, insure and blow up!
 * [EVE Tycoon](https://evetycoon.com/) - A profit tracking and order management application, with a market browser.
+* [New Eden Markets](https://newedenmarkets.com/) - Market browser with a familiar interface. Supports handy client integration features and has the entire 16+ year market history.
 
 #### Manufacturing
 
