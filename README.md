@@ -294,7 +294,6 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 #### .NET
 * [ESI.NET](https://github.com/seraphx2/ESI.NET) - A C# wrapper for the ESI API.
 * [EVEStandard](https://github.com/gehnster/EVEStandard) - A C# library for accessing the EVE Online ESI API. This library is .NET Standard compatible.
-* [ESISharp](https://github.com/wranders/ESISharp) - C# Library for interacting with the Eve Online ESI API.
 * [EVE Online Library.NET](https://github.com/ezet/evelib) - C#.NET library for interacting with a vareity of official and unoffical APIs including ZKillboard, CREST, Element43, and others. ___Friendly reminder: EVE XML & CREST are dead___
 * [ESI Connection Library](https://github.com/Dusty-Meg/ESIConnectionLibrary) - C#.NET library for connecting with ESI
 * [ESIClient.Dotcore](https://github.com/Jimmy062006/ESIClient.Dotcore) - Dotcore API wrapper to interact with the ESI API
