@@ -307,6 +307,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [CFESI](https://github.com/ddspringle/CFESI) - ColdFusion (CFML) CFC API wrapper to interact with the ESI API
 * [EVE-Online-ESI-Posh](https://github.com/markus-lassfolk/EVE-Online-ESI-Posh) - Powershell Module for the ESI API
 * [esiJS](https://github.com/GingkathFox/esiJS) - Compact and powerful NodeJS module for the ESI API
+* [GESI](https://github.com/Blacksmoke16/GESI) - ESI library for Google Docs with auth flow
 #### SSO
 
 * [Updated OAuth2](https://github.com/jbs1/oauth2-eveonline) - Updated OAuth2 composer package with extended Owner with corp details.
