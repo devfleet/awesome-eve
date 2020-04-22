@@ -52,6 +52,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
   * [Resources](#resources)
   * [Microservices](#microservices)
 * [Developer tools & libraries](#developer-tools--libraries)
+* [Abandoned & Outdated](#abandoned-and-outdated)
 ---------
 
 ## Capsuleer Tools
@@ -321,7 +322,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 
 ---------
 
-## Abandoned & Outdated
+## Abandoned and Outdated
 
 #### Market
 
