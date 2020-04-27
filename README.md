@@ -52,6 +52,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
   * [Resources](#resources)
   * [Microservices](#microservices)
 * [Developer tools & libraries](#developer-tools--libraries)
+* [Abandoned & Outdated](#abandoned-and-outdated)
 ---------
 
 ## Capsuleer Tools
@@ -318,3 +319,11 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 
 #### Dogma
 * [libdgmpp](https://github.com/mrdepth/libdgmpp) Fitting engine for EVE Online written on C++ with wrappers for Java and Android.
+
+---------
+
+## Abandoned and Outdated
+
+#### Market
+
+* [Eve Traders Handbook](http://matthewpennell.github.io/eve-traders-handbook/) - a multi-purpose web application for traders, importers, and manufacturers.
