@@ -326,3 +326,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 #### Market
 
 * [Eve Traders Handbook](http://matthewpennell.github.io/eve-traders-handbook/) - a multi-purpose web application for traders, importers, and manufacturers.
+
+#### Management Tools
+
+* [EveStructures](https://structures.eveskillboard.com) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, etc and be notified via discord/slack push notifications.
