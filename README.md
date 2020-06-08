@@ -61,7 +61,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [PyEveLiveDPS](https://github.com/ArtificialQualia/PyEveLiveDPS) - PyEveLiveDPS (PELD) is a live DPS calculator and grapher for many combat statistics
 * [EVE Ref](https://everef.net/) - EVE Online reference site with full item database and stats.
 * [GESI](https://github.com/Blacksmoke16/GESI) - Google Sheets script to interact with ESI.
-* [Clone Guard](https://clone-guard.firebaseapp.com/) - Never lose another training clone: Notifies you if you forgot to switch to the right clone
 * [Eve Fleet Simulator](https://evefleetsimulator.com/) - Simulate fleet PvP and compare/analyse fits and hulls.
 * [EVE Workbench](https://www.eveworkbench.com/) - EVE Workbench is a web based tool for the EVE community, allowing players to browse the market, create haul routes and browse & share fittings.
 * [eve-calendars.com](https://www.eve-calendars.com) - Convenient out-of-game access to character's calendar. Allows players to use their favourite calendar app on the desktop or mobile as also see events in their preferred time zone.
