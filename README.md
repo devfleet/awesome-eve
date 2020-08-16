@@ -222,6 +222,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 
 * [EveSkillboard](https://eveskillboard.com/) - Skill sheet for displaying skills, standings, implants, employment history, ships and provide an XML dump to import into Evemon/Pyfa.
 * [SkillQ](https://skillq.net) - A simple webapp for monitoring skill queues of various characters.
+* [EVE-Skillplan.net](https://www.eve-skillplan.net) - Web based and responsive skill planner to plan and share your training using your favourite devices - PC/Mac, tablet or smartphone.
 
 ---------
 
