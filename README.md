@@ -64,6 +64,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Eve Fleet Simulator](https://evefleetsimulator.com/) - Simulate fleet PvP and compare/analyse fits and hulls.
 * [EVE Workbench](https://www.eveworkbench.com/) - EVE Workbench is a web based tool for the EVE community, allowing players to browse the market, create haul routes and browse & share fittings.
 * [eve-calendars.com](https://www.eve-calendars.com) - Convenient out-of-game access to character's calendar. Allows players to use their favourite calendar app on the desktop or mobile as also see events in their preferred time zone.
+* [EveVision](https://eve.vision/) - Tool for overlaying various external sites/tools on the EVE client.
 
 
 #### EveMail
