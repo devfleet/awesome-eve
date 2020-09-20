@@ -262,6 +262,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [Fuzzwork SDE Converter](https://github.com/fuzzysteve/yamlloader) - The conversion tool for going from the official yaml SDE to one in a DB.
 * [Mock ESI](https://github.com/antihax/mock-esi) - A mock ESI server for consistently testing ESI Consumers, wrapped in a Docker image.
 * [JSON version of SDE](http://sde.zzeve.com) - Download SDE tables in JSON format.
+* [ESI Data](https://github.com/tkhamez/esi-data) - Provides JSON files for some static data from ESI.
 
 #### Microservices
 * [EVE MarketWatch](https://github.com/antihax/eve-marketwatch) - Self contained market microservices that pumps market changes over a websocket.
