@@ -195,6 +195,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [Dotlan](http://evemaps.dotlan.net/) - The ONLY eve map site you will ever need peroid.  Jump planning, and route planning.  A lot of info too much to list.
 * [Eveeye Explorer](https://eveeye.com/) - Interactive k-space maps + chain mapping.
 * [Slazangers Map Tool (SMT)](https://github.com/Slazanger/SMT) - Character/intel tracking, waypoint manipulation, live data for all your hunting/travelling needs(ratting, deaths, jumps etc) and some helpers for relic/data exploration
+* [EVE Route](https://github.com/tkhamez/eve-route) - A route planner that supports Ansiblex jump gates and wormhole connections.
 
 #### Misc
 * [EVE SRP mail](https://github.com/jbs1/eve-srpmail) - A simple mailing tool for use in Corporations with Ship Replacement Programs. Mails from contracts.
