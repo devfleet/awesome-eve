@@ -97,6 +97,8 @@ While these fitting tools haven't been updated in some time they can still be us
 
 #### Auth Systems
 * [Alliance Auth](https://gitlab.com/allianceauth/allianceauth) - An auth system for EVE Online to help in-game organizations manage online service access.
+    * [Services](https://allianceauth.readthedocs.io/en/latest/features/services/index.html#supported-services) Discord, Mumble, Openfire/Jabber, phpBB3, SMF, Teamspeak3, XenForo, Discourse and WikiJS (AA Community App)
+    * [Community Apps](https://gitlab.com/allianceauth/community-creations) Fully featured Community built apps to extend Alliance Auth
 * [AVRSE Auth](https://github.com/skyride/avrse-auth) - An FC focussed auth system with support for discord, mumble and IPB. Handles characters/assets/skills/structure management.
 
 #### Discord Tools
