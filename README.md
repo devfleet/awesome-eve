@@ -162,6 +162,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [RedisQ](https://github.com/zKillboard/RedisQ) - A simple queue service for "pushing" killmails from zKillboard.
 * [RedisQ slack bot](https://github.com/Slivo-fr/RedisQ-Slack-Bot) - A PHP killbot publishing killmails on slack
 * [brcat](https://br.inyour.space/) - Tool for generating battle reports from killmails held on zKillboard.com
+* [ZRule](https://zrule.eveisesi.space) - Configurable Rules Engine for getting killmail notifications for killamils on ZKillboard
 
 #### Market
 
