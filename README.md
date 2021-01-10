@@ -116,7 +116,6 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 ## Corporation/Alliance/Group tools
 
 #### Management Tools
-* [EveStructures](https://structures.eveskillboard.com) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, etc and be notified via discord/slack push notifications.
 * [EVE Data](https://www.evedata.org) - A collection of tools to help capsuleers including:
     * [ECM Calculator](https://www.evedata.org/ecmjam) Jam Probability.
     * [Local Intel](https://www.evedata.org/localIntel) Paste local members to get a quick summary of their capability and hotdrop frequency.
@@ -336,4 +335,4 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 
 #### Management Tools
 
-* [EveStructures](https://structures.eveskillboard.com) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, etc and be notified via discord/slack push notifications.
+* [EveStructures](https://github.com/skiedude/evestructures) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, etc and be notified via discord/slack push notifications.
