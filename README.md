@@ -148,6 +148,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [Tripwire](https://tripwire.eve-apps.com/) - wormhole mapping tool
 * [Siggy](https://siggy.borkedlabs.com/pages/welcome) - wormhole mapping tool
 * [Pathfinder](https://www.pathfinder-w.space/) - wormhole mapping tool
+* [GalaxyFinder](https://wormholes.new-eden.io/) - wormhole mapping and info tool
 * [anoik.is](http://anoik.is/) - Wormhole info tool.  Tells you about the WH and who is probably in it.  Battles and links to zkillboard for kills.
 * [eve-wh.space](https://eve-wh.space/) - Information about wormhole systems, WH sites; WH database. Integration with ESI, zKillboard. Focused on minimalistic UI and usability.
 * [Short Circuit](https://github.com/secondfry/shortcircuit) - tool for finding shortest path between systems using Tripwire wormhole connections. 
