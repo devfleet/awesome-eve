@@ -191,6 +191,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [Fuzzworks](http://www.fuzzwork.co.uk) - Fuzzworks - many very, very useful tools including but not limited to Industry, stats, calculators, and route planners. [Fuzzwork github](https://github.com/fuzzysteve/)
 * [Eve-check](http://eve-check.space) - Interactive polymer reactions scheme
 * [Adam4EVE](https://www.adam4eve.eu) - A collection of industry related tools including [Manufacturing profitability](https://www.adam4eve.eu/manu_rank.php?category=6&tech=2&maxSat=100), [Reprocessing profitability](https://www.adam4eve.eu/repro_ranking.php), [Material influence](https://www.adam4eve.eu/material_influence.php), [Cost index history](https://www.adam4eve.eu/graph_costIndex.php) and more
+* [EVE Cookbook](https://www.evecookbook.com) - Industry build calculator tool with reactions support and detailed build steps
 
 #### Maps
 
