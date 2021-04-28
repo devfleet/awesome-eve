@@ -153,7 +153,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [GalaxyFinder](https://wormholes.new-eden.io/) - wormhole mapping and info tool
 * [anoik.is](http://anoik.is/) - Wormhole info tool.  Tells you about the WH and who is probably in it.  Battles and links to zkillboard for kills.
 * [eve-wh.space](https://eve-wh.space/) - Information about wormhole systems, WH sites; WH database. Integration with ESI, zKillboard. Focused on minimalistic UI and usability.
-* [Short Circuit](https://github.com/secondfry/shortcircuit) - tool for finding shortest path between systems using Tripwire wormhole connections. 
+* [Short Circuit](https://github.com/secondfry/shortcircuit) - tool for finding shortest path between systems using Tripwire wormhole connections.
 
 #### Killboards
 
@@ -213,7 +213,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [EveChatNotifier](https://github.com/MyUncleSam/EveChatNotifier) - Outlook-Like Notifications for EVE Online chat
 * [Eve Deposit](http://evedeposit.dropsnorz.com) - A Rookie-friendly ore comparator based on market prices.
 * [skŸlizer](https://github.com/chrRtg/eve-skylizer) - Moon, Goo and SCAN analyzer - keep track and share moon-ore and scans
-  
+
 #### Recruitment
 
 * [ESIKnife](https://beta.esiknife.space) - View/share all of your ESI data
@@ -272,7 +272,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 #### Microservices
 * [EVE MarketWatch](https://github.com/antihax/eve-marketwatch) - Self contained market microservices that pumps market changes over a websocket.
 * [EVE Axiom](https://github.com/antihax/eve-axiom) - Self contained killmail to dogma attribute processor. Feed it ESI Killmail data and it spits out the ship, module, and drone attributes.
-* [eve-shields](https://github.com/ErikKalkoken/eve-shields) - Web service for creating Eve Online related badges for web sites and github readme's with shields.io 
+* [eve-shields](https://github.com/ErikKalkoken/eve-shields) - Web service for creating Eve Online related badges for web sites and github readme's with shields.io
 
 ---------
 
