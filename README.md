@@ -64,7 +64,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Eve Fleet Simulator](https://evefleetsimulator.com/) - Simulate fleet PvP and compare/analyse fits and hulls.
 * [EVE Workbench](https://www.eveworkbench.com/) - EVE Workbench is a web based tool for the EVE community, allowing players to browse the market, create haul routes and browse & share fittings.
 * [eve-calendars.com](https://www.eve-calendars.com) - Convenient out-of-game access to character's calendar. Allows players to use their favourite calendar app on the desktop or mobile as also see events in their preferred time zone.
-* [EveVision](https://eve.vision/) - Tool for overlaying various external sites/tools on the EVE client.
 
 
 #### EveMail
@@ -75,11 +74,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 #### Fitting Tools
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
-
-Outdated fitting tools used to be listed, but they are so far out of date they really aren't worth listing here anymore. Check the history of this file if you really want to discover them.
-
-#### Fleet Tools
-* [Capri's Tools](https://skyride.org/) - A suite of fleet scan tools including live fleet scans via ESI
 
 #### Intel
 * [Eve Gate Camp Check](http://eve-gatecheck.space/eve/) - Navigation specifically tuned towards kills happening at gates.
@@ -158,7 +152,6 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 #### Killboards
 
 * [zKillboard](https://zkillboard.com) - A website for killmail presentation and statistical aggregation.
-* [Eve Development Network Killboard](https://github.com/evekb/evedev-kb) - A selfhostable killboard for keeping track and making campaigns with goals.
 
 #### Killboard Utilities
 * [RedisQ](https://github.com/zKillboard/RedisQ) - A simple queue service for "pushing" killmails from zKillboard.
@@ -333,10 +326,11 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 
 ## Abandoned and Outdated
 
-#### Market
-
 * [Eve Traders Handbook](http://matthewpennell.github.io/eve-traders-handbook/) - a multi-purpose web application for traders, importers, and manufacturers.
-
-#### Management Tools
-
 * [EveStructures](https://github.com/skiedude/evestructures) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, etc and be notified via discord/slack push notifications.
+* [EveVision](https://eve.vision/) - Tool for overlaying various external sites/tools on the EVE client. (site offline)
+* [Capri's Tools](https://skyride.org/) - A suite of fleet scan tools including live fleet scans via ESI (invalid cert)
+* [Eve Development Network Killboard](https://github.com/evekb/evedev-kb) - A selfhostable killboard for keeping track and making campaigns with goals. (no updates in over 2 years)
+
+
+
