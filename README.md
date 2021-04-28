@@ -82,7 +82,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Eve Incursions](http://incursions.shadowlauch.de/) -  provides an overview of the current incursions, active communities and incursion rat information.
 * [EVE PRISM](http://eve-prism.com/) -  tool for gathering and analyzing information intended for PvP-oriented players that also works as a gorgeous screensaver
 * [Spyglass](http://www.crypta.tech/spyglass/) - Real time visual intelligence rendering
-* [IMP](https://github.com/3vi1/IMP) - Eve Online Intelligence Management Program
 * [PySpy](https://github.com/Eve-PySpy/PySpy#pyspy---a-simple-eve-online-character-intel-tool-using-ccps-esi-api) - A powerful and fast character intel tool. Just copy past & paste pilot names from local. Great for hunting, fleet scouting and solo / small gang PVP.
 * [PLH](http://eve-plh.com) - Pirate's Little Helper provides a whole toolbox for finding targets, avoiding ganks and much more.
 * [TheraBot](https://github.com/Ionaru/TheraBot) - A Discord bot that posts notifications of newly scouted wormhole connections to Thera.
@@ -96,7 +95,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 ##### Android
 * [EVE Portal](https://www.eveonline.com/eve-portal) - The Official EVE Online mobile app
 * [Evanova](https://play.google.com/store/apps/details?id=com.tlabs.android.evanova) - Character and corporation management tool featuring a fitting tool, database browsing and more.
-* [Eve Droid](https://play.google.com/store/apps/details?id=dk.alxb.evedroid) - EVE Droid is a character monitoring and ship fitting tool for EVE Online.
 * [Eveeye Explorer](https://play.google.com/store/apps/details?id=com.eveeye) - Interactive k-space maps + chain mapping.
 * [Eve Panda](https://play.google.com/store/apps/details?id=com.fnl.light.evepanda) - Manage your Eve Online characters using the ESI interface.
 * [Eve PI](https://play.google.com/store/apps/details?id=dae.evepi) - A central console for reviewing your Planetary Interaction colonies.
@@ -326,11 +324,13 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 ## Abandoned and Outdated
 
-* [Eve Traders Handbook](http://matthewpennell.github.io/eve-traders-handbook/) - a multi-purpose web application for traders, importers, and manufacturers.
-* [EveStructures](https://github.com/skiedude/evestructures) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, etc and be notified via discord/slack push notifications.
+* [Eve Traders Handbook](http://matthewpennell.github.io/eve-traders-handbook/) - a multi-purpose web application for traders, importers, and manufacturers. (outdated)
+* [EveStructures](https://github.com/skiedude/evestructures) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, etc and be notified via discord/slack push notifications. (oudated)
 * [EveVision](https://eve.vision/) - Tool for overlaying various external sites/tools on the EVE client. (site offline)
 * [Capri's Tools](https://skyride.org/) - A suite of fleet scan tools including live fleet scans via ESI (invalid cert)
 * [Eve Development Network Killboard](https://github.com/evekb/evedev-kb) - A selfhostable killboard for keeping track and making campaigns with goals. (no updates in over 2 years)
+* [IMP](https://github.com/3vi1/IMP) - Eve Online Intelligence Management Program (repository archived)
+* [Eve Droid](https://play.google.com/store/apps/details?id=dk.alxb.evedroid) - EVE Droid is a character monitoring and ship fitting tool for EVE Online. (app no longer listed in Play Store)
 
 
 
