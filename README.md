@@ -276,6 +276,9 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [eve-esi-client](https://github.com/OrbitalEnterprises/eve-esi-client) - Auto-generated Swagger client (in Java) for ESI
 * [ESI Proxy](https://github.com/OrbitalEnterprises/orbital-esi-proxy) - A Java serlvet which acts as a proxy for the ESI translating key/hash pairs (created by the proxy) into auto-refreshed OAuth authorization tokens.
 
+#### Pascal
+* [laz-eve-esi](https://github.com/seryal/laz-eve-esi) - Free Pascal library for creating your own, small and fast applications for various operating systems
+
 #### PHP
 * [iveeCore](https://github.com/aineko-m/iveeCore) - PHP Library for calculations of industrial activities
 * [Eseye](https://github.com/eveseat/eseye) - Standalone, Dynamic PHP Client Library for the ESI API
