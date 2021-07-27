@@ -177,7 +177,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Eve Insurance Fraud](https://github.com/skiedude/Eve-Insurance-Fraud) - Discover profitable ships from a specific regions market to buy off Sell order, insure and blow up!
 * [EVE Tycoon](https://evetycoon.com/) - A profit tracking and order management application, with a market browser.
 * [New Eden Markets](https://newedenmarkets.com/) - Market browser with a familiar interface. Supports handy client integration features and has the entire 16+ year market history.
-
+* [Eve Finance](https://eve.patrickt.me/) - A finance browser tool that allows you to keep track of your production and trading, and provide detailed financial reports.
 #### Manufacturing
 
 * [Eve Cost](http://www.eve-cost.eu/calculator) - Calculate what you need to make anything and profit margins.  Also has invention and refining calculators.
