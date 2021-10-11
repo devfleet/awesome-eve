@@ -79,9 +79,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Eve Gate Camp Check](http://eve-gatecheck.space/eve/) - Navigation specifically tuned towards kills happening at gates.
 * [EveWho](http://evewho.com) - List members of a corp or alliance from out of game.
 * [SeAT](https://github.com/eveseat/seat) - SeAT is a EVE Online Corporation Management Tool written in PHP.
-* [Eve Incursions](http://incursions.shadowlauch.de/) -  provides an overview of the current incursions, active communities and incursion rat information.
 * [EVE PRISM](http://eve-prism.com/) -  tool for gathering and analyzing information intended for PvP-oriented players that also works as a gorgeous screensaver
-* [Spyglass](http://www.crypta.tech/spyglass/) - Real time visual intelligence rendering
 * [PySpy](https://github.com/Eve-PySpy/PySpy#pyspy---a-simple-eve-online-character-intel-tool-using-ccps-esi-api) - A powerful and fast character intel tool. Just copy past & paste pilot names from local. Great for hunting, fleet scouting and solo / small gang PVP.
 * [PLH](http://eve-plh.com) - Pirate's Little Helper provides a whole toolbox for finding targets, avoiding ganks and much more.
 * [TheraBot](https://github.com/Ionaru/TheraBot) - A Discord bot that posts notifications of newly scouted wormhole connections to Thera.
@@ -156,18 +154,15 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [RedisQ](https://github.com/zKillboard/RedisQ) - A simple queue service for "pushing" killmails from zKillboard.
 * [RedisQ slack bot](https://github.com/Slivo-fr/RedisQ-Slack-Bot) - A PHP killbot publishing killmails on slack
 * [brcat](https://br.inyour.space/) - Tool for generating battle reports from killmails held on zKillboard.com
-* [ZRule](https://zrule.eveisesi.space) - Configurable Rules Engine for getting killmail notifications for killamils on ZKillboard
 
 #### Market
 
 * [EVE Trade](https://evetrade.space) - a tool to fill the gaps that EVE Central left behind. It allows users to find great deals when it comes to station trading or hauling. The tool will run market analysis on station to station trades as well as region to region trades (public citadels included).
 * [REvernus](https://github.com/Meigs2/REvernus) - Inventory and market data (Windows/MacOSX application).
 * [ISK Per Hour](https://eveiph.github.io/) EVE - Isk per Hour is a Windows program that allows players of EVE Online to determine ways to maximize their Isk per Hour through manufacturing, mining, invention, and reverse engineering.
-* [EveKit - Market](https://evekit.orbital.enterprises/#/md/main) - Market price history and book data (including complete history).  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
 * [MarketBot](https://github.com/Ionaru/MarketBot) - A Discord bot for fetching the best item prices and other market data.
 * [EveMarketTool](https://memcallen.github.io/EveMarketTool/docs/) - Bulk price check and find the items with the best trade flipping margins.
 * [EVEMarketer](https://evemarketer.com/) - Web client to check prices and orders of all items in multiple regions that looks a lot like the in-game market.
-* [Lazy Blacksmith](https://khon.space/) - web based manufacturing/invention helper with price and profit support
 * [Priceall](https://github.com/xyx0826/Priceall) - a tool that checks Jita price of any item list with a single click without leaving game window. It is built upon Evepraisal. The tool as a widget supports various customization options including size, color, and opacity.
 * [Abyssal Market](https://mutaplasmid.space/) - Web-based tool for searching through, appraising and buying abyssal modules that are available on the contract market.
 * [EVE Market Watch](https://evemarketwatch.com) - EVE Market Watch helps you keep markets stocked.
@@ -176,8 +171,8 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Venal](https://github.com/gemoroy/venal) - A CLI alternative for [Evernus Margin tool](https://evernus.com/help/#margin_tool) aimed at quick market reconnaissance and price updating.
 * [Eve Insurance Fraud](https://github.com/skiedude/Eve-Insurance-Fraud) - Discover profitable ships from a specific regions market to buy off Sell order, insure and blow up!
 * [EVE Tycoon](https://evetycoon.com/) - A profit tracking and order management application, with a market browser.
-* [New Eden Markets](https://newedenmarkets.com/) - Market browser with a familiar interface. Supports handy client integration features and has the entire 16+ year market history.
 * [Eve Finance](https://eve.patrickt.me/) - A finance browser tool that allows you to keep track of your production and trading, and provide detailed financial reports.
+
 #### Manufacturing
 
 * [Eve Cost](http://www.eve-cost.eu/calculator) - Calculate what you need to make anything and profit margins.  Also has invention and refining calculators.
@@ -199,7 +194,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [jeveassets](http://eve.nikr.net/jeveasset) - Asset viewer, with market values.
 * [Eve-Files](http://www.eve-files.com/) - Upload Eve related files for sharing.
 * [Destruct-Ore](http://www.eve-tools.net) - A Corporation Mining Op Scheduler/Manager with payment manager.
-* [EVEpoll](https://evepoll.tk) - Create polls for corporations, alliances or New Eden using SSO.
 * [EVEOTS V2](https://github.com/drkthunder02/eveotsv2/) - EVE Online Teamspeak Authenticator V2 using ESI API
 * [PHP Timerboard](https://github.com/drkthunder02/phptimerboard/) - Stand-alone PHP Timerboard
 * [EveChatNotifier](https://github.com/MyUncleSam/EveChatNotifier) - Outlook-Like Notifications for EVE Online chat
@@ -208,7 +202,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 #### Recruitment
 
-* [ESIKnife](https://beta.esiknife.space) - View/share all of your ESI data
 * [Eve-HR](https://eve-hr.com) - Create a recruitment webpage for your corporation and be able to view applicants ESI data.
 * [r/evejobs](https://reddit.com/r/evejobs) - Intergalatic job board.
 
@@ -234,20 +227,12 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [EVE-glue](https://github.com/esi/eve-glue) - enums for transitioning from XML or CREST to ESI
 * [ESI-routes](https://github.com/esi/esi-routes) - first open source ESI endpoint
 * [ESI-bot](https://github.com/esi/esi-bot) - Tweetfleet Slack ESI bot
-* [ESIStatus](https://status.esiknife.space) - Visualize the status of ESI Endpoints
 
 #### API
-* [CREST & XML](https://eveonline-third-party-documentation.readthedocs.org/en/latest/index.html) - CCP and community supported documentation for official Eve Online endpoints (deprecation date May 8, 2018).
-* [EveWho's API](http://evewho.com/faq/) - EveWho's API.
 * [Other Documentation](https://www.reddit.com/r/evetech/comments/4mwgb7/documentation/) - More Documentation for other tools and endpoints can be found in this Reddit post.
-* [PL APIs](https://tools.pandemic-legion.pl/api/) - PL provided list of apis.
 * [Fuzzwork Map API](https://www.fuzzwork.co.uk/tools/api-map-data/) - A number of map based APIs.
 * [Fuzzwork typename API](https://www.fuzzwork.co.uk/tools/api-typename-to-typeid/) - Typename to typeid API.
 * [SDE2JSON](http://sde.zzeve.com/) - The SDE converted to JSON for easy "api" access.
-* [EveKit - Account](https://evekit.orbital.enterprises/#/main/news) - Capture EVE character and corporation data in the cloud (including complete history).  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
-* [EveKit - SDE](https://evekit.orbital.enterprises/#/sde/main) - Last two releases of the full SDE online.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
-* [EveKit - Proxy](https://evekit.orbital.enterprises/#/xmlapi/main) - A simple proxy which server the EVE Online XML API in JSON.  Use JSON/REST or [Swagger](http://swagger.io/) generated clients.
-* [Citadel API](https://stop.hammerti.me.uk/api) - JSON API linking citadel IDs/names/solar systems. Has [swagger definition](https://raw.githubusercontent.com/OrbitalEnterprises/swagger-specs/master/citadel-api.yaml).
 * [zKillboard API](https://github.com/zKillboard/zKillboard/wiki) API provided by zKillboard, includes websocket documentation as well.
 * [Contracts Appraisal](https://app.swaggerhub.com/apis-docs/rihanshazih/contracts-appraisal) Pricing API based on public contracts, especially good for researched BPOs and BPCs.
 
@@ -323,18 +308,3 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 #### Dogma
 * [libdgmpp](https://github.com/mrdepth/libdgmpp) Fitting engine for EVE Online written on C++ with wrappers for Java and Android.
-
----------
-
-## Abandoned and Outdated
-
-* [Eve Traders Handbook](http://matthewpennell.github.io/eve-traders-handbook/) - a multi-purpose web application for traders, importers, and manufacturers. (outdated)
-* [EveStructures](https://github.com/skiedude/evestructures) - Monitor all your stations spread across New Eden across multiple Corporations. See Fuel, Services, etc and be notified via discord/slack push notifications. (oudated)
-* [EveVision](https://eve.vision/) - Tool for overlaying various external sites/tools on the EVE client. (site offline)
-* [Capri's Tools](https://skyride.org/) - A suite of fleet scan tools including live fleet scans via ESI (invalid cert)
-* [Eve Development Network Killboard](https://github.com/evekb/evedev-kb) - A selfhostable killboard for keeping track and making campaigns with goals. (no updates in over 2 years)
-* [IMP](https://github.com/3vi1/IMP) - Eve Online Intelligence Management Program (repository archived)
-* [Eve Droid](https://play.google.com/store/apps/details?id=dk.alxb.evedroid) - EVE Droid is a character monitoring and ship fitting tool for EVE Online. (app no longer listed in Play Store)
-
-
-
