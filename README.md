@@ -12,10 +12,6 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 
 ---------
 
-## XML and CREST are dead, long live ESI
-
-It's official, XML and CREST are officially dead as of May 8th, 2018. The replacement ESI is now in full effect and has reached parity.
-
 #### ESI Discussion
 
 You can participate with CCP devs and third party devs by [joining Tweetfleet on Slack](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/) and hopping into the #esi channel. Do be polite.
