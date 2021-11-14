@@ -242,6 +242,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Mock ESI](https://github.com/antihax/mock-esi) - A mock ESI server for consistently testing ESI Consumers, wrapped in a Docker image.
 * [JSON version of SDE](http://sde.zzeve.com) - Download SDE tables in JSON format.
 * [ESI Data](https://github.com/tkhamez/esi-data) - Provides JSON files for some static data from ESI.
+* [Hoboleaks SDE expansion](https://sde.hoboleaks.space/) - provides json files extracted from the client, for some data not in the SDE. like what industry rig affects which modules.
 
 #### Microservices
 * [EVE MarketWatch](https://github.com/antihax/eve-marketwatch) - Self contained market microservices that pumps market changes over a websocket.
