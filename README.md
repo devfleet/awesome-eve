@@ -265,7 +265,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [iveeCore](https://github.com/aineko-m/iveeCore) - PHP Library for calculations of industrial activities
 * [Eseye](https://github.com/eveseat/eseye) - Standalone, Dynamic PHP Client Library for the ESI API
 * [swagger-eve-php](https://github.com/tkhamez/swagger-eve-php) - Auto-generated OpenAPI client for ESI
-* [Esi-Client](https://github.com/seatplus/esi-client) - A rfc7234 (cachinng) capable ESI (Eve Swagger Interface) Client Library using guzzle7/PSR Client  
+* [Esi-Client](https://github.com/seatplus/esi-client) - A rfc7234 (caching) capable ESI (Eve Swagger Interface) Client Library using guzzle7/PSR Client  
 
 #### Python
 * [EsiPy](https://github.com/Kyria/EsiPy) - Python library (on top of pyswagger) to interact with the ESI API
