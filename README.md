@@ -169,6 +169,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Eve Insurance Fraud](https://github.com/skiedude/Eve-Insurance-Fraud) - Discover profitable ships from a specific regions market to buy off Sell order, insure and blow up!
 * [EVE Tycoon](https://evetycoon.com/) - A profit tracking and order management application, with a market browser.
 * [Eve Finance](https://eve.patrickt.me/) - A finance browser tool that allows you to keep track of your production and trading, and provide detailed financial reports.
+* [Space Markets](https://www.overwolf.com/app/Apseren-Space_Markets) - A markets intel tool that allows you to find assets worth buying now to sell later, explore items details, their historical prices and current open market orders.
 
 #### Manufacturing
 
