@@ -131,7 +131,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Firetail](https://github.com/shibdib/firetail) - A discord bot that can provide killmails, price checks, group and character lookups and more..
 * [Keepstar](https://github.com/shibdib/keepstar) - An easy way to authenticate discord users against their ingame persona. Restrict roles based off of corps and alliances.
 * [Opux](https://github.com/Jimmy062006/Opux) - A Discord bot that provides various lookups and killmail feeds as well as Discord Role management.
-* [Insight](https://github.com/Nathan-LS/Insight) - Killboard and radar streaming service for Discord.
+
 
 #### Intel (Wormholes)
 * [Tripwire](https://tripwire.eve-apps.com/) - wormhole mapping tool
