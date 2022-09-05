@@ -138,7 +138,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Pathfinder](https://github.com/goryn-clade/pathfinder/) - wormhole mapping tool. 
 * [GalaxyFinder](https://wormholes.new-eden.io/) - wormhole mapping and info tool
 * [anoik.is](http://anoik.is/) - Wormhole info tool.  Tells you about the WH and who is probably in it.  Battles and links to zkillboard for kills.
-* [eve-wh.space](https://eve-wh.space/) - Information about wormhole systems, WH sites; WH database. Integration with ESI, zKillboard. Focused on minimalistic UI and usability.
 * [Short Circuit](https://github.com/secondfry/shortcircuit) - tool for finding shortest path between systems using Tripwire wormhole connections.
 * [Wormhole by type](https://wh-info.github.io/) - Tool and interactive sheet to identify every wormhole type in game.
 
