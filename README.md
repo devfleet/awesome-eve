@@ -188,7 +188,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [EVE SRP mail](https://github.com/jbs1/eve-srpmail) - A simple mailing tool for use in Corporations with Ship Replacement Programs. Mails from contracts.
 * [jeveassets](http://eve.nikr.net/jeveasset) - Asset viewer, with market values.
 * [Eve-Files](http://www.eve-files.com/) - Upload Eve related files for sharing.
-* [Destruct-Ore](http://www.eve-tools.net) - A Corporation Mining Op Scheduler/Manager with payment manager.
 * [EVEOTS V2](https://github.com/drkthunder02/eveotsv2/) - EVE Online Teamspeak Authenticator V2 using ESI API
 * [PHP Timerboard](https://github.com/drkthunder02/phptimerboard/) - Stand-alone PHP Timerboard
 * [EveChatNotifier](https://github.com/MyUncleSam/EveChatNotifier) - Outlook-Like Notifications for EVE Online chat
