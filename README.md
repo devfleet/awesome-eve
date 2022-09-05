@@ -77,7 +77,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [SeAT](https://github.com/eveseat/seat) - SeAT is a EVE Online Corporation Management Tool written in PHP.
 * [EVE PRISM](http://eve-prism.com/) -  tool for gathering and analyzing information intended for PvP-oriented players that also works as a gorgeous screensaver
 * [PySpy](https://github.com/Eve-PySpy/PySpy#pyspy---a-simple-eve-online-character-intel-tool-using-ccps-esi-api) - A powerful and fast character intel tool. Just copy past & paste pilot names from local. Great for hunting, fleet scouting and solo / small gang PVP.
-* [PLH](http://eve-plh.com) - Pirate's Little Helper provides a whole toolbox for finding targets, avoiding ganks and much more.
 * [TheraBot](https://github.com/Ionaru/TheraBot) - A Discord bot that posts notifications of newly scouted wormhole connections to Thera.
 * [IntelWalker](https://www.intelwalker.com) - A standalone application which monitors intel chat logs and acts as a five jump early warning system.
 
