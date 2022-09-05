@@ -134,8 +134,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 #### Intel (Wormholes)
 * [Tripwire](https://tripwire.eve-apps.com/) - wormhole mapping tool
-* [Siggy](https://siggy.borkedlabs.com/pages/welcome) - wormhole mapping tool
-* [Pathfinder](https://github.com/goryn-clade/pathfinder/) - wormhole mapping tool. 
+* [Pathfinder](https://www.pathfinder-w.space/) - wormhole mapping tool
 * [GalaxyFinder](https://wormholes.new-eden.io/) - wormhole mapping and info tool
 * [anoik.is](http://anoik.is/) - Wormhole info tool.  Tells you about the WH and who is probably in it.  Battles and links to zkillboard for kills.
 * [Short Circuit](https://github.com/secondfry/shortcircuit) - tool for finding shortest path between systems using Tripwire wormhole connections.
@@ -304,3 +303,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 #### Dogma
 * [libdgmpp](https://github.com/mrdepth/libdgmpp) Fitting engine for EVE Online written on C++ with wrappers for Java and Android.
+
+## Abandoned & Outdated
+* [Siggy](https://github.com/marekr/siggy) - wormhole mapping tool
