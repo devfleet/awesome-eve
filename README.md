@@ -198,6 +198,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 * [Eve-HR](https://eve-hr.com) - Create a recruitment webpage for your corporation and be able to view applicants ESI data.
 * [r/evejobs](https://reddit.com/r/evejobs) - Intergalatic job board.
+* [EVE University Work Fair](https://forum.eveuniversity.org/viewforum.php?f=66) - Where corporations can advertise and give information about what it is like to be a member of their corporation.
 
 #### Planetary Interaction
 
