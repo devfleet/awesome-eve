@@ -124,7 +124,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
     * [Services](https://allianceauth.readthedocs.io/en/latest/features/services/index.html#supported-services) Discord, Mumble, Openfire/Jabber, phpBB3, SMF, Teamspeak3, XenForo, Discourse and WikiJS (AA Community App)
     * [Community Apps](https://gitlab.com/allianceauth/community-creations) Fully featured Community built apps to extend Alliance Auth
 * [AVRSE Auth](https://github.com/skyride/avrse-auth) - An FC focussed auth system with support for discord, mumble and IPB. Handles characters/assets/skills/structure management.
-* [Neucore](https://github.com/tkhamez/neucore) - A web application for EVE Online communities to organise their members into groups, monitor them and provide access to external services. Features include group management, an API including an ESI proxy, a plugin system, service registration (Discord, etc.), member tracking, watchlists, and more.
+* [Neucore](https://github.com/tkhamez/neucore) - Alliance Core Services - A web application for EVE Online communities to organise their members into groups, monitor them and provide access to external services. Features include group management, an API including an ESI proxy, a plugin system, service registration (Discord, etc.), member tracking, watchlists, and more.
 * [DokuWiki EveSSO Plugin](https://github.com/GoldenGnu/dokuwiki-plugin-evesso)  - DokuWiki authentication via eve online SSO and access control for corporations/alliances/factions
 
 #### Discord Tools
