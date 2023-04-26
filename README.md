@@ -80,7 +80,8 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [PySpy](https://github.com/Eve-PySpy/PySpy#pyspy---a-simple-eve-online-character-intel-tool-using-ccps-esi-api) - A powerful and fast character intel tool. Just copy past & paste pilot names from local. Great for hunting, fleet scouting and solo / small gang PVP.
 * [TheraBot](https://github.com/Ionaru/TheraBot) - A Discord bot that posts notifications of newly scouted wormhole connections to Thera.
 * [IntelWalker](https://www.intelwalker.com) - A standalone application which monitors intel chat logs and acts as a five jump early warning system.
-* [EveIntelChecker](https://github.com/SebastienDuruz/Eve-Intel-Checker) - A compact desktop tool that filters relevant messages across Intel chat channels.
+* [EveIntelChecker](https://github.com/SebastienDuruz/Eve-Intel-Checker) - A compact desktop tool that filters relevant messages across Intel chat channels. 
+* [Eve Squadron](https://www.eve-squadron.com/) - A cross-platform Intel Tool that provides quick access to important character metrics and statistics from the copied Character-Names - fetched live from Eve and zKillboard Servers.
 #### Character Management
 * [Cerebral](https://github.com/PrometheusSatyen/Cerebral) - Cerebral is a tool for monitoring your EVE Online characters.
 * [EVIE](https://spaceships.app) - EVIE is an EVE Online API interface, for either a quick overview or in-depth information about your characters. Supports adding characters from multiple accounts into one overview.
