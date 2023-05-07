@@ -121,6 +121,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
     * [P&L Statement](https://www.evedata.org/profitAndLoss) See all your journal history across characters to determine where you are making and losing ISK.
     * [Killmail Attributes](https://www.evedata.org/killmailAttributes) Search attributes of the last 10,000 killmails of any ship category to find common or whacky fits.
 * [Seatplus](https://seatplus.net/) - Modern flexible EVE Online API with the intent of corporation-, alliance management and recruitment.
+* [EVE-SRP](https://github.com/tkhamez/eve-srp) A web application to manage a ship replacement program.
 
 #### Auth Systems
 * [Alliance Auth](https://gitlab.com/allianceauth/allianceauth) - An auth system for EVE Online to help in-game organizations manage online service access.
