@@ -61,12 +61,13 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [EVE Workbench](https://www.eveworkbench.com/) - EVE Workbench is a web based tool for the EVE community, allowing players to browse the market, create haul routes and browse & share fittings.
 * [eve-calendars.com](https://www.eve-calendars.com) - Convenient out-of-game access to character's calendar. Allows players to use their favourite calendar app on the desktop or mobile as also see events in their preferred time zone.
 * [EVEMissioneer](https://evemissioneer.com) - An EVE Online agent finder and explorer with optional SSO standings integration. Includes Faction Warfare stats and leaderboards.
+* [JitaCalendar](https://www.jita.space/calendar) - Web-based Eve calendar client. API requests done client-side; no server storage.
 
 #### EveMail
 * [Fuzzwork Mail](https://evemail.fuzzwork.co.uk) - Fuzzwork Evemail, an ESI Evemail client. Clientside based, no storage.
 * [PodMail](https://podmail.zzeve.com) - PodMail, an ESI EveMail client. Mobile friendly web platform for accessing your evemails.
 * [Spacemail](https://spacemail.xyz) - Spacemail, ESI Mail and Calendar client. Responsive open-source web-app.
-* [JitaSpace Mail](https://mail.jita.space) - Web-based EveMail client. API requests done client-side; no server storage.
+* [JitaMail](https://www.jita.space/mail) - Web-based EveMail client. API requests done client-side; no server storage.
 
 
 #### Fitting Tools
@@ -234,6 +235,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [SDE2JSON](http://sde.zzeve.com/) - The SDE converted to JSON for easy "api" access.
 * [zKillboard API](https://github.com/zKillboard/zKillboard/wiki) API provided by zKillboard, includes websocket documentation as well.
 * [Contracts Appraisal](https://app.swaggerhub.com/apis-docs/rihanshazih/contracts-appraisal) Pricing API based on public contracts, especially good for researched BPOs and BPCs.
+* [Jita SDE OpenAPI](http://sde.jita.space/) - SDE and Hoboleaks data available as JSON, accessible via OpenAPI, just like ESI!
 
 #### Resources
 
