@@ -309,6 +309,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [ueberauth_eve_sso](https://github.com/lukasni/ueberauth_eve_sso) - EVE Online SSO v2 OAuth2 strategy for Elixir Ueberauth ([hex.pm link](https://hex.pm/packages/ueberauth_eve_sso))
 * [ESI_Flask_Authlib_SSO](https://github.com/jayblunt/ESI_Flask_Authlib_SSO) - EVE Online SSO example with [Authlib](https://authlib.org/) for Python / Flask.
 * [SSO-eve-authorization](https://github.com/maksvorobev/SSO-eve-authorization) - EVE Online SSO example written in Qt and C++
+* [EVE Online SSO](https://github.com/tkhamez/eve-sso-php) - PHP package supporting EVE Online SSO v2.
 
 #### Dogma
 * [libdgmpp](https://github.com/mrdepth/libdgmpp) Fitting engine for EVE Online written on C++ with wrappers for Java and Android.
