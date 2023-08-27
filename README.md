@@ -140,7 +140,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 #### Intel (Wormholes)
 * [Tripwire](https://tripwire.eve-apps.com/) - wormhole mapping tool
-* [Pathfinder](https://www.pathfinder-w.space/) - wormhole mapping tool
 * [GalaxyFinder](https://wormholes.new-eden.io/) - wormhole mapping and info tool
 * [anoik.is](http://anoik.is/) - Wormhole info tool.  Tells you about the WH and who is probably in it.  Battles and links to zkillboard for kills.
 * [Short Circuit](https://github.com/secondfry/shortcircuit) - tool for finding shortest path between systems using Tripwire wormhole connections.
