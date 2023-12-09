@@ -169,7 +169,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [EVEOTS V2](https://github.com/drkthunder02/eveotsv2/) - EVE Online Teamspeak Authenticator V2 using ESI API
 * [PHP Timerboard](https://github.com/drkthunder02/phptimerboard/) - Stand-alone PHP Timerboard
 * [EveChatNotifier](https://github.com/MyUncleSam/EveChatNotifier) - Outlook-Like Notifications for EVE Online chat
-* [Eve Deposit](http://evedeposit.dropsnorz.com) - A Rookie-friendly ore comparator based on market prices.
 * [skŸlizer](https://github.com/chrRtg/eve-skylizer) - Moon, Goo and SCAN analyzer - keep track and share moon-ore and scans
 
 #### Recruitment
