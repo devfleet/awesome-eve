@@ -88,17 +88,13 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 #### Mobile Applications
 ##### Android
-* [EVE Portal](https://www.eveonline.com/eve-portal) - The Official EVE Online mobile app
 * [Evanova](https://play.google.com/store/apps/details?id=com.tlabs.android.evanova) - Character and corporation management tool featuring a fitting tool, database browsing and more.
-* [Eveeye Explorer](https://play.google.com/store/apps/details?id=com.eveeye) - Interactive k-space maps + chain mapping.
 * [Eve Panda](https://play.google.com/store/apps/details?id=com.fnl.light.evepanda) - Manage your Eve Online characters using the ESI interface.
 * [Eve PI](https://play.google.com/store/apps/details?id=dae.evepi) - A central console for reviewing your Planetary Interaction colonies.
 * [Mining Helper](https://play.google.com/store/apps/details?id=com.randomlettersandnumbers15645151gd65fg16d5fgs46r84tserg51f3d21ger6.eveminer) - This simple app let's you select some ores and will fetch their prices in Tradehubs.
 
 ##### iOS
-* [EVE Portal](https://www.eveonline.com/eve-portal) - The Official EVE Online mobile app
 * [Neocom II for EVE Online](https://itunes.apple.com/ca/app/neocom-ii-for-eve-online/id1257353838?mt=8) - View your EVE Online characters and skills, browse EVE Online items database, analyze market information, test ship fits on your iPhone/iPad or iPod Touch.
-* [Eveeye Explorer](https://itunes.apple.com/us/app/eveeye/id1163904317) - Interactive k-space maps + chain mapping.
 
 ---------
 
