@@ -184,8 +184,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 #### Skills
 
- * [Skillboard.Evie](https://skillboard.eveisesi.space/) - Skill sheet for displaying skills, queues, and implants for characters.
-* [SkillQ](https://skillq.net) - A simple webapp for monitoring skill queues of various characters.
+  [SkillQ](https://skillq.net) - A simple webapp for monitoring skill queues of various characters.
 * [EVE-Skillplan.net](https://www.eve-skillplan.net) - Web based and responsive skill planner to plan and share your training using your favourite devices - PC/Mac, tablet or smartphone.
 
 ---------
