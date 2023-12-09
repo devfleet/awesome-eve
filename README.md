@@ -137,20 +137,15 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 #### Market
 
 * [EVE Trade](https://evetrade.space) - a tool to fill the gaps that EVE Central left behind. It allows users to find great deals when it comes to station trading or hauling. The tool will run market analysis on station to station trades as well as region to region trades (public citadels included).
-* [REvernus](https://github.com/Meigs2/REvernus) - Inventory and market data (Windows/MacOSX application).
 * [ISK Per Hour](https://eveiph.github.io/) EVE - Isk per Hour is a Windows program that allows players of EVE Online to determine ways to maximize their Isk per Hour through manufacturing, mining, invention, and reverse engineering.
 * [MarketBot](https://github.com/Ionaru/MarketBot) - A Discord bot for fetching the best item prices and other market data.
 * [EveMarketTool](https://memcallen.github.io/EveMarketTool/docs/) - Bulk price check and find the items with the best trade flipping margins.
-* [EVEMarketer](https://evemarketer.com/) - Web client to check prices and orders of all items in multiple regions that looks a lot like the in-game market.
 * [Priceall](https://github.com/xyx0826/Priceall) - a tool that checks Jita price of any item list with a single click without leaving game window. It is built upon Evepraisal. The tool as a widget supports various customization options including size, color, and opacity.
 * [Abyssal Market](https://mutaplasmid.space/) - Web-based tool for searching through, appraising and buying abyssal modules that are available on the contract market.
-* [EVE Market Watch](https://evemarketwatch.com) - EVE Market Watch helps you keep markets stocked.
 * [Adam4EVE](https://www.adam4eve.eu) - A collection of market related tools and statistics including [Margin finder](https://www.adam4eve.eu/margin_finder.php), [Market trends](https://www.adam4eve.eu/market_trends.php), [Contract prices](https://www.adam4eve.eu/contract_price.php), [Contract profit](https://www.adam4eve.eu/contract_profit.php) and more
-* [EveShopper](https://github.com/GingkathFox/EveShopper) - A small app designed to make bulk buying easier, and is aso useful for miners/industry players.
 * [Venal](https://github.com/gemoroy/venal) - A CLI alternative for [Evernus Margin tool](https://evernus.com/help/#margin_tool) aimed at quick market reconnaissance and price updating.
 * [Eve Insurance Fraud](https://github.com/skiedude/Eve-Insurance-Fraud) - Discover profitable ships from a specific regions market to buy off Sell order, insure and blow up!
 * [EVE Tycoon](https://evetycoon.com/) - A profit tracking and order management application, with a market browser.
-* [Eve Finance](https://eve.patrickt.me/) - A finance browser tool that allows you to keep track of your production and trading, and provide detailed financial reports.
 
 #### Manufacturing
 
