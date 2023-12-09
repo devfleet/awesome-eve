@@ -101,19 +101,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 ## Corporation/Alliance/Group tools
 
 #### Management Tools
-* [EVE Data](https://www.evedata.org) - A collection of tools to help capsuleers including:
-    * [ECM Calculator](https://www.evedata.org/ecmjam) Jam Probability.
-    * [Local Intel](https://www.evedata.org/localIntel) Paste local members to get a quick summary of their capability and hotdrop frequency.
-    * [Mutation Price Estimator](https://www.evedata.org/mutaplasmidEst) Estimate of mutated module value.
-    * [Bubble-O-Matic](https://www.evedata.org/bubblePlacer) Find optimal bubble placement for inbound warp paths.
-    * [Locator Responses](https://www.evedata.org/locatorResponses) All your locator agent responses in once place, plus any shared to your corporation from other users.
-    * [War Contact Sync](https://www.evedata.org/contactSync) Synchronize war contacts across many alts. Also works for Faction War.
-    * [Undervalued Items](https://www.evedata.org/marketUndervalue) Find undervalue market items to snatch for profit.
-    * [Station Stocker](https://www.evedata.org/marketStationStocker) Compare regions to find items to resell at a profit.
-    * [ISK per Loyalty Point](https://www.evedata.org/iskPerLP) Find the best items to convert LP for ISK.
-    * [Marketable Assets](https://www.evedata.org/marketableAssets) Aids in pricing items on the market based on regional statistics.
-    * [P&L Statement](https://www.evedata.org/profitAndLoss) See all your journal history across characters to determine where you are making and losing ISK.
-    * [Killmail Attributes](https://www.evedata.org/killmailAttributes) Search attributes of the last 10,000 killmails of any ship category to find common or whacky fits.
 * [Seatplus](https://seatplus.net/) - Modern flexible EVE Online API with the intent of corporation-, alliance management and recruitment.
 * [EVE-SRP](https://github.com/tkhamez/eve-srp) A web application to manage a ship replacement program.
 
