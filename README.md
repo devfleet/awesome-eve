@@ -65,8 +65,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 #### EveMail
 * [Fuzzwork Mail](https://evemail.fuzzwork.co.uk) - Fuzzwork Evemail, an ESI Evemail client. Clientside based, no storage.
-* [PodMail](https://podmail.zzeve.com) - PodMail, an ESI EveMail client. Mobile friendly web platform for accessing your evemails.
-* [Spacemail](https://spacemail.xyz) - Spacemail, ESI Mail and Calendar client. Responsive open-source web-app.
 * [JitaMail](https://www.jita.space/mail) - Web-based EveMail client. API requests done client-side; no server storage.
 
 
