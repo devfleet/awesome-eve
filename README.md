@@ -152,7 +152,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Eve Cost](http://www.eve-cost.eu/calculator) - Calculate what you need to make anything and profit margins.  Also has invention and refining calculators.
 * [Eve Orchestra](https://eve-orchestra.com/) - Advanced mining & industry management tool.
 * [Fuzzworks](http://www.fuzzwork.co.uk) - Fuzzworks - many very, very useful tools including but not limited to Industry, stats, calculators, and route planners. [Fuzzwork github](https://github.com/fuzzysteve/)
-* [Eve-check](http://eve-check.space) - Interactive polymer reactions scheme
 * [Adam4EVE](https://www.adam4eve.eu) - A collection of industry related tools including [Manufacturing profitability](https://www.adam4eve.eu/manu_rank.php?category=6&tech=2&maxSat=100), [Reprocessing profitability](https://www.adam4eve.eu/repro_ranking.php), [Material influence](https://www.adam4eve.eu/material_influence.php), [Cost index history](https://www.adam4eve.eu/graph_costIndex.php) and more
 * [EVE Cookbook](https://www.evecookbook.com) - Industry build calculator tool with reactions support and detailed build steps
 
