@@ -85,6 +85,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [EVIE](https://spaceships.app) - EVIE is an EVE Online API interface, for either a quick overview or in-depth information about your characters. Supports adding characters from multiple accounts into one overview.
 * [EveMonk](https://evemonk.com) - EveMonk is tool for monitoring EVE Online characters info. From wallet and security status to standings. [Source code](https://github.com/evemonk/evemonk)
 * [Upwell.gg](https://upwell.gg) - Easily share structure timers with your alliance, corporation, and allies.
+* [QSNA EVE Board](https://www.qsna.eu/eve/characters) - Web based app for tracking standings, skills, queue and ship masteries.
 
 #### Mobile Applications
 ##### Android
@@ -170,6 +171,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [PHP Timerboard](https://github.com/drkthunder02/phptimerboard/) - Stand-alone PHP Timerboard
 * [EveChatNotifier](https://github.com/MyUncleSam/EveChatNotifier) - Outlook-Like Notifications for EVE Online chat
 * [skŸlizer](https://github.com/chrRtg/eve-skylizer) - Moon, Goo and SCAN analyzer - keep track and share moon-ore and scans
+* [QSNA Log Analyzer](https://www.qsna.eu/eve/log-analyzer) - Tool for loading gamelogs from game sessions and displaying statistics of game session
 
 #### Recruitment
 
@@ -184,7 +186,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 #### Skills
 
-  [SkillQ](https://skillq.net) - A simple webapp for monitoring skill queues of various characters.
+* [SkillQ](https://skillq.net) - A simple webapp for monitoring skill queues of various characters.
 * [EVE-Skillplan.net](https://www.eve-skillplan.net) - Web based and responsive skill planner to plan and share your training using your favourite devices - PC/Mac, tablet or smartphone.
 
 ---------
