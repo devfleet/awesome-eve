@@ -86,6 +86,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [EveMonk](https://evemonk.com) - EveMonk is tool for monitoring EVE Online characters info. From wallet and security status to standings. [Source code](https://github.com/evemonk/evemonk)
 * [Upwell.gg](https://upwell.gg) - Easily share structure timers with your alliance, corporation, and allies.
 * [QSNA EVE Board](https://www.qsna.eu/eve/characters) - Web based app for tracking standings, skills, queue and ship masteries.
+* [RIFT Intel Fusion Tool](https://riftforeve.online) - Desktop app for Windows, Linux and macOS, with intel channels monitoring, flexible alerts, advanced map, and more.
 
 #### Mobile Applications
 ##### Android
@@ -162,6 +163,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Eveeye Explorer](https://eveeye.com/) - Interactive k-space maps + chain mapping.
 * [Slazangers Map Tool (SMT)](https://github.com/Slazanger/SMT) - Character/intel tracking, waypoint manipulation, live data for all your hunting/travelling needs(ratting, deaths, jumps etc) and some helpers for relic/data exploration
 * [EVE Route](https://github.com/tkhamez/eve-route) - A route planner that supports Ansiblex jump gates and wormhole connections.
+* [RIFT Intel Fusion Tool](https://riftforeve.online) - Desktop app for Windows, Linux and macOS, with intel channels monitoring, flexible alerts, advanced map, and more.
 
 #### Misc
 * [EVE SRP mail](https://github.com/jbs1/eve-srpmail) - A simple mailing tool for use in Corporations with Ship Replacement Programs. Mails from contracts.
