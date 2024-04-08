@@ -81,13 +81,14 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [IntelWalker](https://www.intelwalker.com) - A standalone application which monitors intel chat logs and acts as a five jump early warning system.
 * [EveIntelChecker](https://github.com/SebastienDuruz/Eve-Intel-Checker) - A compact desktop tool that filters relevant messages across Intel chat channels. 
 * [Eve Squadron](https://www.eve-squadron.com/) - A cross-platform Intel Tool that provides quick access to important character metrics and statistics from the copied Character-Names - fetched live from Eve and zKillboard Servers.
+* [RIFT Intel Fusion Tool](https://riftforeve.online) - Desktop app for Windows, Linux and macOS, with intel channels monitoring, flexible alerts, advanced map, and more.
+
 #### Character Management
 * [Cerebral](https://github.com/PrometheusSatyen/Cerebral) - Cerebral is a tool for monitoring your EVE Online characters.
 * [EVIE](https://spaceships.app) - EVIE is an EVE Online API interface, for either a quick overview or in-depth information about your characters. Supports adding characters from multiple accounts into one overview.
 * [EveMonk](https://evemonk.com) - EveMonk is tool for monitoring EVE Online characters info. From wallet and security status to standings. [Source code](https://github.com/evemonk/evemonk)
 * [Upwell.gg](https://upwell.gg) - Easily share structure timers with your alliance, corporation, and allies.
 * [QSNA EVE Board](https://www.qsna.eu/eve/characters) - Web based app for tracking standings, skills, queue and ship masteries.
-* [RIFT Intel Fusion Tool](https://riftforeve.online) - Desktop app for Windows, Linux and macOS, with intel channels monitoring, flexible alerts, advanced map, and more.
 
 #### Mobile Applications
 ##### Android
