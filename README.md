@@ -99,6 +99,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 ##### iOS
 * [Neocom II for EVE Online](https://itunes.apple.com/ca/app/neocom-ii-for-eve-online/id1257353838?mt=8) - View your EVE Online characters and skills, browse EVE Online items database, analyze market information, test ship fits on your iPhone/iPad or iPod Touch.
+* [EVECompanion](https://apps.apple.com/de/app/evecompanion/id6504098870) - Track your characters, skillqueues, wallet, contracts, industry jobs, assets and more directly from your iPhone. Also available for iPad and Mac.
 
 ---------
 
