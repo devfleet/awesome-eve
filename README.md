@@ -133,6 +133,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 #### Killboards
 
 * [zKillboard](https://zkillboard.com) - A website for killmail presentation and statistical aggregation.
+* [EVE-KILL](https://eve-kill.com) - A killmail tracking website.
 
 #### Killboard Utilities
 * [RedisQ](https://github.com/zKillboard/RedisQ) - A simple queue service for "pushing" killmails from zKillboard.
