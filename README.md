@@ -191,7 +191,6 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [Adam4EVE](https://www.adam4eve.eu) - A collection of PI related tools including [PI profitability](https://www.adam4eve.eu/pi_rank.php) and [PI chains](https://www.adam4eve.eu/pi_chain.php?pi2=3828)
 
 #### Skills
-
 * [SkillQ](https://skillq.net) - A simple webapp for monitoring skill queues of various characters.
 * [EVE-Skillplan.net](https://www.eve-skillplan.net) - Web based and responsive skill planner to plan and share your training using your favourite devices - PC/Mac, tablet or smartphone.
 
@@ -215,9 +214,9 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [zKillboard API](https://github.com/zKillboard/zKillboard/wiki) API provided by zKillboard, includes websocket documentation as well.
 * [Contracts Appraisal](https://app.swaggerhub.com/apis-docs/rihanshazih/contracts-appraisal) Pricing API based on public contracts, especially good for researched BPOs and BPCs.
 * [Jita SDE OpenAPI](http://sde.jita.space/) - SDE and Hoboleaks data available as JSON, accessible via OpenAPI, just like ESI!
+* [EVE Reference Data](https://docs.everef.net/datasets/reference-data.html) - A dataset which combines SDE, ESI, and Hoboleaks into one unified dataset. Available as an OpenAPI and download.
 
 #### Resources
-
 * [Official Resources](https://developers.eveonline.com/resource/resources) - CCP's developer site, including the SDE and image collection.
 * [EVE SDE Database Builder](https://forums.eveonline.com/default.aspx?g=posts&t=500859) - Customizable Window's application to import CCP's SDE into various Database formats and languages.
 * [Fuzzwork SDE Conversions](https://www.fuzzwork.co.uk/dump/) - SDE conversions, to Mysql, sqlite, postgres and CSV.
@@ -231,6 +230,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [EVE MarketWatch](https://github.com/antihax/eve-marketwatch) - Self contained market microservices that pumps market changes over a websocket.
 * [EVE Axiom](https://github.com/antihax/eve-axiom) - Self contained killmail to dogma attribute processor. Feed it ESI Killmail data and it spits out the ship, module, and drone attributes.
 * [eve-shields](https://github.com/ErikKalkoken/eve-shields) - Web service for creating Eve Online related badges for web sites and github readme's with shields.io
+* [EVE ESI Proxy](https://github.com/autonomouslogic/eve-esi-proxy/) - a proxy server on Docker for talking to the ESI, handling OAuth2, caching, rate limiting, multiples pages, etc.
 
 ---------
 
@@ -280,8 +280,8 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [EVE-Online-ESI-Posh](https://github.com/markus-lassfolk/EVE-Online-ESI-Posh) - Powershell Module for the ESI API
 * [esiJS](https://github.com/GingkathFox/esiJS) - Compact and powerful NodeJS module for the ESI API
 * [GESI](https://github.com/Blacksmoke16/GESI) - ESI library for Google Docs with auth flow
-#### SSO
 
+#### SSO
 * [Updated OAuth2](https://github.com/jbs1/oauth2-eveonline) - Updated OAuth2 composer package with extended Owner with corp details.
 * [OAUTH2](https://github.com/killmails/oauth2-eve) - OAUTH2 library for working with Eve Online's SSO
 * [omniauth-eve_online-sso](https://github.com/evemonk/omniauth-eve_online-sso) - EveOnline SSO OAuth2 Strategy for OmniAuth ([rubygems link](https://rubygems.org/gems/omniauth-eve_online-sso)).
