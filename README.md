@@ -142,6 +142,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 #### Market
 
+* [EVE Market Browser](http://evemarketbrowser.com/) - An in-game market clone: Get real time market orders and price history from everywhere in New Eden.
 * [EVE Trade](https://evetrade.space) - a tool to fill the gaps that EVE Central left behind. It allows users to find great deals when it comes to station trading or hauling. The tool will run market analysis on station to station trades as well as region to region trades (public citadels included).
 * [ISK Per Hour](https://eveiph.github.io/) EVE - Isk per Hour is a Windows program that allows players of EVE Online to determine ways to maximize their Isk per Hour through manufacturing, mining, invention, and reverse engineering.
 * [MarketBot](https://github.com/Ionaru/MarketBot) - A Discord bot for fetching the best item prices and other market data.
