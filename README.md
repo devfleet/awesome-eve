@@ -63,6 +63,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [EVEMissioneer](https://evemissioneer.com) - An EVE Online agent finder and explorer with optional SSO standings integration. Includes Faction Warfare stats and leaderboards.
 * [JitaCalendar](https://www.jita.space/calendar) - Web-based Eve calendar client. API requests done client-side; no server storage.
 * [Abyss Tracker](https://abysstracker.com) - A loot tracker specifically for the Abyss Runners in EVE Online. Share your runs and analyze them. Its connected to EVE Workbench for the fits.
+* [EVE Buddy](https://github.com/ErikKalkoken/evebuddy) - A desktop companion app for Windows, Linux and macOS: Character Management, Asset Search, PI Tracker, Desktop notifications, Mail client and more.
 
 #### EveMail
 * [Fuzzwork Mail](https://evemail.fuzzwork.co.uk) - Fuzzwork Evemail, an ESI Evemail client. Clientside based, no storage.
