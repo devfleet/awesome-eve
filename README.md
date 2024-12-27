@@ -130,6 +130,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [anoik.is](http://anoik.is/) - Wormhole info tool.  Tells you about the WH and who is probably in it.  Battles and links to zkillboard for kills.
 * [Short Circuit](https://github.com/secondfry/shortcircuit) - tool for finding shortest path between systems using Tripwire wormhole connections.
 * [Wormhole by type](https://wh-info.github.io/) - Tool and interactive sheet to identify every wormhole type in game.
+* [Public Pathfinder](https://pathfinder-eve.space/) - Popular Wormhole Mapping Tool.
 
 #### Killboards
 
