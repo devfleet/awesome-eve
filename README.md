@@ -70,6 +70,7 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 
 
 #### Fitting Tools
+* [EVEShip.fit](https://eveship.fit) - View, Create, and Share your EVE Online ship fits online.
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
 
 #### Intel
