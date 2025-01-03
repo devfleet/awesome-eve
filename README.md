@@ -59,7 +59,6 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 * [GESI](https://github.com/Blacksmoke16/GESI) - Google Sheets script to interact with ESI.
 * [Eve Fleet Simulator](https://evefleetsimulator.com/) - Simulate fleet PvP and compare/analyse fits and hulls.
 * [EVE Workbench](https://www.eveworkbench.com/) - EVE Workbench is a web based tool for the EVE community, allowing players to browse the market, create haul routes and browse & share fittings.
-* [eve-calendars.com](https://www.eve-calendars.com) - Convenient out-of-game access to character's calendar. Allows players to use their favourite calendar app on the desktop or mobile as also see events in their preferred time zone.
 * [EVEMissioneer](https://evemissioneer.com) - An EVE Online agent finder and explorer with optional SSO standings integration. Includes Faction Warfare stats and leaderboards.
 * [JitaCalendar](https://www.jita.space/calendar) - Web-based Eve calendar client. API requests done client-side; no server storage.
 * [Abyss Tracker](https://abysstracker.com) - A loot tracker specifically for the Abyss Runners in EVE Online. Share your runs and analyze them. Its connected to EVE Workbench for the fits.
@@ -86,7 +85,6 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 
 #### Character Management
 * [Cerebral](https://github.com/PrometheusSatyen/Cerebral) - Cerebral is a tool for monitoring your EVE Online characters.
-* [EVIE](https://spaceships.app) - EVIE is an EVE Online API interface, for either a quick overview or in-depth information about your characters. Supports adding characters from multiple accounts into one overview.
 * [EveMonk](https://evemonk.com) - EveMonk is tool for monitoring EVE Online characters info. From wallet and security status to standings. [Source code](https://github.com/evemonk/evemonk)
 * [Upwell.gg](https://upwell.gg) - Easily share structure timers with your alliance, corporation, and allies.
 * [QSNA EVE Board](https://www.qsna.eu/eve/characters) - Web based app for tracking standings, skills, queue and ship masteries.
@@ -94,9 +92,6 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 #### Mobile Applications
 ##### Android
 * [Evanova](https://play.google.com/store/apps/details?id=com.tlabs.android.evanova) - Character and corporation management tool featuring a fitting tool, database browsing and more.
-* [Eve Panda](https://play.google.com/store/apps/details?id=com.fnl.light.evepanda) - Manage your Eve Online characters using the ESI interface.
-* [Eve PI](https://play.google.com/store/apps/details?id=dae.evepi) - A central console for reviewing your Planetary Interaction colonies.
-* [Mining Helper](https://play.google.com/store/apps/details?id=com.randomlettersandnumbers15645151gd65fg16d5fgs46r84tserg51f3d21ger6.eveminer) - This simple app let's you select some ores and will fetch their prices in Tradehubs.
 
 ##### iOS
 * [Neocom II for EVE Online](https://itunes.apple.com/ca/app/neocom-ii-for-eve-online/id1257353838?mt=8) - View your EVE Online characters and skills, browse EVE Online items database, analyze market information, test ship fits on your iPhone/iPad or iPod Touch.
@@ -125,7 +120,6 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 
 
 #### Intel (Wormholes)
-* [Tripwire](https://tripwire.eve-apps.com/) - wormhole mapping tool
 * [GalaxyFinder](https://wormholes.new-eden.io/) - wormhole mapping and info tool
 * [anoik.is](http://anoik.is/) - Wormhole info tool.  Tells you about the WH and who is probably in it.  Battles and links to zkillboard for kills.
 * [Short Circuit](https://github.com/secondfry/shortcircuit) - tool for finding shortest path between systems using Tripwire wormhole connections.
@@ -139,7 +133,6 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 
 #### Killboard Utilities
 * [RedisQ](https://github.com/zKillboard/RedisQ) - A simple queue service for "pushing" killmails from zKillboard.
-* [RedisQ slack bot](https://github.com/Slivo-fr/RedisQ-Slack-Bot) - A PHP killbot publishing killmails on slack
 * [brcat](https://br.inyour.space/) - Tool for generating battle reports from killmails held on zKillboard.com
 
 #### Market
@@ -178,7 +171,6 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 * [jeveassets](http://eve.nikr.net/jeveasset) - Asset viewer, with market values.
 * [Eve-Files](http://www.eve-files.com/) - Upload Eve related files for sharing.
 * [EVEOTS V2](https://github.com/drkthunder02/eveotsv2/) - EVE Online Teamspeak Authenticator V2 using ESI API
-* [PHP Timerboard](https://github.com/drkthunder02/phptimerboard/) - Stand-alone PHP Timerboard
 * [EveChatNotifier](https://github.com/MyUncleSam/EveChatNotifier) - Outlook-Like Notifications for EVE Online chat
 * [skŸlizer](https://github.com/chrRtg/eve-skylizer) - Moon, Goo and SCAN analyzer - keep track and share moon-ore and scans
 * [QSNA Log Analyzer](https://www.qsna.eu/eve/log-analyzer) - Tool for loading gamelogs from game sessions and displaying statistics of game session
@@ -191,7 +183,6 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 
 #### Planetary Interaction
 
-* [EVE PI](https://play.google.com/store/apps/details?id=dae.evepi) - Android based Planetary Interaction App. Track your extractors. In active development.
 * [Adam4EVE](https://www.adam4eve.eu) - A collection of PI related tools including [PI profitability](https://www.adam4eve.eu/pi_rank.php) and [PI chains](https://www.adam4eve.eu/pi_chain.php?pi2=3828)
 
 #### Skills
