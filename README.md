@@ -14,7 +14,7 @@ Since Eve apps and websites come and go we will try to check each of the them pe
 
 #### ESI Discussion
 
-You can participate with CCP devs and third party devs by [joining Tweetfleet on Slack](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/) and hopping into the #esi channel. Do be polite.
+You can participate with CCP devs and third party devs by [joining Discord](https://eveonline.com/discord) and hopping into the #3rd-party-dev-and-esi channel. Do be polite.
 
 
 ## Table Of Contents
@@ -203,8 +203,8 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 
 #### ESI
 * [ESI - Swagger API documentation](https://esi.evetech.net/ui/) - [github repository](https://github.com/esi/esi-swagger-ui)
-* [ESI - Swagger API documentation (old/legacy webui)](https://esi.evetech.net/latest/)
 * [ESI-issues](https://github.com/esi/esi-issues) - Bug reports and feature requests for ESI
+* [ESI-docs](https://github.com/esi/esi-docs) - Documentation for ESI and other third party development resources
 * [EVE-glue](https://github.com/esi/eve-glue) - enums for transitioning from XML or CREST to ESI
 * [ESI-routes](https://github.com/esi/esi-routes) - first open source ESI endpoint
 * [ESI-bot](https://github.com/esi/esi-bot) - Tweetfleet Slack ESI bot
@@ -220,7 +220,7 @@ You can participate with CCP devs and third party devs by [joining Tweetfleet on
 * [EVE Reference Data](https://docs.everef.net/datasets/reference-data.html) - A dataset which combines SDE, ESI, and Hoboleaks into one unified dataset. Available as an OpenAPI and download.
 
 #### Resources
-* [Official Resources](https://developers.eveonline.com/resource/resources) - CCP's developer site, including the SDE and image collection.
+* [Official Resources](https://developers.eveonline.com) - CCP's developer site, including the SDE and image collection.
 * [EVE SDE Database Builder](https://forums.eveonline.com/default.aspx?g=posts&t=500859) - Customizable Window's application to import CCP's SDE into various Database formats and languages.
 * [Fuzzwork SDE Conversions](https://www.fuzzwork.co.uk/dump/) - SDE conversions, to Mysql, sqlite, postgres and CSV.
 * [Fuzzwork SDE Converter](https://github.com/fuzzysteve/yamlloader) - The conversion tool for going from the official yaml SDE to one in a DB.
