@@ -158,6 +158,7 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 * [Fuzzworks](http://www.fuzzwork.co.uk) - Fuzzworks - many very, very useful tools including but not limited to Industry, stats, calculators, and route planners. [Fuzzwork github](https://github.com/fuzzysteve/)
 * [Adam4EVE](https://www.adam4eve.eu) - A collection of industry related tools including [Manufacturing profitability](https://www.adam4eve.eu/manu_rank.php?category=6&tech=2&maxSat=100), [Reprocessing profitability](https://www.adam4eve.eu/repro_ranking.php), [Material influence](https://www.adam4eve.eu/material_influence.php), [Cost index history](https://www.adam4eve.eu/graph_costIndex.php) and more
 * [EVE Cookbook](https://www.evecookbook.com) - Industry build calculator tool with reactions support and detailed build steps
+* [EVE Guru](https://forums.eveonline.com/t/software-eve-guru-a-best-in-breed-manufacturing-planning-tool/464297) - A manufacturing planner that reduces your planning time, highlights the most profitable items to build based on JITA demand, and creates dynamic shopping lists based on the quantities and items you want to build!
 
 #### Maps
 
