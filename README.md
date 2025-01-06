@@ -115,7 +115,7 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 * [DokuWiki EveSSO Plugin](https://github.com/GoldenGnu/dokuwiki-plugin-evesso)  - DokuWiki authentication via eve online SSO and access control for corporations/alliances/factions
 
 #### Discord Tools
-* [Firetail](https://github.com/shibdib/firetail) - A discord bot that can provide killmails, price checks, group and character lookups and more..
+* [Firetail](https://github.com/ScotDex/Firetail) - A discord bot that can provide killmails, price checks, group and character lookups and more.. 
 * [Keepstar](https://github.com/shibdib/keepstar) - An easy way to authenticate discord users against their ingame persona. Restrict roles based off of corps and alliances.
 * [Opux](https://github.com/Jimmy062006/Opux) - A Discord bot that provides various lookups and killmail feeds as well as Discord Role management.
 
