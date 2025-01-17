@@ -83,6 +83,7 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 * [EveIntelChecker](https://github.com/SebastienDuruz/Eve-Intel-Checker) - A compact desktop tool that filters relevant messages across Intel chat channels. 
 * [Eve Squadron](https://www.eve-squadron.com/) - A cross-platform Intel Tool that provides quick access to important character metrics and statistics from the copied Character-Names - fetched live from Eve and zKillboard Servers.
 * [RIFT Intel Fusion Tool](https://riftforeve.online) - Desktop app for Windows, Linux and macOS, with intel channels monitoring, flexible alerts, advanced map, and more.
+* [Eve411](https://www.eve411.com) - Eve411 is a web-based character, D-scan, and Local intel tool - fetched live from ESI and zKillboard.
 
 #### Character Management
 * [Cerebral](https://github.com/PrometheusSatyen/Cerebral) - Cerebral is a tool for monitoring your EVE Online characters.
