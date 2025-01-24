@@ -114,6 +114,7 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 * [AVRSE Auth](https://github.com/skyride/avrse-auth) - An FC focussed auth system with support for discord, mumble and IPB. Handles characters/assets/skills/structure management.
 * [Neucore](https://github.com/tkhamez/neucore) - Alliance Core Services - A web application for EVE Online communities to organise their members into groups, monitor them and provide access to external services. Features include group management, an API including an ESI proxy, a plugin system, service registration (Discord, etc.), member tracking, watchlists, and more.
 * [DokuWiki EveSSO Plugin](https://github.com/GoldenGnu/dokuwiki-plugin-evesso)  - DokuWiki authentication via eve online SSO and access control for corporations/alliances/factions
+* [Keycloak EVE sso provider](https://github.com/calli-eve/keycloak-eve-sso-provider) - Keycloak EVE sso provider
 
 #### Discord Tools
 * [Firetail](https://github.com/ScotDex/Firetail) - A discord bot that can provide killmails, price checks, group and character lookups and more.. 
@@ -127,6 +128,8 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 * [Short Circuit](https://github.com/secondfry/shortcircuit) - tool for finding shortest path between systems using Tripwire wormhole connections.
 * [Wormhole by type](https://wh-info.github.io/) - Tool and interactive sheet to identify every wormhole type in game.
 * [Public Pathfinder](https://pathfinder-eve.space/) - Popular Wormhole Mapping Tool.
+* [EVEMetro](https://github.com/calli-eve/eve-metro) - Pochven wormhole mapping service.
+* [EVEMetroApi](https://github.com/calli-eve/eve-metro-api) - Public API for EVEMetro for 3rd party tools.
 
 #### Killboards
 
@@ -136,6 +139,7 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 #### Killboard Utilities
 * [RedisQ](https://github.com/zKillboard/RedisQ) - A simple queue service for "pushing" killmails from zKillboard.
 * [brcat](https://br.inyour.space/) - Tool for generating battle reports from killmails held on zKillboard.com
+* [zKillSlackBot](https://github.com/calli-eve/eve-zkill-slackbot) - Tool for forwarding kills to slack from killmails held on zKillboard.com
 
 #### Market
 
@@ -187,6 +191,7 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 #### Planetary Interaction
 
 * [Adam4EVE](https://www.adam4eve.eu) - A collection of PI related tools including [PI profitability](https://www.adam4eve.eu/pi_rank.php) and [PI chains](https://www.adam4eve.eu/pi_chain.php?pi2=3828)
+* [EVE-PI](https://github.com/calli-eve/eve-pi) - A tool to manage your PI colonies and planets.
 
 #### Skills
 * [SkillQ](https://skillq.net) - A simple webapp for monitoring skill queues of various characters.
