@@ -116,8 +116,7 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 * [DokuWiki EveSSO Plugin](https://github.com/GoldenGnu/dokuwiki-plugin-evesso)  - DokuWiki authentication via eve online SSO and access control for corporations/alliances/factions
 * [Keycloak EVE sso provider](https://github.com/calli-eve/keycloak-eve-sso-provider) - Keycloak EVE sso provider
 
-#### Discord Tools
-* [Firetail](https://github.com/ScotDex/Firetail) - A discord bot that can provide killmails, price checks, group and character lookups and more.. 
+#### Discord Tools 
 * [Keepstar](https://github.com/shibdib/keepstar) - An easy way to authenticate discord users against their ingame persona. Restrict roles based off of corps and alliances.
 * [Opux](https://github.com/Jimmy062006/Opux) - A Discord bot that provides various lookups and killmail feeds as well as Discord Role management.
 
@@ -218,6 +217,7 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 * [Contracts Appraisal](https://app.swaggerhub.com/apis-docs/rihanshazih/contracts-appraisal) Pricing API based on public contracts, especially good for researched BPOs and BPCs.
 * [Jita SDE OpenAPI](http://sde.jita.space/) - SDE and Hoboleaks data available as JSON, accessible via OpenAPI, just like ESI!
 * [EVE Reference Data](https://docs.everef.net/datasets/reference-data.html) - A dataset which combines SDE, ESI, and Hoboleaks into one unified dataset. Available as an OpenAPI and download.
+* [Open API Specs for Zkill] (https://github.com/ScotDex/zkill-api-specs) Open API Generated specs for Zkill (Not created or supported by Zkill)
 
 #### Resources
 * [Official Resources](https://developers.eveonline.com) - CCP's developer site, including the SDE and image collection.
