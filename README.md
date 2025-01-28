@@ -217,7 +217,7 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 * [Contracts Appraisal](https://app.swaggerhub.com/apis-docs/rihanshazih/contracts-appraisal) Pricing API based on public contracts, especially good for researched BPOs and BPCs.
 * [Jita SDE OpenAPI](http://sde.jita.space/) - SDE and Hoboleaks data available as JSON, accessible via OpenAPI, just like ESI!
 * [EVE Reference Data](https://docs.everef.net/datasets/reference-data.html) - A dataset which combines SDE, ESI, and Hoboleaks into one unified dataset. Available as an OpenAPI and download.
-* [Open API Specs for Zkill] (https://github.com/ScotDex/zkill-api-specs) Open API Generated specs for Zkill
+* [Open API Specs for Zkill] (https://github.com/ScotDex/zkill-api-specs) Open API Generated specs for Zkill (Not created or supported by Zkill)
 
 #### Resources
 * [Official Resources](https://developers.eveonline.com) - CCP's developer site, including the SDE and image collection.
