@@ -88,7 +88,6 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 #### Character Management
 * [Cerebral](https://github.com/PrometheusSatyen/Cerebral) - Cerebral is a tool for monitoring your EVE Online characters.
 * [EveMonk](https://evemonk.com) - EveMonk is tool for monitoring EVE Online characters info. From wallet and security status to standings. [Source code](https://github.com/evemonk/evemonk)
-* [Upwell.gg](https://upwell.gg) - Easily share structure timers with your alliance, corporation, and allies.
 * [QSNA EVE Board](https://www.qsna.eu/eve/characters) - Web based app for tracking standings, skills, queue and ship masteries.
 
 #### Mobile Applications
@@ -195,6 +194,9 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 #### Skills
 * [SkillQ](https://skillq.net) - A simple webapp for monitoring skill queues of various characters.
 * [EVE-Skillplan.net](https://www.eve-skillplan.net) - Web based and responsive skill planner to plan and share your training using your favourite devices - PC/Mac, tablet or smartphone.
+
+### Timerboards
+* [Upwell.gg](https://upwell.gg) - Easily share structure timers with your alliance, corporation, and allies.
 
 ---------
 
