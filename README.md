@@ -153,7 +153,8 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 * [Venal](https://github.com/gemoroy/venal) - A CLI alternative for [Evernus Margin tool](https://evernus.com/help/#margin_tool) aimed at quick market reconnaissance and price updating.
 * [Eve Insurance Fraud](https://github.com/skiedude/Eve-Insurance-Fraud) - Discover profitable ships from a specific regions market to buy off Sell order, insure and blow up!
 * [EVE Tycoon](https://evetycoon.com/) - A profit tracking and order management application, with a market browser.
-
+* [EVE Starweb](https://eve.starweb.cc/) - A web-based tool that provides [Market](https://eve.starweb.cc/market), [LP Store](https://eve.starweb.cc/lpstore), and [Appraisal](https://eve.starweb.cc/appraisal), with support for multiple languages.
+  
 #### Manufacturing
 
 * [Eve Cost](http://www.eve-cost.eu/calculator) - Calculate what you need to make anything and profit margins.  Also has invention and refining calculators.
