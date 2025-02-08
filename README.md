@@ -42,6 +42,7 @@ You can participate with CCP devs and third party devs by [joining Discord](http
   * [Recruitment](#recruitment)
   * [Planetary Interaction](#planetary-interaction)
   * [Skills](#skills)
+  * [Timerboards](#timerboards)
 * [Developer resources & documentation](#developer-resources--documentation)
   * [ESI](#esi)
   * [API](#api)
