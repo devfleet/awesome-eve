@@ -268,6 +268,9 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 #### Rust
 * [neweden](https://github.com/dsp/neweden) - Rust library for basic system information, wayfinding and range queries ([crates.io link](https://crates.io/crates/neweden)).
 
+#### R
+* [eveRwrapper](https://github.com/kandrsn99/eveRwrapper) - An R programming language package for the Eve Swagger Interface written as a wrapper utilizing HTTP protocols.
+
 #### .NET
 * [ESI.NET](https://github.com/seraphx2/ESI.NET) - A C# wrapper for the ESI API.
 * [EVEStandard](https://github.com/gehnster/EVEStandard) - A C# library for accessing the EVE Online ESI API. This library is .NET Standard compatible.
