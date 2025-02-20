@@ -10,6 +10,10 @@ Process to be listed:
 
 Since Eve apps and websites come and go we will try to check each of the them periodically and keep the list up to date.
 
+> [!NOTE]
+> Since February 2025, CCP provides an official spot to list 3rd party apps & tools at the [EVE Developer Documentation](https://developers.eveonline.com/docs/community/) website.
+> It takes over from this community-maintained repository as the recommended place to list your project.
+
 ---------
 
 #### ESI Discussion
