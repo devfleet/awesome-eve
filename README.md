@@ -176,6 +176,7 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 * [Slazangers Map Tool (SMT)](https://github.com/Slazanger/SMT) - Character/intel tracking, waypoint manipulation, live data for all your hunting/travelling needs(ratting, deaths, jumps etc) and some helpers for relic/data exploration
 * [EVE Route](https://github.com/tkhamez/eve-route) - A route planner that supports Ansiblex jump gates and wormhole connections.
 * [RIFT Intel Fusion Tool](https://riftforeve.online) - Desktop app for Windows, Linux and macOS, with intel channels monitoring, flexible alerts, advanced map, and more.
+* [Eden Navigator](https://navigator.contrum.space) - Navigator tool that shows gatecamps, allows path avoidance and optimization via Thera, Turnur and Pochven if you have an [EVE Metro](https://evemetro.com) susbscription.
 
 #### Misc
 * [EVE SRP mail](https://github.com/jbs1/eve-srpmail) - A simple mailing tool for use in Corporations with Ship Replacement Programs. Mails from contracts.
