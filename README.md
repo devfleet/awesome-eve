@@ -77,6 +77,7 @@ You can participate with CCP devs and third party devs by [joining Discord](http
 #### Fitting Tools
 * [EVEShip.fit](https://eveship.fit) - View, Create, and Share your EVE Online ship fits online.
 * [Pyfa](https://github.com/pyfa-org/Pyfa/releases) -  allows you to create, experiment with, and save ship fittings without being in game.
+* [Theorycrafter](https://theorycrafter.pro/) - Next-gen fitting tool for Eve Online – aims to be fast, ergonomic and intuitive.
 
 #### Intel
 * [Eve Gate Camp Check](http://eve-gatecheck.space/eve/) - Navigation specifically tuned towards kills happening at gates.
