@@ -1,6 +1,6 @@
 # Archival
 
-This repository was created on June 14, 2016, and has seen over 500 commits from dozens of contributors. It’s been a great success! Now that CCP has launched a semi-official community repository, it’s time to archive awesome-eve. Huge thanks to everyone who contributed!
+This repository was created on June 14, 2016, and has seen over 500 commits from dozens of contributors. It’s been a great success! Now that CCP has launched a [semi-official community repository](https://developers.eveonline.com/docs/community/), it’s time to archive awesome-eve. Huge thanks to everyone who contributed!
 
 # 3rd Party Apps & Tools
 
