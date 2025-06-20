@@ -1,3 +1,7 @@
+# Archival
+
+This repository was created on June 14, 2016, and has seen over 500 commits from dozens of contributors. It’s been a great success! Now that CCP has launched a semi-official community repository, it’s time to archive awesome-eve. Huge thanks to everyone who contributed!
+
 # 3rd Party Apps & Tools
 
 There are those who play Eve Online using the game's given UI and there are those who manipulate the data and create tools to work within the Eve Online Universe. This is an attempt to keep an updated and maintained list of some of the many great tools and applications.
